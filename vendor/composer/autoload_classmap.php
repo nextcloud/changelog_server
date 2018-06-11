@@ -6,4 +6,9 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
+    'ChangelogServer\\Exceptions\\InvalidVersion' => $baseDir . '/src/Exceptions/InvalidVersion.php',
+    'ChangelogServer\\Request' => $baseDir . '/src/Request.php',
+    'ChangelogServer\\Response' => $baseDir . '/src/Response.php',
+    'Tests\\RequestTest' => $baseDir . '/tests/unit/RequestTest.php',
+    'Tests\\ResponseTest' => $baseDir . '/tests/unit/ResponseTest.php',
 );

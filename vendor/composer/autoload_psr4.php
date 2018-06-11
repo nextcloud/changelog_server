@@ -6,6 +6,6 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
-    'UpdateServer\\' => array($baseDir . '/src'),
     'Tests\\' => array($baseDir . '/tests/unit'),
+    'ChangelogServer\\' => array($baseDir . '/src'),
 );

@@ -6,11 +6,12 @@
   },
   "autoload": {
     "psr-4": {
-      "UpdateServer\\": "src/",
+      "ChangelogServer\\": "src/",
       "Tests\\": "tests/unit"
     }
   },
   "require-dev": {
-    "behat/behat": "~3.0.4"
+    "behat/behat": "~3.0.4",
+    "phpunit/phpunit": "^6.5"
   }
 }
