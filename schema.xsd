@@ -36,8 +36,7 @@
             <xs:element name="item" minOccurs="1" maxOccurs="3">
                 <xs:simpleType>
                     <xs:restriction base="xs:string">
-                        <xs:maxLength value="100"/>
-                        <xs:minLength value="10"/>
+                        <xs:minLength value="1"/>
                     </xs:restriction>
                 </xs:simpleType>
             </xs:element>
