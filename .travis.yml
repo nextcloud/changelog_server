@@ -8,6 +8,10 @@ php:
   - 7.1
   - 7.2
 
+before_install:
+  - sudo apt-get -qq update
+  - sudo apt-get install -y libxml2-utils
+
 install:
   - composer install
 
@@ -17,3 +21,4 @@ before_script:
 script:
   #- sh -c "cd tests/integration/ && ../../vendor/bin/behat ."
   - sh -c "cd tests/unit/ && ../../vendor/bin/phpunit ."
+  - xmllint --noout --schema schema.xsd data/*
