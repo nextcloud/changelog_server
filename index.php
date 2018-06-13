@@ -26,7 +26,7 @@ if(!isset($_GET['version']) || !is_string($_GET['version'])) {
 
 // Parse the request
 try {
-	$etag = $_SERVER['HTTP_IF_NONE_MATCH'] ?: '';
+	$etag = isset($_SERVER['HTTP_IF_NONE_MATCH']) ? $_SERVER['HTTP_IF_NONE_MATCH'] : '';
 	$request = new \ChangelogServer\Request($_GET['version'], $etag);
 } catch (\ChangelogServer\Exceptions\InvalidVersion $e) {
 	header('HTTP/1.1 400 Bad Request');
