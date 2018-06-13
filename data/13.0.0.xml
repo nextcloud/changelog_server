@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <release xmlns:xsi= "http://www.w3.org/2001/XMLSchema-instance"
-         xsi:noNamespaceSchemaLocation="../../schema.xsd"
+         xsi:noNamespaceSchemaLocation="../schema.xsd"
          version="13.0.0">
     <changelog href="https://nextcloud.com/changelog/#13-0-0"/>
     <whatsNew lang="en">
