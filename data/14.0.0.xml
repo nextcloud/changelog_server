@@ -12,7 +12,7 @@
         <admin>
             <item>Improved GDPR compliance capabilities with terms &amp; conditions app and separate audit log</item>
             <item>Next generation of federated, cross-cloud sharing collaboration: Federation 2.0</item>
-            <item>Swiftv3 auth support, logging to systemd, PHP 7.3 compat, Kerberos auth to Samba &amp; multi-IdP SAML</item>
+            <item>Swiftv3 auth support, logging to systemd, Kerberos auth to Samba &amp; multi-IdP SAML</item>
         </admin>
     </whatsNew>
 </release>
