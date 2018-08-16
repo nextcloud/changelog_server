@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<release xmlns:xsi= "http://www.w3.org/2001/XMLSchema-instance"
+         xsi:noNamespaceSchemaLocation="../schema.xsd"
+         version="14.0.0">
+    <changelog href="https://nextcloud.com/changelog/#14-0-0" />
+    <whatsNew lang="en">
+        <regular>
+            <item>Verify the identity of a share recipient in a video call; and 2FA with Signal &amp; Telegram</item>
+            <item>Add a note to shares, see pending &amp; deleted shares and search for files by content of comments</item>
+            <item>Accessibility improvements including dark &amp; high contrast themes and a dyslectic font</item>
+        </regular>
+        <admin>
+            <item>Improved GDPR compliance capabilities with terms &amp; conditions app and separate audit log</item>
+            <item>Next generation of federated, cross-cloud sharing collaboration: Federation 2.0</item>
+            <item>Swiftv3 auth support, logging to systemd, Kerberos auth to Samba &amp; multi-IdP SAML</item>
+        </admin>
+    </whatsNew>
+</release>
