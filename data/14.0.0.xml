@@ -5,14 +5,14 @@
     <changelog href="https://nextcloud.com/changelog/#14-0-0" />
     <whatsNew lang="en">
         <regular>
-            <item>Verify identity of a share recipient in a video call; 2FA with Signal &amp; Telegram</item>
-            <item>Add a note to shares; see pending &amp; deleted shares; search for files by content of comments</item>
-            <item>Accessibility improvements including dark &amp; high contrast themes and dyslectic font</item>
+            <item>Verify a share recipient in a video call; 2FA with Signal &amp; Telegram</item>
+            <item>Add a note to shares; extended share views; search by comments</item>
+            <item>Accessibility improvements including high contrast theme</item>
         </regular>
         <admin>
-            <item>Improved GDPR compliance with terms &amp; conditions app; separate audit log</item>
-            <item>Next generation federated, cross-cloud sharing collaboration</item>
-            <item>Swiftv3 auth support; logging to systemd; Kerberos auth to Samba &amp; multi-IdP SAML</item>
+            <item>Requires PHP >= 7.0, log format, syslog tag &amp; nginx config changed</item>
+            <item>Improved GDPR compliance through apps; separate audit log</item>
+            <item>Kerberos auth to Samba; multi-IdP SAML</item>
         </admin>
     </whatsNew>
 </release>
