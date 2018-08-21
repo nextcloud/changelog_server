@@ -1,0 +1,9 @@
+[main]
+host = https://www.transifex.com
+lang_map = bg_BG: bg, cs_CZ: cs, fi_FI: fi, hu_HU: hu, nb_NO: nb, sk_SK: sk, th_TH: th, ja_JP: ja
+
+[nextcloud.changelog_server]
+file_filter = translationfiles/<lang>/changelog_server.po
+source_file = translationfiles/changelog_server.pot
+source_lang = en
+type = PO
