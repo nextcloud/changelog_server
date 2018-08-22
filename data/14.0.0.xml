@@ -13,6 +13,30 @@
       <item>Kerberos auth to Samba; multi-IdP SAML</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="de">
+    <regular>
+      <item>Überprüfung des Freigabe-Empfängers im Videochat; 2FA über Signal &amp; Telegram</item>
+      <item>Notizen für Freigaben hinzufügen; erweiterte Freigaben-Ansichten; Suche in Kommentaren</item>
+      <item>Verbesserte Barrierefreiheit einschließlich eines Hochkontrastthemas </item>
+    </regular>
+    <admin>
+      <item>Benötigt PHP &gt;= 7.0, log format, syslog tag &amp; nginx Konfiguration geändert</item>
+      <item>Verbesserte GDPR-Konformität durch Apps und separatem Audit-Log</item>
+      <item>Kerberos-Authentifizierung gegen Samba; Multi-IdP-SAML</item>
+    </admin>
+  </whatsNew>
+  <whatsNew lang="de_DE">
+    <regular>
+      <item>Überprüfung des Freigabe-Empfängers im Videochat; 2FA über Signal &amp; Telegram</item>
+      <item>Notizen für Freigaben hinzufügen; erweiterte Freigaben-Ansichten; Suche in Kommentaren</item>
+      <item>Verbesserte Barrierefreiheit einschließlich eines Hochkontrastthemas </item>
+    </regular>
+    <admin>
+      <item>Benötigt PHP &gt;= 7.0, log format, syslog tag &amp; nginx Konfiguration geändert</item>
+      <item>Verbesserte GDPR-Konformität durch Apps und separatem Audit-Log</item>
+      <item>Kerberos-Authentifizierung gegen Samba; Multi-IdP-SAML</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="pt_BR">
     <regular>
       <item>Verificar um destinatário de compartilhamento em uma videochamada; 2FA com Signal &amp; Telegram</item>
