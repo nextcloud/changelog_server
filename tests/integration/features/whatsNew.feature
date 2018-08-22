@@ -21,25 +21,23 @@ Feature: testing the response of the Changelog Server
     Given the version of interest is "13.0.0"
     When the request is sent
     Then the return code is "200"
-    And the received Etag is "eb7e047b4d0f16fc6de0859abc74a3f1"
+    And the received Etag is "3fb8717553d719e65caa0eafcee0b191"
     And the response is
     """
-    <?xml version="1.0" encoding="utf-8" ?>
-    <release xmlns:xsi= "http://www.w3.org/2001/XMLSchema-instance"
-             xsi:noNamespaceSchemaLocation="../schema.xsd"
-             version="13.0.0">
-        <changelog href="https://nextcloud.com/changelog/#13-0-0"/>
-        <whatsNew lang="en">
-            <regular>
-                <item>Refined user interface</item>
-                <item>End-to-end Encryption</item>
-                <item>Video and Text Chat</item>
-            </regular>
-            <admin>
-                <item>Changes to the Nginx configuration</item>
-                <item>Theming: CSS files were consolidated</item>
-            </admin>
-        </whatsNew>
+    <?xml version="1.0" encoding="utf-8"?>
+    <release xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../schema.xsd" version="13.0.0">
+      <changelog href="https://nextcloud.com/changelog/#13-0-0"/>
+      <whatsNew lang="en">
+        <regular>
+          <item>Refined user interface</item>
+          <item>End-to-end Encryption</item>
+          <item>Video and Text Chat</item>
+        </regular>
+        <admin>
+          <item>Changes to the Nginx configuration</item>
+          <item>Theming: CSS files were consolidated</item>
+        </admin>
+      </whatsNew>
     </release>
     """
 
@@ -47,18 +45,18 @@ Feature: testing the response of the Changelog Server
     Given the version of interest is "14.0.0"
     When the request is sent
     Then the return code is "200"
-    And the received Etag is "86fbfac10d9dfc51b82acec847d2ae58"
+    And the received Etag is "1cb8496aba7de138528af2206fddaf35"
 
   Scenario: Request against a valid version with matching an valid etag
     Given the version of interest is "13.0.0"
-    And the known Etag is "eb7e047b4d0f16fc6de0859abc74a3f1"
+    And the known Etag is "3fb8717553d719e65caa0eafcee0b191"
     When the request is sent
     Then the return code is "304"
     And the response is empty
 
   Scenario: Request against a valid version with matching an valid etag
     Given the version of interest is "14.0.0"
-    And the known Etag is "86fbfac10d9dfc51b82acec847d2ae58"
+    And the known Etag is "1cb8496aba7de138528af2206fddaf35"
     When the request is sent
     Then the return code is "304"
     And the response is empty
@@ -68,31 +66,29 @@ Feature: testing the response of the Changelog Server
     And the known Etag is "abcdefabcdef00011122233344455566"
     When the request is sent
     Then the return code is "200"
-    And the received Etag is "86fbfac10d9dfc51b82acec847d2ae58"
+    And the received Etag is "1cb8496aba7de138528af2206fddaf35"
 
   Scenario: Request against a valid version with outdated etag
     Given the version of interest is "13.0.0"
     And the known Etag is "abcdefabcdef00011122233344455566"
     When the request is sent
     Then the return code is "200"
-    And the received Etag is "eb7e047b4d0f16fc6de0859abc74a3f1"
+    And the received Etag is "3fb8717553d719e65caa0eafcee0b191"
     And the response is
     """
-    <?xml version="1.0" encoding="utf-8" ?>
-    <release xmlns:xsi= "http://www.w3.org/2001/XMLSchema-instance"
-             xsi:noNamespaceSchemaLocation="../schema.xsd"
-             version="13.0.0">
-        <changelog href="https://nextcloud.com/changelog/#13-0-0"/>
-        <whatsNew lang="en">
-            <regular>
-                <item>Refined user interface</item>
-                <item>End-to-end Encryption</item>
-                <item>Video and Text Chat</item>
-            </regular>
-            <admin>
-                <item>Changes to the Nginx configuration</item>
-                <item>Theming: CSS files were consolidated</item>
-            </admin>
-        </whatsNew>
+    <?xml version="1.0" encoding="utf-8"?>
+    <release xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../schema.xsd" version="13.0.0">
+      <changelog href="https://nextcloud.com/changelog/#13-0-0"/>
+      <whatsNew lang="en">
+        <regular>
+          <item>Refined user interface</item>
+          <item>End-to-end Encryption</item>
+          <item>Video and Text Chat</item>
+        </regular>
+        <admin>
+          <item>Changes to the Nginx configuration</item>
+          <item>Theming: CSS files were consolidated</item>
+        </admin>
+      </whatsNew>
     </release>
     """
