@@ -12,4 +12,37 @@
       <item>Theming: CSS files were consolidated</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="de">
+    <regular>
+      <item>Verfeinerte Benutzeroberfläche</item>
+      <item>Ende-zu-Ende-Verschlüsselung</item>
+      <item>Video- und Text-Chat</item>
+    </regular>
+    <admin>
+      <item>Änderungen an der Nginx-Konfiguration</item>
+      <item>Theming: CSS-Dateien wurden konsolidiert</item>
+    </admin>
+  </whatsNew>
+  <whatsNew lang="de_DE">
+    <regular>
+      <item>Verfeinerte Benutzeroberfläche</item>
+      <item>Ende-zu-Ende-Verschlüsselung</item>
+      <item>Video- und Text-Chat</item>
+    </regular>
+    <admin>
+      <item>Änderungen an der Nginx-Konfiguration</item>
+      <item>Theming: CSS-Dateien wurden konsolidiert</item>
+    </admin>
+  </whatsNew>
+  <whatsNew lang="pt_BR">
+    <regular>
+      <item>Interface de usuário refinada</item>
+      <item>Criptografia de ponta-a-ponta</item>
+      <item>Bate-papo por vídeo e texto</item>
+    </regular>
+    <admin>
+      <item>Alterações na configuração do Nginx</item>
+      <item>Themas: arquivos CSS foram consolidados</item>
+    </admin>
+  </whatsNew>
 </release>
