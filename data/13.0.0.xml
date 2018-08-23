@@ -34,6 +34,39 @@
       <item>Theming: CSS-Dateien wurden konsolidiert</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="es">
+    <regular>
+      <item>Interfaz de usuario refinada</item>
+      <item>Cifrado de extremo a extremo</item>
+      <item>Chat de texto y vídeo</item>
+    </regular>
+    <admin>
+      <item>Cambios a la configuración de Nginx</item>
+      <item>Temas: se han consolidado los archivos CSS</item>
+    </admin>
+  </whatsNew>
+  <whatsNew lang="fi">
+    <regular>
+      <item>Paranneltu käyttöliittymä</item>
+      <item>Päästä päähän -salaus</item>
+      <item>Video- ja tekstikeskustelu</item>
+    </regular>
+    <admin>
+      <item>Muutoksia Nginx-kokoonpanoon</item>
+      <item>Teemat: CSS-tiedostoja yhdistettiin</item>
+    </admin>
+  </whatsNew>
+  <whatsNew lang="it">
+    <regular>
+      <item>Interfaccia utente rifinita</item>
+      <item>Cifratura end-to-end</item>
+      <item>Chat video e testuale</item>
+    </regular>
+    <admin>
+      <item>Modifiche alla configurazione di Nginx</item>
+      <item>Temi: i file CSS sono stati unificati</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="pt_BR">
     <regular>
       <item>Interface de usuário refinada</item>
@@ -43,6 +76,17 @@
     <admin>
       <item>Alterações na configuração do Nginx</item>
       <item>Themas: arquivos CSS foram consolidados</item>
+    </admin>
+  </whatsNew>
+  <whatsNew lang="ru">
+    <regular>
+      <item>Улучшенный пользовательский интерфейс;</item>
+      <item>Оконечное шифрование;</item>
+      <item>Чат и видеовызовы;</item>
+    </regular>
+    <admin>
+      <item>Изменения в параметрах конфигурации Nginx;</item>
+      <item>Поддержка стилей оформления: объединение CSS-файлов;</item>
     </admin>
   </whatsNew>
 </release>

@@ -37,6 +37,18 @@
       <item>Kerberos-Authentifizierung gegen Samba; Multi-IdP-SAML</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="it">
+    <regular>
+      <item>Verifica il destinatario di una condivisione in una chiamata video; 2FA con Signal e Telegram</item>
+      <item>Aggiungi una nota alle condivisioni; viste estese delle condivisioni; ricerca per commenti</item>
+      <item>Miglioramenti di accessibilità che includono un tema ad alto contrasto</item>
+    </regular>
+    <admin>
+      <item>Richiede PHP &gt;= 7.0, formato dei log, tag di syslog e configurazione di nginx modificati</item>
+      <item>Capacità migliorate di conformità al GDPR tramite applicazioni; log di audit separati</item>
+      <item>Autenticazione Kerberos in Samba; SAML multi-IdP</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="pt_BR">
     <regular>
       <item>Verificar um destinatário de compartilhamento em uma videochamada; 2FA com Signal &amp; Telegram</item>
@@ -47,6 +59,18 @@
       <item>Requer PHP&gt; = 7.0, log, rótulo syslog &amp; config nginx alterado</item>
       <item>Melhor conformidade com o GDPR por meio de aplicativos; log de auditoria separado</item>
       <item>Autenticação Kerberos ao Samba; multi-IdP SAML</item>
+    </admin>
+  </whatsNew>
+  <whatsNew lang="ru">
+    <regular>
+      <item>Проверка подлинности получателя общего ресурса с помощью видеовызова; Использование мессенджеров Signal и Telegram для двухфакторной авторизации;</item>
+      <item>Возможность добавлять описания общих ресурсов; Расширенный режим просмотра общих ресурсов; Поиск по комментариям:</item>
+      <item>Улучшения для работы людей с ограниченными возможностями, в том числе высококонтрастный стиль оформления;</item>
+    </regular>
+    <admin>
+      <item>Минимальная поддерживаемая версия PHP 7.0; изменения формата журнала, шаблонов записи в системный журнал и конфигурации nginx;</item>
+      <item>Улучшения для соответствия требованиям GDPR для приложений;  Отдельный журнал аудита;</item>
+      <item>Поддержка проверка подлинности Kerberos для протокола Samba; Поддержка язык разметки декларации безопасности (SAML) для множественных поставщиков учётных записей;</item>
     </admin>
   </whatsNew>
 </release>
