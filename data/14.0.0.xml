@@ -73,4 +73,16 @@
       <item>Поддержка проверка подлинности Kerberos для протокола Samba; Поддержка язык разметки декларации безопасности (SAML) для множественных поставщиков учётных записей;</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="tr">
+    <regular>
+      <item>Görüntülü görüşme sırasında bir paylaşım alıcısının kimliğini doğrulama; Signal ve Telegram için iki aşamalı kimlik doğrulaması</item>
+      <item>Paylaşımlara not ekleme; gelişmiş paylaşım görünümleri; yorum içeriklerine göre dosya arama</item>
+      <item>Engelliler için yüksek karşıtlık teması da dahil iyileştirmeler</item>
+    </regular>
+    <admin>
+      <item>PHP ve üzeri gerekli, günlük biçimi, syslog kod imi ve nginx yapılandırması değiştirildi</item>
+      <item>Uygulamaların Genel Veri Koruma Yönetmeliği uyumluluğu geliştirildi; denetim günlüğü ayrıldı</item>
+      <item>Samba için Kerberos kimlik doğrulaması; multi-IdP SAML</item>
+    </admin>
+  </whatsNew>
 </release>

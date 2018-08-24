@@ -89,4 +89,15 @@
       <item>Поддержка стилей оформления: объединение CSS-файлов;</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="tr">
+    <regular>
+      <item>Kullanıcı ara yüzü düzenlendi</item>
+      <item>Uçtan uca şifreleme eklendi</item>
+      <item>Görüntülü ve yazılı görüşme</item>
+    </regular>
+    <admin>
+      <item>Nginx yapılandırması değiştirildi</item>
+      <item>Tema: CSS dosyaları birleştirildi</item>
+    </admin>
+  </whatsNew>
 </release>
