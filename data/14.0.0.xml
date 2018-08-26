@@ -39,9 +39,9 @@
   </whatsNew>
   <whatsNew lang="es">
     <regular>
-      <item>Verify a share recipient in a video call; 2FA with Signal &amp; Telegram</item>
-      <item>Add a note to shares; extended share views; search by comments</item>
-      <item>Accessibility improvements including high contrast theme</item>
+      <item>Verifica el receptor de un recurso compartido en una llamada de vídeo; 2FA con Signal y Telegram</item>
+      <item>Añade una nota a los recursos compartidos; vistas extendidas de los compartidos; búsqueda por comentarios</item>
+      <item>Mejoras de accesibilidad que incluyen un tema de alto contraste</item>
     </regular>
     <admin>
       <item>Requiere PHP &gt;=7.0, formato de registro, etiqueta del registro de sistema y configuración de nginx cambiados</item>
