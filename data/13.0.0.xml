@@ -56,6 +56,17 @@
       <item>Teemat: CSS-tiedostoja yhdistettiin</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="fr">
+    <regular>
+      <item>Interface utilisateur améliorée</item>
+      <item>Chiffrement de bout en bout</item>
+      <item>Vidéo et chat textuel</item>
+    </regular>
+    <admin>
+      <item>Changements de la configuration Nginx</item>
+      <item>Thème : Les fichiers CSS ont été améliorés</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="it">
     <regular>
       <item>Interfaccia utente rifinita</item>
