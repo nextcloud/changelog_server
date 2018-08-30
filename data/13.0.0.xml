@@ -111,4 +111,15 @@
       <item>Tema: CSS dosyaları birleştirildi</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="uk">
+    <regular>
+      <item>Оновлено інтерфейс користувача</item>
+      <item>End-to-end шифрування </item>
+      <item>Відео і текстовий чат</item>
+    </regular>
+    <admin>
+      <item>Зміни у конфігурації Nginx</item>
+      <item>Теми: файли CSS були об'єднані</item>
+    </admin>
+  </whatsNew>
 </release>

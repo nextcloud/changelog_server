@@ -109,4 +109,16 @@
       <item>Samba için Kerberos kimlik doğrulaması; multi-IdP SAML</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="uk">
+    <regular>
+      <item>Перевірка доступності отримувача у відеодзвінкі; двухфакторна аутентифікація з Signal і Telegram</item>
+      <item>Додати примітку до спільного ресурсу; розширений перегляд спільного ресурсу; пошук за відгуками</item>
+      <item>Покращення у доступності для людей з обмеженнями включаючи тему високої контрастності</item>
+    </regular>
+    <admin>
+      <item>Вимагається PHP &gt;= 7.0, формат журналу, мітку syslog і конфігурація nginx змінено.</item>
+      <item>Покращена сумісність GDPR через додатки; окремий журнал аудиту</item>
+      <item>Авторизація Kerberos у Samba; multi-IdP SAML</item>
+    </admin>
+  </whatsNew>
 </release>
