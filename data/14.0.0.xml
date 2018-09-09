@@ -109,6 +109,18 @@
       <item>Поддержка проверка подлинности Kerberos для протокола Samba; Поддержка язык разметки декларации безопасности (SAML) для множественных поставщиков учётных записей;</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="sr">
+    <regular>
+      <item>Провера примаоца дељења кроз видео позив; Двофакторска провера идентитета преко Сигнала &amp; Телеграма</item>
+      <item>Додавање белешке дељењу; проширени преглед код дељења; претрага по коментарима</item>
+      <item>Побољшања у приступачности укључујући и тему великог контраста</item>
+    </regular>
+    <admin>
+      <item>Захтева PHP &gt;= 7.0, log format, syslog tag &amp; измене nginx конфигурације</item>
+      <item>Побољшана придржавање GPDR-у кроз апликације; одвојени контролни дневници </item>
+      <item>Керберос провера идентитета на Самбу; multi-IdP SAML</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="tr">
     <regular>
       <item>Görüntülü görüşme sırasında bir paylaşım alıcısının kimliğini doğrulama; Signal ve Telegram için iki aşamalı kimlik doğrulaması</item>
