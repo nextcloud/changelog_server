@@ -78,6 +78,17 @@
       <item>Temi: i file CSS sono stati unificati</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="nl">
+    <regular>
+      <item>Verfijnde gebruikersinterface</item>
+      <item>Begin-tot-eind versleuteling</item>
+      <item>Video en tekstgesprekken</item>
+    </regular>
+    <admin>
+      <item>Wijzigingen aan de Nginx configuratie</item>
+      <item>Thema's: CSS bestanden werden samengevoegd</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="pl">
     <regular>
       <item>Udoskonalony interfejs użytkownika</item>
