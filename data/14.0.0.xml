@@ -76,8 +76,8 @@
   <whatsNew lang="nl">
     <regular>
       <item>Verifier een share ontvanger in een videogesprek; 2FA met Signal &amp; Telegram</item>
-      <item>Add a note to shares; extended share views; search by comments</item>
-      <item>Accessibility improvements including high contrast theme</item>
+      <item>Voeg een notitie toe aan shares; uitgebreide share-overzichten; zoeken in reacties</item>
+      <item>Toegankelijkheidsverbeteringen, inclusief hoog-contrast thema</item>
     </regular>
     <admin>
       <item>Vereist PHP &gt;= 7.0, log formaat, syslog tag &amp; nginx config zijn gewijzigd</item>
