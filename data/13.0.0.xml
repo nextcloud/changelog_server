@@ -12,6 +12,17 @@
       <item>Theming: CSS files were consolidated</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="cs">
+    <regular>
+      <item>Vylepšené uživatelské rozhraní</item>
+      <item>Šifrování mezi koncovými body</item>
+      <item>Video a textový chat</item>
+    </regular>
+    <admin>
+      <item>Změny do nastavení Nginx</item>
+      <item>Opatřování vzhledem: CSS soubory byly konsolidovány</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="de">
     <regular>
       <item>Verfeinerte Benutzeroberfläche</item>

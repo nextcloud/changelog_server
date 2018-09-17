@@ -13,6 +13,18 @@
       <item>Kerberos auth to Samba; multi-IdP SAML</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="cs">
+    <regular>
+      <item>Ověřit příjemce sdílení ve videohovoru; 2FA pomocí Signal &amp; Telegram</item>
+      <item>Přidat ke sdílením poznámku; rozšiřuje zobrazení sdílení; hledání podle komentářů</item>
+      <item>Zlepšení přístupnosti pro hendikepované, včetně vzhledu s vysokým kontrastem</item>
+    </regular>
+    <admin>
+      <item>Vyžaduje PHP verze 7.0 a novější – formát záznamu událostí, štítek v syslog a nastavení pro nginx se změnila</item>
+      <item>Zlepšený soulad s nařízením GDPR prostřednictvím aplikací; oddělený auditní záznam</item>
+      <item>Kerberos ověřování k Samba; multi-IdP SAML</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="de">
     <regular>
       <item>Überprüfung des Freigabe-Empfängers im Videochat; 2FA über Signal &amp; Telegram</item>
