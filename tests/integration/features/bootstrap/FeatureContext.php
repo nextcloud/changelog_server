@@ -75,28 +75,15 @@ class FeatureContext implements SnippetAcceptingContext {
 	}
 
 	/**
-	 * @Given /^the received Etag is "([^"]*)"$/
+	 * @Given /^the response contains$/
 	 * @throws Exception
 	 */
-	public function theReceivedEtagIs($expectedEtag)
+	public function theResponseContains(\Behat\Gherkin\Node\PyStringNode $expectedResponse)
 	{
-		if($expectedEtag !== $this->responseEtag) {
-			throw new \Exception(
-				'Etag was expected to be ' . $expectedEtag
-				. ', but actually is ' . $this->responseEtag
-			);
-		}
-	}
+		if(strpos(trim($this->responseBody),trim($expectedResponse)) === false) {
 
-	/**
-	 * @Given /^the response is$/
-	 * @throws Exception
-	 */
-	public function theResponseIs(\Behat\Gherkin\Node\PyStringNode $expectedResponse)
-	{
-		if(trim($expectedResponse) !== trim($this->responseBody)) {
 			throw new \Exception(
-				'The response body was expected to be ' . $expectedResponse
+				'The response body was expected to contain ' . $expectedResponse
 				. ', but actually is ' . $this->responseBody
 			);
 		}
@@ -116,5 +103,13 @@ class FeatureContext implements SnippetAcceptingContext {
 	public function theKnownEtagIs($etag)
 	{
 		$this->knownEtag = $etag;
+	}
+
+	/**
+	 * @Given /^remembering the received Etag$/
+	 */
+	public function rememberingTheReceivedEtag()
+	{
+		$this->knownEtag = $this->responseEtag;
 	}
 }

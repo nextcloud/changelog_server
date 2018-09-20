@@ -21,11 +21,8 @@ Feature: testing the response of the Changelog Server
     Given the version of interest is "13.0.0"
     When the request is sent
     Then the return code is "200"
-    And the received Etag is "3fb8717553d719e65caa0eafcee0b191"
-    And the response is
+    And the response contains
     """
-    <?xml version="1.0" encoding="utf-8"?>
-    <release xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../schema.xsd" version="13.0.0">
       <changelog href="https://nextcloud.com/changelog/#13-0-0"/>
       <whatsNew lang="en">
         <regular>
@@ -38,46 +35,58 @@ Feature: testing the response of the Changelog Server
           <item>Theming: CSS files were consolidated</item>
         </admin>
       </whatsNew>
-    </release>
     """
 
   Scenario: Request against a valid version, expecting info
     Given the version of interest is "14.0.0"
     When the request is sent
     Then the return code is "200"
-    And the received Etag is "1cb8496aba7de138528af2206fddaf35"
-
-  Scenario: Request against a valid version with matching an valid etag
-    Given the version of interest is "13.0.0"
-    And the known Etag is "3fb8717553d719e65caa0eafcee0b191"
-    When the request is sent
-    Then the return code is "304"
-    And the response is empty
-
-  Scenario: Request against a valid version with matching an valid etag
-    Given the version of interest is "14.0.0"
-    And the known Etag is "1cb8496aba7de138528af2206fddaf35"
-    When the request is sent
-    Then the return code is "304"
-    And the response is empty
-
-  Scenario: Request against a valid version with outdated etag
-    Given the version of interest is "14.0.0"
-    And the known Etag is "abcdefabcdef00011122233344455566"
-    When the request is sent
-    Then the return code is "200"
-    And the received Etag is "1cb8496aba7de138528af2206fddaf35"
-
-  Scenario: Request against a valid version with outdated etag
-    Given the version of interest is "13.0.0"
-    And the known Etag is "abcdefabcdef00011122233344455566"
-    When the request is sent
-    Then the return code is "200"
-    And the received Etag is "3fb8717553d719e65caa0eafcee0b191"
-    And the response is
+    And the response contains
     """
-    <?xml version="1.0" encoding="utf-8"?>
-    <release xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../schema.xsd" version="13.0.0">
+      <changelog href="https://nextcloud.com/changelog/#14-0-0"/>
+      <whatsNew lang="en">
+        <regular>
+          <item>Verify a share recipient in a video call; 2FA with Signal &amp; Telegram</item>
+          <item>Add a note to shares; extended share views; search by comments</item>
+          <item>Accessibility improvements including high contrast theme</item>
+        </regular>
+        <admin>
+          <item>Requires PHP &gt;= 7.0, log format, syslog tag &amp; nginx config changed</item>
+          <item>Improved GDPR compliance through apps; separate audit log</item>
+          <item>Kerberos auth to Samba; multi-IdP SAML</item>
+        </admin>
+      </whatsNew>
+    """
+
+  Scenario: Request against a valid version with matching an valid etag
+    Given the version of interest is "13.0.0"
+    And the request is sent
+    And remembering the received Etag
+    When the request is sent
+    Then the return code is "304"
+    And the response is empty
+
+  Scenario: Request against a valid version with matching an valid etag
+    Given the version of interest is "14.0.0"
+    And the request is sent
+    And remembering the received Etag
+    When the request is sent
+    Then the return code is "304"
+    And the response is empty
+
+  Scenario: Request against a valid version with outdated etag
+    Given the version of interest is "14.0.0"
+    And the known Etag is "abcdefabcdef00011122233344455566"
+    When the request is sent
+    Then the return code is "200"
+
+  Scenario: Request against a valid version with outdated etag
+    Given the version of interest is "13.0.0"
+    And the known Etag is "abcdefabcdef00011122233344455566"
+    When the request is sent
+    Then the return code is "200"
+    And the response contains
+    """
       <changelog href="https://nextcloud.com/changelog/#13-0-0"/>
       <whatsNew lang="en">
         <regular>
@@ -90,5 +99,4 @@ Feature: testing the response of the Changelog Server
           <item>Theming: CSS files were consolidated</item>
         </admin>
       </whatsNew>
-    </release>
     """
