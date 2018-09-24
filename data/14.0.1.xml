@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<release xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../schema.xsd" version="14.0.1">
+    <changelog href="https://nextcloud.com/changelog/#14-0-1"/>
+    <whatsNew lang="en">
+        <regular>
+            <item>Several detail improvements in the user interface</item>
+            <item>e.g. light icons with the dark theme</item>
+            <item>or avoid overlapping the submit button in comments</item>
+        </regular>
+        <admin>
+            <item>Treated issues with uncommon user IDs</item>
+            <item>Fixed web logout on OAuth use</item>
+            <item>Resolved false positive in server setup check</item>
+        </admin>
+    </whatsNew>
+</release>
