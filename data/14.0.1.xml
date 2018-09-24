@@ -4,6 +4,8 @@
     <whatsNew lang="en">
         <regular>
             <item>Several detail improvements in the user interface</item>
+            <item>e.g. light icons with the dark theme</item>
+            <item>or avoid overlapping the submit button in comments</item>
         </regular>
         <admin>
             <item>Treated issues with uncommon user IDs</item>
