@@ -56,17 +56,6 @@
       <item>Temas: se han consolidado los archivos CSS</item>
     </admin>
   </whatsNew>
-  <whatsNew lang="fi">
-    <regular>
-      <item>Paranneltu käyttöliittymä</item>
-      <item>Päästä päähän -salaus</item>
-      <item>Video- ja tekstikeskustelu</item>
-    </regular>
-    <admin>
-      <item>Muutoksia Nginx-kokoonpanoon</item>
-      <item>Teemat: CSS-tiedostoja yhdistettiin</item>
-    </admin>
-  </whatsNew>
   <whatsNew lang="fr">
     <regular>
       <item>Interface utilisateur améliorée</item>
