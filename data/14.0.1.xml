@@ -13,4 +13,52 @@
       <item>Resolved false positive in server setup check</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="de">
+    <regular>
+      <item>Diverse Detailverbesserungen in der Benutzeroberfläche</item>
+      <item>Z.B. helle Symbole mit dem dunklen Thema</item>
+      <item>oder die Überlappung des Bestätigungs-Button in Kommentaren behoben</item>
+    </regular>
+    <admin>
+      <item>Behandelte Probleme mit ungewöhnlichen Benutzer-IDs</item>
+      <item>Fehler beim Web-Logout bei OAuth-Verwendung behoben</item>
+      <item>Falsch positives Ergebnis beim Server Setup Check behoben</item>
+    </admin>
+  </whatsNew>
+  <whatsNew lang="de_DE">
+    <regular>
+      <item>Diverse Detailverbesserungen in der Benutzeroberfläche</item>
+      <item>Z.B. helle Symbole mit dem dunklen Thema</item>
+      <item>oder die Überlappung des Bestätigungs-Button in Kommentaren behoben</item>
+    </regular>
+    <admin>
+      <item>Behandelte Probleme mit ungewöhnlichen Benutzer-IDs</item>
+      <item>Fehler beim Web-Logout bei OAuth-Verwendung behoben</item>
+      <item>Falsch positives Ergebnis beim Server Setup Check behoben</item>
+    </admin>
+  </whatsNew>
+  <whatsNew lang="it">
+    <regular>
+      <item>Diversi miglioramenti di dettagli nell'interfaccia utente</item>
+      <item>ad es. icone chiare con tema scuro</item>
+      <item>o evita la sovrapposizione del pulsante di invio nei commenti</item>
+    </regular>
+    <admin>
+      <item>Gestiti i problemi con ID utente insoliti</item>
+      <item>Corretta disconnessione web utikizzando OAuth</item>
+      <item>Risolto falso positivo nel controllo di installazione del server</item>
+    </admin>
+  </whatsNew>
+  <whatsNew lang="pt_BR">
+    <regular>
+      <item>Diversas melhorias em detalhes da interface do usuário</item>
+      <item>por ex. ícones claros com o tema escuro</item>
+      <item>ou evitar a sobreposição do botão de envio nos comentários</item>
+    </regular>
+    <admin>
+      <item>Problemas tratados com IDs de usuário incomuns</item>
+      <item>Resolvido o logout da Web por OAuth</item>
+      <item>Resolvido falso positivo na verificação de configuração do servidor</item>
+    </admin>
+  </whatsNew>
 </release>
