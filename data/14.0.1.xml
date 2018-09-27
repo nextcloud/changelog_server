@@ -49,6 +49,18 @@
       <item>Risolto falso positivo nel controllo di installazione del server</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="nl">
+    <regular>
+      <item>Diverse detailverbeteringen in de gebruikersinterface</item>
+      <item>Bijv. lichte pictogrammen met het donkere thema</item>
+      <item>of vermijd overlap in de verwerk-knoppen voor reacties</item>
+    </regular>
+    <admin>
+      <item>Behandelde problemen met ongewone gebruikers ID's</item>
+      <item>Vaste web uitloggen bij OAuth gebruik</item>
+      <item>Een false positive in de controle van de serverconfiguratie opgelost </item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="pt_BR">
     <regular>
       <item>Diversas melhorias em detalhes da interface do usuário</item>
