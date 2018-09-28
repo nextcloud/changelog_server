@@ -37,6 +37,18 @@
       <item>Falsch positives Ergebnis beim Server Setup Check behoben</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="es">
+    <regular>
+      <item>Varias mejores de detalles en la interfaz de usuario</item>
+      <item>por ejemplo: iconos con el tema oscuro</item>
+      <item>or avoid overlapping the submit button in comments</item>
+    </regular>
+    <admin>
+      <item>Treated issues with uncommon user IDs</item>
+      <item>Arreglada la desconexión web en el uso de OAuth</item>
+      <item>Resuelto un falso positivo en la comprobación de configuración del servidor</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="it">
     <regular>
       <item>Diversi miglioramenti di dettagli nell'interfaccia utente</item>
