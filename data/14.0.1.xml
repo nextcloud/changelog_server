@@ -85,4 +85,16 @@
       <item>Resolvido falso positivo na verificação de configuração do servidor</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="tr">
+    <regular>
+      <item>Kullanıcı arayüzünde bazı ayrıntılar iyileştirildi</item>
+      <item>Örnek: koyu temadaki açık renk simgeler</item>
+      <item>ya da yorumlardaki gönder düğmesinin altta kalması</item>
+    </regular>
+    <admin>
+      <item>Kullanıcı kodları ile ilgili rastlanan sorunlar çözüldü</item>
+      <item>OAuth kullanılırken web oturumu kapatma sorunu çözüldü</item>
+      <item>Sunucu kurulumu denetimleri sırasında yanlış bulunan hata çözümlendi</item>
+    </admin>
+  </whatsNew>
 </release>
