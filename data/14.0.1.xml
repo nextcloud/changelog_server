@@ -13,6 +13,18 @@
       <item>Resolved false positive in server setup check</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="cs">
+    <regular>
+      <item>Několik drobných vylepšení v uživatelském rozhraní</item>
+      <item>např. světlé ikony v tmavém motivu vzhledu</item>
+      <item>nebo vyhnout se překrývání tlačítka odeslat v komentářích</item>
+    </regular>
+    <admin>
+      <item>Ošetřeny problémy s neobvyklými identifikátory uživatelů</item>
+      <item>Opraveno odhlašování z webu při použití OAuth</item>
+      <item>Vyřešen falešný poplach při kontrole nastavení serveru</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="de">
     <regular>
       <item>Diverse Detailverbesserungen in der Benutzeroberfläche</item>
