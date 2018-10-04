@@ -97,6 +97,18 @@
       <item>Resolvido falso positivo na verificação de configuração do servidor</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="ru">
+    <regular>
+      <item>Некоторые улучшения в пользовательском интерфейсе</item>
+      <item>т.е. светлые значки с темной темой</item>
+      <item>или избегнуть перекрытия кнопки "Отправить" в комментариях</item>
+    </regular>
+    <admin>
+      <item>Исправлены проблемы при использовании редко встречающихся ID пользователей</item>
+      <item>Исправлен веб-выход при использовании аутентификации OAuth</item>
+      <item>Исправлено ложное срабатывание при проверке настроек сервера</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="tr">
     <regular>
       <item>Kullanıcı arayüzünde bazı ayrıntılar iyileştirildi</item>
