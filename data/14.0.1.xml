@@ -61,6 +61,18 @@
       <item>Resuelto un falso positivo en la comprobación de configuración del servidor</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="fr">
+    <regular>
+      <item>Plusieurs amélioration légères de l'interface utilisateur</item>
+      <item>ex : icônes claires avec le thème sombre</item>
+      <item>Empêche la superposition du bouton valider dans les commentaires</item>
+    </regular>
+    <admin>
+      <item>Correction des problèmes avec des identifiants peu commun</item>
+      <item>Correction de la déconnexion web avec OAuth</item>
+      <item>Correction des faux positifs lors du paramétrage d'un nouveau server</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="it">
     <regular>
       <item>Diversi miglioramenti di dettagli nell'interfaccia utente</item>
