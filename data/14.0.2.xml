@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<release xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../schema.xsd" version="14.0.2">
+  <changelog href="https://nextcloud.com/changelog/#14-0-2"/>
+  <whatsNew lang="en">
+    <regular>
+      <item>Revised file upload handling</item>
+      <item>Contact menus on mentions work again</item>
+      <item>Detail improvements (e.g. mobile file view)</item>
+    </regular>
+    <admin>
+      <item>"Add group" button on users page is back</item>
+      <item>"None" auth type available again in mail settings</item>
+      <item>Fixed unavailable files under some conditions</item>
+    </admin>
+  </whatsNew>
+</release>

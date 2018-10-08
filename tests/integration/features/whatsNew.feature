@@ -100,3 +100,24 @@ Feature: testing the response of the Changelog Server
         </admin>
       </whatsNew>
     """
+
+  Scenario: Ensure current release data of 14 series is returned
+    Given the version of interest is "14.0.2"
+    When the request is sent
+    Then the return code is "200"
+    And the response contains
+    """
+      <changelog href="https://nextcloud.com/changelog/#14-0-2"/>
+      <whatsNew lang="en">
+        <regular>
+          <item>Revised file upload handling</item>
+          <item>Contact menus on mentions work again</item>
+          <item>Detail improvements (e.g. mobile file view)</item>
+        </regular>
+        <admin>
+          <item>"Add group" button on users page is back</item>
+          <item>"None" auth type available again in mail settings</item>
+          <item>Fixed unavailable files under some conditions</item>
+        </admin>
+      </whatsNew>
+    """
