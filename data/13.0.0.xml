@@ -89,17 +89,6 @@
       <item>Thema's: CSS bestanden werden samengevoegd</item>
     </admin>
   </whatsNew>
-  <whatsNew lang="pl">
-    <regular>
-      <item>Udoskonalony interfejs użytkownika</item>
-      <item>Szyfrowanie end-to-end</item>
-      <item>Chat wideo-tekstowy</item>
-    </regular>
-    <admin>
-      <item>Zmiany w konfiguracji Nginx</item>
-      <item>Motywy: pliki CSS zostały skonsolidowane</item>
-    </admin>
-  </whatsNew>
   <whatsNew lang="pt_BR">
     <regular>
       <item>Interface de usuário refinada</item>
@@ -122,17 +111,6 @@
       <item>Поддержка стилей оформления: объединение CSS-файлов;</item>
     </admin>
   </whatsNew>
-  <whatsNew lang="sr">
-    <regular>
-      <item>Побољшан кориснички интерфејс</item>
-      <item>Шифровање са краја на крај</item>
-      <item>Текст и видео ћаскање</item>
-    </regular>
-    <admin>
-      <item>Измене у Nginx конфигурацији</item>
-      <item>Теме: CSS фајлови су се спојили</item>
-    </admin>
-  </whatsNew>
   <whatsNew lang="tr">
     <regular>
       <item>Kullanıcı ara yüzü düzenlendi</item>
@@ -142,17 +120,6 @@
     <admin>
       <item>Nginx yapılandırması değiştirildi</item>
       <item>Tema: CSS dosyaları birleştirildi</item>
-    </admin>
-  </whatsNew>
-  <whatsNew lang="uk">
-    <regular>
-      <item>Оновлено інтерфейс користувача</item>
-      <item>End-to-end шифрування </item>
-      <item>Відео і текстовий чат</item>
-    </regular>
-    <admin>
-      <item>Зміни у конфігурації Nginx</item>
-      <item>Теми: файли CSS були об'єднані</item>
     </admin>
   </whatsNew>
 </release>

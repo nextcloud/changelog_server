@@ -97,18 +97,6 @@
       <item>Kerberos auth naar Samba; multi-IdP SAML</item>
     </admin>
   </whatsNew>
-  <whatsNew lang="pl">
-    <regular>
-      <item>Zweryfikuj odbiorcę w rozmowie wideo; 2FA z Signal i Telegram</item>
-      <item>Dodaj notatkę do udziałów; rozszerzone widoki udostępnień; szukaj po komentarzach</item>
-      <item>Ulepszenia dostępności, w tym motyw o wysokim kontraście</item>
-    </regular>
-    <admin>
-      <item>Wymaga PHP &gt;= 7.0, zmiany w log format, syslog tag i nginx</item>
-      <item>Lepsza zgodność z GDPR (RODO) w aplikacjach; oddzielny log kontrolny</item>
-      <item>Autentykacja Kerberos do Samba; multi-IdP SAML</item>
-    </admin>
-  </whatsNew>
   <whatsNew lang="pt_BR">
     <regular>
       <item>Verificar um destinatário de compartilhamento em uma videochamada; 2FA com Signal &amp; Telegram</item>
@@ -133,18 +121,6 @@
       <item>Поддержка проверка подлинности Kerberos для протокола Samba; Поддержка язык разметки декларации безопасности (SAML) для множественных поставщиков учётных записей;</item>
     </admin>
   </whatsNew>
-  <whatsNew lang="sr">
-    <regular>
-      <item>Провера примаоца дељења кроз видео позив; Двофакторска провера идентитета преко Сигнала &amp; Телеграма</item>
-      <item>Додавање белешке дељењу; проширени преглед код дељења; претрага по коментарима</item>
-      <item>Побољшања у приступачности укључујући и тему великог контраста</item>
-    </regular>
-    <admin>
-      <item>Захтева PHP &gt;= 7.0, log format, syslog tag &amp; измене nginx конфигурације</item>
-      <item>Побољшана придржавање GPDR-у кроз апликације; одвојени контролни дневници </item>
-      <item>Керберос провера идентитета на Самбу; multi-IdP SAML</item>
-    </admin>
-  </whatsNew>
   <whatsNew lang="tr">
     <regular>
       <item>Görüntülü görüşme sırasında bir paylaşım alıcısının kimliğini doğrulama; Signal ve Telegram için iki aşamalı kimlik doğrulaması</item>
@@ -155,18 +131,6 @@
       <item>PHP ve üzeri gerekli, günlük biçimi, syslog kod imi ve nginx yapılandırması değiştirildi</item>
       <item>Uygulamaların Genel Veri Koruma Yönetmeliği uyumluluğu geliştirildi; denetim günlüğü ayrıldı</item>
       <item>Samba için Kerberos kimlik doğrulaması; multi-IdP SAML</item>
-    </admin>
-  </whatsNew>
-  <whatsNew lang="uk">
-    <regular>
-      <item>Перевірка доступності отримувача у відеодзвінкі; двухфакторна аутентифікація з Signal і Telegram</item>
-      <item>Додати примітку до спільного ресурсу; розширений перегляд спільного ресурсу; пошук за відгуками</item>
-      <item>Покращення у доступності для людей з обмеженнями включаючи тему високої контрастності</item>
-    </regular>
-    <admin>
-      <item>Вимагається PHP &gt;= 7.0, формат журналу, мітку syslog і конфігурація nginx змінено.</item>
-      <item>Покращена сумісність GDPR через додатки; окремий журнал аудиту</item>
-      <item>Авторизація Kerberos у Samba; multi-IdP SAML</item>
     </admin>
   </whatsNew>
 </release>
