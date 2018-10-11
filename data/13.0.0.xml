@@ -52,7 +52,7 @@
       <item>Chat de texto y vídeo</item>
     </regular>
     <admin>
-      <item>Cambios a la configuración de Nginx</item>
+      <item>Cambios en la configuración de Nginx</item>
       <item>Temas: se han consolidado los archivos CSS</item>
     </admin>
   </whatsNew>

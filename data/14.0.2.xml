@@ -13,4 +13,28 @@
       <item>Fixed unavailable files under some conditions</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="fr">
+    <regular>
+      <item>Correction du transfert de fichier</item>
+      <item>Le menu contact fonctionne à nouveau sur les citations</item>
+      <item>Plusieurs améliorations (par exemple sur la visualisation des fichiers sur les téléphone portable)</item>
+    </regular>
+    <admin>
+      <item>Retour du bouton "Ajouter un groupe" sur la page utilisateur</item>
+      <item>Méthode d'authentification "Aucun" a nouveau disponible dans le paramétrage des couriels</item>
+      <item>Correction à propos de fichier non disponible dans certaines conditions</item>
+    </admin>
+  </whatsNew>
+  <whatsNew lang="pt_BR">
+    <regular>
+      <item>Manipulação de upload de arquivo revisado</item>
+      <item>Menus de contato em menções funcionam novamente</item>
+      <item>Melhorias nos detalhes (p. ex., visualização de arquivos móveis)</item>
+    </regular>
+    <admin>
+      <item>O botão "Adicionar grupo" na página de usuários está de volta</item>
+      <item>Tipo de autenticação "Nenhum" disponível novamente nas configurações de e-mail</item>
+      <item>Corrigidos arquivos indisponíveis sob algumas condições</item>
+    </admin>
+  </whatsNew>
 </release>
