@@ -17,12 +17,36 @@
     <regular>
       <item>Correction du transfert de fichier</item>
       <item>Le menu contact fonctionne à nouveau sur les citations</item>
-      <item>Plusieurs améliorations (par exemple sur la visualisation des fichiers sur les téléphone portable)</item>
+      <item>Plusieurs améliorations (par exemple sur la visualisation des fichiers sur les téléphones portables)</item>
     </regular>
     <admin>
       <item>Retour du bouton "Ajouter un groupe" sur la page utilisateur</item>
       <item>Méthode d'authentification "Aucun" a nouveau disponible dans le paramétrage des couriels</item>
       <item>Correction à propos de fichier non disponible dans certaines conditions</item>
+    </admin>
+  </whatsNew>
+  <whatsNew lang="it">
+    <regular>
+      <item>Rivista la gestione del caricamento dei file</item>
+      <item>I menu di contatto in caso di menzione funzionano nuovamente</item>
+      <item>Miglioramenti dei dettagli  (ad es. vista mobile dei file)</item>
+    </regular>
+    <admin>
+      <item>Il pulsante "Aggiungi gruppo" nella pagina degli utenti è tornato</item>
+      <item>Tipo di autenticazione "Nessuna" disponibile nuovamente nelle impostazioni di posta</item>
+      <item>Corretti i file disponibili in certe condizioni</item>
+    </admin>
+  </whatsNew>
+  <whatsNew lang="nl">
+    <regular>
+      <item>Herziene afhandeling van bestandsupload</item>
+      <item>Contactmenu's bij vermeldingen werkt weer</item>
+      <item>Detail verbeteringen (bijv. mobiel bestandoverzicht)</item>
+    </regular>
+    <admin>
+      <item>"Toevoegen groep" knop op gebruikers'pagina is terug</item>
+      <item>"None" auth type is weer beschikbaar in e-mail instellingen</item>
+      <item>Onbeschikbaarheid bestanden in sommige omstandigheden is hersteld</item>
     </admin>
   </whatsNew>
   <whatsNew lang="pt_BR">
