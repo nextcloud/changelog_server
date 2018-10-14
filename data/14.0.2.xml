@@ -13,6 +13,18 @@
       <item>Fixed unavailable files under some conditions</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="es">
+    <regular>
+      <item>Revisado el manejo de la subida de archivos</item>
+      <item>Los menús de contacto en las menciones vuelven a funcionar</item>
+      <item>Mejoras de detalle (p. ej., la vista de archivos en móviles)</item>
+    </regular>
+    <admin>
+      <item>El botón de "Añadir grupo" en la página de usuarios ha vuelto</item>
+      <item>Tipo de autenticación "Ninguno" disponible de nuevo en la configuración de correo</item>
+      <item>Arreglados los archivos no disponibles bajo ciertas condiciones</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="fr">
     <regular>
       <item>Correction du transfert de fichier</item>
