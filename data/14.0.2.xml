@@ -109,4 +109,16 @@
       <item>Corrigidos arquivos indisponíveis sob algumas condições</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="tr">
+    <regular>
+      <item>Dosya yükleme işlemi düzenlendi</item>
+      <item>Anmalarda kişi menüleri yeniden çalıştırıldı</item>
+      <item>Ayrıntılar iyileştirildi (örnek: mobil dosya görünümü)</item>
+    </regular>
+    <admin>
+      <item>Kullanıcı sayfasındaki "Grup ekle" düğmesi yeniden eklendi</item>
+      <item>E-posta ayarlarındaki "Yok" kimlik doğrulama türü yeniden eklendi</item>
+      <item>Bazı koşullarda dosyalara erişilememesi sorunu çözüldü</item>
+    </admin>
+  </whatsNew>
 </release>
