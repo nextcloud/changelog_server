@@ -16,12 +16,12 @@
   <whatsNew lang="cs">
     <regular>
       <item>Zrevidována obsluha nahrávání souboru</item>
-      <item>Contact menus on mentions work again</item>
+      <item>Nabídky kontaktu při zmínění opět fungují</item>
       <item>Vylepšení podrobností (např. zobrazení souboru v mobilní verzi)</item>
     </regular>
     <admin>
-      <item>"Add group" button on users page is back</item>
-      <item>"None" auth type available again in mail settings</item>
+      <item>Tlačítko „Přidat skupinu“ na stránce uživatelů je zpět</item>
+      <item>V nastavení e-mailu je opět k dispozici typ ověřování „Žádné“</item>
       <item>Opravena nedostupnost souborů za nějakých okolností</item>
     </admin>
   </whatsNew>
