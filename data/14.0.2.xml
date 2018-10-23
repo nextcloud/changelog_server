@@ -109,6 +109,18 @@
       <item>Corrigidos arquivos indisponíveis sob algumas condições</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="ru">
+    <regular>
+      <item>Переделано управление загрузкой файлов</item>
+      <item>Меню контакта снова могут быть вызваны при упоминании пользователей</item>
+      <item>Доработки меню подробной информации (в том числе для просмотра на мобильных устройствах)</item>
+    </regular>
+    <admin>
+      <item>Кнопка «Добавить группу» снова расположена на странице управления пользователями</item>
+      <item>Способ авторизации «Без проверки» снова доступен для выбора в параметрах эл. почты</item>
+      <item>Исправлены ошибки недоступности файлов в некоторых условиях</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="tr">
     <regular>
       <item>Dosya yükleme işlemi düzenlendi</item>
