@@ -12,6 +12,17 @@
       <item>Theming: CSS files were consolidated</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="ca">
+    <regular>
+      <item>13.0.0-regular1-0b97ed05</item>
+      <item>13.0.0-regular2-605deaca</item>
+      <item>13.0.0-regular3-01dc5160</item>
+    </regular>
+    <admin>
+      <item>13.0.0-admin1-3b592a47</item>
+      <item>13.0.0-admin2-ed8aa6a3</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="cs">
     <regular>
       <item>Vylepšené uživatelské rozhraní</item>
