@@ -122,6 +122,17 @@
       <item>Поддержка стилей оформления: объединение CSS-файлов;</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="sr">
+    <regular>
+      <item>Побољшан кориснички интерфејс</item>
+      <item>Шифровање са краја на крај</item>
+      <item>Текст и видео ћаскање</item>
+    </regular>
+    <admin>
+      <item>Измене у Nginx конфигурацији</item>
+      <item>Теме: CSS фајлови су се спојили</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="tr">
     <regular>
       <item>Kullanıcı ara yüzü düzenlendi</item>

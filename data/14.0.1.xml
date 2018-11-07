@@ -133,6 +133,18 @@
       <item>Исправлено ложное срабатывание при проверке настроек сервера</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="sr">
+    <regular>
+      <item>Неколико ситних побољшања у корисничком интерфејсу</item>
+      <item>нпр. светле иконице са тамном темом</item>
+      <item>или избегавање преклапања дугмета за слање у коментарима</item>
+    </regular>
+    <admin>
+      <item>Исправљени проблеми са ретком корисничким ID-овима</item>
+      <item>Исправљена веб одјава када се користи OAuth</item>
+      <item>Исправљена лажна грешка приликом провере поставке сервера</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="tr">
     <regular>
       <item>Kullanıcı arayüzünde bazı ayrıntılar iyileştirildi</item>
