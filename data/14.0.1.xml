@@ -97,6 +97,18 @@
       <item>Risolto falso positivo nel controllo di installazione del server</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="ja">
+    <regular>
+      <item>ユーザーインターフェイスのいくつかの改良点</item>
+      <item>濃いテーマのライトアイコンなど</item>
+      <item>コメントに送信ボタンが重複しないようにする</item>
+    </regular>
+    <admin>
+      <item>一般的でないユーザーIDに関する問題</item>
+      <item>OAuthでウェブログアウトを修正</item>
+      <item>サーバー設定チェックで誤検出を解決しました。</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="nl">
     <regular>
       <item>Diverse detailverbeteringen in de gebruikersinterface</item>

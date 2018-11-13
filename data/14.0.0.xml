@@ -97,6 +97,18 @@
       <item>Autenticazione Kerberos in Samba; SAML multi-IdP</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="ja">
+    <regular>
+      <item>ビデオ通話で共有受信者を確認します。 シグナル＆テレグラム付き2FA</item>
+      <item>共有にメモを追加する。 拡張共有ビュー。 コメントで検索</item>
+      <item>ハイコントラストテーマを含むアクセシビリティの改善</item>
+    </regular>
+    <admin>
+      <item>PHP&gt; = 7.0、ログフォーマット、syslogタグ＆nginx設定変更</item>
+      <item>アプリを通じてGDPRのコンプライアンスを改善しました。 別々の監査ログ</item>
+      <item>SambaへのKerberos認証。 マルチIdP SAML</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="nl">
     <regular>
       <item>Verifier een share ontvanger in een videogesprek; 2FA met Signal &amp; Telegram</item>

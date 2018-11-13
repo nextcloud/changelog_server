@@ -89,6 +89,17 @@
       <item>Temi: i file CSS sono stati unificati</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="ja">
+    <regular>
+      <item>洗練されたユーザーインターフェイス</item>
+      <item>End-to-End 暗号化</item>
+      <item>ビデオとテキストチャット</item>
+    </regular>
+    <admin>
+      <item>Nginx設定の変更</item>
+      <item>Theming：CSSファイルが統合されました</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="nl">
     <regular>
       <item>Verfijnde gebruikersinterface</item>

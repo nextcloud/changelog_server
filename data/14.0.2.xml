@@ -97,6 +97,18 @@
       <item>Corretti i file disponibili in certe condizioni</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="ja">
+    <regular>
+      <item>修正されたファイルアップロード処理</item>
+      <item>言及したメニューの連絡先が再び機能する</item>
+      <item>詳細の改善（モバイルファイルビューなど）</item>
+    </regular>
+    <admin>
+      <item>ユーザーページに「グループを追加」ボタンが戻る</item>
+      <item>メール設定で「なし」の認証タイプを再度使用可能にする</item>
+      <item>一部の条件下で使用できないファイルが修正されました</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="nl">
     <regular>
       <item>Herziene afhandeling van bestandsupload</item>
