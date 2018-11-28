@@ -85,6 +85,18 @@
       <item>Correction des faux positifs lors du paramétrage d'un nouveau server</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="is">
+    <regular>
+      <item>Margar smávægilegar endurbætur í notendaviðmótinu</item>
+      <item>t.d. ljósar táknmyndir með dökku þema</item>
+      <item>eða að forðast að innsendingarhnappur skarist við athugasemdir</item>
+    </regular>
+    <admin>
+      <item>Treated issues with uncommon user IDs</item>
+      <item>Löguð útskráning þegar notað er OAuth</item>
+      <item>Resolved false positive in server setup check</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="it">
     <regular>
       <item>Diversi miglioramenti di dettagli nell'interfaccia utente</item>

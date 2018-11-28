@@ -78,6 +78,17 @@
       <item>Thème : Les fichiers CSS ont été améliorés</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="is">
+    <regular>
+      <item>Endurbætt notandaviðmót</item>
+      <item>Enda-í-enda dulritun</item>
+      <item>Texta- og myndspjall</item>
+    </regular>
+    <admin>
+      <item>Breytingar á Nginx uppsetningu</item>
+      <item>Þemu: CSS-skrár voru sameinaðar</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="it">
     <regular>
       <item>Interfaccia utente rifinita</item>
