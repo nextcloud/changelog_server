@@ -129,17 +129,17 @@ Feature: testing the response of the Changelog Server
     Then the return code is "200"
     And the response contains
     """
-		<changelog href="https://nextcloud.com/changelog/#15-0-0"/>
-		<whatsNew lang="en">
-			<regular>
-			<item>Nextcloud Social &amp; multiple link shares</item>
-			<item>New design, grid view &amp; 2x faster loading of Files</item>
-			<item>sidebar with Collabora Online &amp; Talk in sidebar</item>
-			</regular>
-			<admin>
-			<item>enforcement of 2FA &amp; security hardenings</item>
-			<item>automatic PDF conversion &amp; script execution</item>
-			<item>Updated Dashboard, Full Text Search &amp; Group folders</item>
-			</admin>
-		</whatsNew>
+      <changelog href="https://nextcloud.com/changelog/#15-0-0"/>
+      <whatsNew lang="en">
+        <regular>
+          <item>Nextcloud Social &amp; multiple link shares</item>
+          <item>New design, grid view &amp; 2x faster loading of Files</item>
+          <item>sidebar with Collabora Online &amp; Talk in sidebar</item>
+        </regular>
+        <admin>
+          <item>enforcement of 2FA &amp; security hardenings</item>
+          <item>automatic PDF conversion &amp; script execution</item>
+          <item>Updated Dashboard, Full Text Search &amp; Group folders</item>
+        </admin>
+      </whatsNew>
     """
