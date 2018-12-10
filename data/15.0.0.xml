@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<release xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../schema.xsd" version="15.0.0">
+  <changelog href="https://nextcloud.com/changelog/#15-0-0"/>
+  <whatsNew lang="en">
+    <regular>
+      <item>Nextcloud Social &amp; multiple link shares</item>
+      <item>New design, grid view &amp; 2x faster loading of Files</item>
+      <item>sidebar with Collabora Online &amp; Talk in sidebar</item>
+    </regular>
+    <admin>
+      <item>enforcement of 2FA &amp; security hardenings</item>
+      <item>automatic PDF conversion &amp; script execution</item>
+      <item>Updated Dashboard, Full Text Search &amp; Group folders</item>
+    </admin>
+  </whatsNew>
+</release>
+
