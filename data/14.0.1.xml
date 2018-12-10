@@ -133,6 +133,18 @@
       <item>Een false positive in de controle van de serverconfiguratie opgelost </item>
     </admin>
   </whatsNew>
+  <whatsNew lang="pl">
+    <regular>
+      <item>Kilka szczegółowych usprawnień w interfejsie użytkownika</item>
+      <item>np. jasne ikony z ciemnym motywem</item>
+      <item>lub unikaj nakładania się przycisku przesyłania w komentarzach</item>
+    </regular>
+    <admin>
+      <item>Rozwiązano problemy z nietypowymi identyfikatorami użytkowników</item>
+      <item>Naprawiono wylogowanie z sieci przy użyciu OAuth</item>
+      <item>Naprawiono fałszywy alarm w sprawdzaniu konfiguracji serwera</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="pt_BR">
     <regular>
       <item>Diversas melhorias em detalhes da interface do usuário</item>

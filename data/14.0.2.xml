@@ -133,6 +133,18 @@
       <item>Onbeschikbaarheid bestanden in sommige omstandigheden is hersteld</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="pl">
+    <regular>
+      <item>Poprawiono obsługę wysyłania plików</item>
+      <item>Contact menus on mentions work again</item>
+      <item>Ulepszenia dotyczące szczegółów (np. Widok plików mobilnych)</item>
+    </regular>
+    <admin>
+      <item>Przywrócono przycisk "Dodaj grupę" na stronie użytkowników</item>
+      <item>Typ autoryzacji "Brak" dostępny ponownie w ustawieniach poczty</item>
+      <item>Naprawiono niedostępne w pewnych warunkach pliki</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="pt_BR">
     <regular>
       <item>Manipulação de upload de arquivo revisado</item>
