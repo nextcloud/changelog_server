@@ -123,13 +123,13 @@ Feature: testing the response of the Changelog Server
     """
 
     
-  Scenario: Ensure current release data of 14 series is returned
+  Scenario: Ensure current release data of 15 series is returned
     Given the version of interest is "15.0.0"
     When the request is sent
     Then the return code is "200"
     And the response contains
     """
-		<changelog href="https://nextcloud.com/changelog/#14-0-0"/>
+		<changelog href="https://nextcloud.com/changelog/#15-0-0"/>
 		<whatsNew lang="en">
 			<regular>
 			<item>Nextcloud Social &amp; multiple link shares</item>
