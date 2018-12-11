@@ -85,18 +85,6 @@
       <item>Correction à propos de fichier non disponible dans certaines conditions</item>
     </admin>
   </whatsNew>
-  <whatsNew lang="is">
-    <regular>
-      <item>Endurskoðuð meðhöndlun innsendra skráa</item>
-      <item>Contact menus on mentions work again</item>
-      <item>Detail improvements (e.g. mobile file view)</item>
-    </regular>
-    <admin>
-      <item>"Bæta við hópi" hnappur er aftur kominn á síðu notanda</item>
-      <item>"Ekkert" sem gerð auðkenningar er aftur í boði í póststillingum</item>
-      <item>Lagað að sumar skrár voru ekki tiltækar við sum skilyrði</item>
-    </admin>
-  </whatsNew>
   <whatsNew lang="it">
     <regular>
       <item>Rivista la gestione del caricamento dei file</item>
