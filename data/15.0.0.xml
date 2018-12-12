@@ -13,4 +13,40 @@
       <item>Updated Dashboard, Full Text Search &amp; Group folders</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="es">
+    <regular>
+      <item>Nexcloud Social y múltiples enlaces para compartir</item>
+      <item>Nuevo diseño, vista en cuadrícula y carga x2 más rápida en la interfaz web</item>
+      <item>Barra lateral con Collabora Online y Talk</item>
+    </regular>
+    <admin>
+      <item>Implantación de 2FA y mejoras en la seguridad.</item>
+      <item>Conversión automática de PDF y ejecución de scripts.</item>
+      <item>Dashboard actualizado, búsquedas de texto completo y carpetas grupales</item>
+    </admin>
+  </whatsNew>
+  <whatsNew lang="nl">
+    <regular>
+      <item>Nextcloud Social &amp; meervoudige deellinks</item>
+      <item>Nieuw ontwerp, roosteroverzicht &amp; 2x sneller laden van Bestanden</item>
+      <item>zijbalk met Collabora Online &amp; Talk in zijbalk</item>
+    </regular>
+    <admin>
+      <item>afdwingen van 2FA &amp; beveiligde instellingen</item>
+      <item>automatische PDF conversie &amp; script uitvoering</item>
+      <item>Bijgewerkt Dashboard, Volledige tekst zoekfunctie &amp; Groepsmappen</item>
+    </admin>
+  </whatsNew>
+  <whatsNew lang="pt_BR">
+    <regular>
+      <item>Nextcloud Social e compartilhamento de link múltiplo</item>
+      <item>Novo design, visualização em grade e carregamento de arquivos 2x mais rápido</item>
+      <item>barra lateral com o Collabora Online &amp; Talk na barra lateral</item>
+    </regular>
+    <admin>
+      <item>aplicação de hardies 2FA e de segurança</item>
+      <item>conversão automática de PDF e execução de scripts</item>
+      <item>Painel Atualizado, Pesquisa de Texto Completo e Pastas de Grupo</item>
+    </admin>
+  </whatsNew>
 </release>
