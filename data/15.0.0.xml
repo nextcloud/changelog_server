@@ -13,6 +13,30 @@
       <item>Updated Dashboard, Full Text Search &amp; Group folders</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="de">
+    <regular>
+      <item>Nextcloud Sozial und Mehrfach-Link-Teilen</item>
+      <item>Neues Design, Rasteransicht und 2x schnelleres Laden von Dateien</item>
+      <item>Seitenleiste mit Collabora Online &amp; Talk in der Seitenleiste</item>
+    </regular>
+    <admin>
+      <item>erzwinge 2FA &amp; Sicherheits-Härtung</item>
+      <item>automatische PDF-Konvertierung und Skript-Ausführung</item>
+      <item>Aktualisiertes Dashboard, Volltextsuche und Gruppenordner</item>
+    </admin>
+  </whatsNew>
+  <whatsNew lang="de_DE">
+    <regular>
+      <item>Nextcloud Sozial und Mehrfach-Link-Teilen</item>
+      <item>Neues Design, Rasteransicht und 2x schnelleres Laden von Dateien</item>
+      <item>Seitenleiste mit Collabora Online &amp; Talk in der Seitenleiste</item>
+    </regular>
+    <admin>
+      <item>erzwinge 2FA- und Sicherheits-Härtung</item>
+      <item>automatische PDF-Konvertierung und Skript-Ausführung</item>
+      <item>Aktualisiertes Dashboard, Volltextsuche und Gruppenordner</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="es">
     <regular>
       <item>Nexcloud Social y múltiples enlaces para compartir</item>
@@ -47,6 +71,18 @@
       <item>aplicação de hardies 2FA e de segurança</item>
       <item>conversão automática de PDF e execução de scripts</item>
       <item>Painel Atualizado, Pesquisa de Texto Completo e Pastas de Grupo</item>
+    </admin>
+  </whatsNew>
+  <whatsNew lang="tr">
+    <regular>
+      <item>Nextcloud Sosyal ağ ve birden ok bağlantı paylaşımı</item>
+      <item>Yeni tasarım, tablo görünümü ve 2 kat hızlı dosya yükleme</item>
+      <item>yan çubukta Collabora Online &amp; Talk çubuğu</item>
+    </regular>
+    <admin>
+      <item>iki aşamalı kimlik doğrulaması ve güvenlik güçlendirmesi</item>
+      <item>otomatik PDF dönüşümü ve betik yürütme</item>
+      <item>Güncellenmiş Pano, Tam Metin Araması ve Grup Klasörleri</item>
     </admin>
   </whatsNew>
 </release>
