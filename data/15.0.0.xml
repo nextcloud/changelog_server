@@ -49,6 +49,18 @@
       <item>Dashboard actualizado, búsquedas de texto completo y carpetas grupales</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="it">
+    <regular>
+      <item>Nextcloud Sociale e condivisioni con più collegamenti</item>
+      <item>Nuovo aspetto, vista a griglia e caricamento dei file due vole più veloce</item>
+      <item>barra laterale con Collabora Online e Talk nella barra laterale</item>
+    </regular>
+    <admin>
+      <item>applicazione di 2FA e rafforzamento della sicurezza</item>
+      <item>conversione PDF automatica ed esecuzione di script</item>
+      <item>Cruscotto aggiornato, ricerca del testo integrale e cartelle di gruppo</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="nl">
     <regular>
       <item>Nextcloud Social &amp; meervoudige deellinks</item>
