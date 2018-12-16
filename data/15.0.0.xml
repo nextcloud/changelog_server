@@ -85,6 +85,18 @@
       <item>Painel Atualizado, Pesquisa de Texto Completo e Pastas de Grupo</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="sr">
+    <regular>
+      <item>Социјални Некстклауд и вишеструке везе дељења</item>
+      <item>Нови дизајн, преглед мреже и 2x брже учитавање фајлова</item>
+      <item>трака са стране са Collabora Online-ом и Talk у траци са стране</item>
+    </regular>
+    <admin>
+      <item>обавезна 2FA и безбедносна побољшања</item>
+      <item>аутоматска PDF конверзија и извршавање скрипти</item>
+      <item>Ажуриран Dashboard, претрага целог текста и групне фасцикле</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="tr">
     <regular>
       <item>Nextcloud Sosyal ağ ve birden ok bağlantı paylaşımı</item>
