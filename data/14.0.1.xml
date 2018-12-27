@@ -85,6 +85,18 @@
       <item>Correction des faux positifs lors du paramétrage d'un nouveau server</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="gl">
+    <regular>
+      <item>Varias melloras de detalles na interface do usuario</item>
+      <item>p. ex. iconas claras co tema escuro</item>
+      <item>ou evitar a superposición do botón de enviar en comentarios</item>
+    </regular>
+    <admin>
+      <item>Tratáronse incidencias pouco comúns con ID de usuarios</item>
+      <item>Arranxada a desconexión da web co uso de OAuth</item>
+      <item>Resoltos os falsos positivos na comprobación da configuración do servidor</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="it">
     <regular>
       <item>Diversi miglioramenti di dettagli nell'interfaccia utente</item>

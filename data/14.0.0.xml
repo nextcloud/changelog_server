@@ -85,6 +85,18 @@
       <item>Authentification Kerberos pour Samba; multi-IdP SAML</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="gl">
+    <regular>
+      <item>Verificar o receptor dun recurso compartido nunha chamada de vídeo; 2FA con Signal e Telegram</item>
+      <item>Engadir unha nota aos recursos compartidos; vistas estendidas do compartido; busca por comentarios</item>
+      <item>Melloras da accesibilidade que inclúen un tema de alto contraste</item>
+    </regular>
+    <admin>
+      <item>Require PHP &gt;=7.0, formato de rexistro, etiqueta do rexistro do sistema e configuración do Nginx cambiados</item>
+      <item>Mellorado o cumprimento de GDPR a través de aplicacións; rexistro de auditoría separado</item>
+      <item>Autorización Kerberos para Samba; SAML multi-IdP</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="it">
     <regular>
       <item>Verifica il destinatario di una condivisione in una chiamata video; 2FA con Signal e Telegram</item>

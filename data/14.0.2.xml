@@ -33,7 +33,7 @@
     </regular>
     <admin>
       <item>Tlačítko „Přidat skupinu“ na stránce uživatelů je zpět</item>
-      <item>V nastavení e-mailu je opět k dispozici typ ověřování „Žádné“</item>
+      <item>V nastavení emailu je opět k dispozici typ ověřování „Žádné“</item>
       <item>Opravena nedostupnost souborů za nějakých okolností</item>
     </admin>
   </whatsNew>
@@ -83,6 +83,18 @@
       <item>Retour du bouton "Ajouter un groupe" sur la page utilisateur</item>
       <item>Méthode d'authentification "Aucun" a nouveau disponible dans le paramétrage des couriels</item>
       <item>Correction à propos de fichier non disponible dans certaines conditions</item>
+    </admin>
+  </whatsNew>
+  <whatsNew lang="gl">
+    <regular>
+      <item>Revisado o manexo do envío de ficheiros</item>
+      <item>Volven  funcionar os menús de contacto nas mencións</item>
+      <item>Melloras de detalle (p. ex. a vista de ficheiros nos móbiles)</item>
+    </regular>
+    <admin>
+      <item>Está de volta o botón de «Engadir grupo» na páxina de usuarios</item>
+      <item>Volve estar dispoñíbel o tipo de autenticación «Ningún» na configuración do correo</item>
+      <item>Arranxada a non dispoñibilidade dos ficheiros baixo certas condicións</item>
     </admin>
   </whatsNew>
   <whatsNew lang="it">
