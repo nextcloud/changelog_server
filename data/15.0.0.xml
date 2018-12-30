@@ -15,14 +15,14 @@
   </whatsNew>
   <whatsNew lang="cs">
     <regular>
-      <item>Nextcloud Social &amp; multiple link shares</item>
+      <item>Nextcloud Společenská a víceodkazová sdílení</item>
       <item>Nový design, zobrazení v mřížce a 2x rychlejší načítání aplikace Soubory</item>
       <item>postranní panel s Collabora Online a Talk</item>
     </regular>
     <admin>
       <item>vynucení dvoufázového ověřování a posílení zabezpečení</item>
       <item>automatický převod do PDF a vykonávání skriptů</item>
-      <item>Updated Dashboard, Full Text Search &amp; Group folders</item>
+      <item>Aktualizovaná Nástěnka, plnotextové vyhledávání a skupinové složky</item>
     </admin>
   </whatsNew>
   <whatsNew lang="de">
