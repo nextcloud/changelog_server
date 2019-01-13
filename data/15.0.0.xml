@@ -49,6 +49,18 @@
       <item>Aktualisiertes Dashboard, Volltextsuche und Gruppenordner</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="eo">
+    <regular>
+      <item>Nextcloud „Social“ kaj plurligilaj kunhavoj</item>
+      <item>Dosieroj: nova fasono, krada vido kaj duoble pli rapida montro</item>
+      <item>flankpanelo kun „Collabora Online“ kaj „Talk“</item>
+    </regular>
+    <admin>
+      <item>Devigo de 2FA kaj sekuriga plibonigo</item>
+      <item>Konverto al PDF kaj rulado de skriptoj</item>
+      <item>Ĝisdatiĝis regpanelo, plenteksta serĉo kaj grupaj dosierujoj</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="es">
     <regular>
       <item>Nexcloud Social y múltiples enlaces para compartir</item>

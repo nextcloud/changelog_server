@@ -61,6 +61,18 @@
       <item>Falsch positives Ergebnis beim Server Setup Check behoben</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="eo">
+    <regular>
+      <item>Pluraj detalaj plibonigoj en la uzantinterfaco</item>
+      <item>ekz. helaj piktogramoj kun la malhelaj etoso</item>
+      <item>aŭ evito de parte kovro de la senda butono en komentoj</item>
+    </regular>
+    <admin>
+      <item>Problemo riparita kun nekitimaj uzant-identigiloj</item>
+      <item>Problemo riparita kun reta elsaulto dum uzo de OAuth</item>
+      <item>Problemo riparita kun kontrolo de servilagordo</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="es">
     <regular>
       <item>Varias mejores de detalles en la interfaz de usuario</item>

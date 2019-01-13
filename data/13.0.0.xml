@@ -56,6 +56,17 @@
       <item>Theming: CSS-Dateien wurden konsolidiert</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="eo">
+    <regular>
+      <item>Plibonigita uzantinterfaco</item>
+      <item>Tutvoja ĉifrado</item>
+      <item>Videa kaj teksta retbabilejo</item>
+    </regular>
+    <admin>
+      <item>Ŝanĝoj en la Nginx-agordo</item>
+      <item>Etoso: CSS-dosieroj estis unuigitaj</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="es">
     <regular>
       <item>Interfaz de usuario refinada</item>

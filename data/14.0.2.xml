@@ -33,7 +33,7 @@
     </regular>
     <admin>
       <item>Tlačítko „Přidat skupinu“ na stránce uživatelů je zpět</item>
-      <item>V nastavení emailu je opět k dispozici typ ověřování „Žádné“</item>
+      <item>V nastavení e-mailu je opět k dispozici typ ověřování „Žádné“</item>
       <item>Opravena nedostupnost souborů za nějakých okolností</item>
     </admin>
   </whatsNew>
@@ -59,6 +59,18 @@
       <item>"Der "Gruppe hinzufügen" Button auf dern Benutzerseite ist wieder vorhanden</item>
       <item>In den Mail-Einstellungen ist der "Keine" auth Typ wieder vorhanden</item>
       <item>Das unter bestimmten Bedingungen Dateien nicht verfügbar werden, wurde behoben</item>
+    </admin>
+  </whatsNew>
+  <whatsNew lang="eo">
+    <regular>
+      <item>Korektado de dosier-alŝuto</item>
+      <item>Kontakto-menuo je mencioj denove funkcias</item>
+      <item>Detalaj plibonigoj (ekz. dosiervido ĉe poŝtelefono)</item>
+    </regular>
+    <admin>
+      <item>La butono „Aldoni grupon“ en la uzanto-paĝo revenis</item>
+      <item>Aŭtentiga tipo „Nenio“ redisponeblas en la agordoj pri retpoŝto</item>
+      <item>Problemo riparita kun dosieroj ne haveblaj en certaj kondiĉoj</item>
     </admin>
   </whatsNew>
   <whatsNew lang="es">

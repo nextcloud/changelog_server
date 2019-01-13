@@ -61,6 +61,18 @@
       <item>Kerberos-Authentifizierung gegen Samba; Multi-IdP-SAML</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="eo">
+    <regular>
+      <item>Kontrolado de kunhaviga ricevanto en vide-alvoko; 2FA (dufaza aŭtentigo) kun Signal kaj Telegram</item>
+      <item>Aldono de noto al kunhavoj; etenditaj vidaĵoj pri kunhavoj; serĉi komente</item>
+      <item>Alireblecaj plibonigoj kun altkontrasta etoso</item>
+    </regular>
+    <admin>
+      <item>Bezonas PHP ⩾ 7.0, protokolaranĝon, sistemprotokolan etikedo, kaj ŝanĝon en Nginx-agordo.</item>
+      <item>Plibgoniĝis konformiĝo al la Ĝenerala Datum-Protekta Regularo; aparta revizia protokolo</item>
+      <item>Aŭtentigo per Kerberos al Samba; pluraj identecaj provizantoj per SAML</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="es">
     <regular>
       <item>Verifica el receptor de un recurso compartido en una llamada de vídeo; 2FA con Signal y Telegram</item>
