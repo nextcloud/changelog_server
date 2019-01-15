@@ -73,6 +73,18 @@
       <item>Dashboard actualizado, búsquedas de texto completo y carpetas grupales</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="fr">
+    <regular>
+      <item>Nextcloud social &amp; partages par lien multiple</item>
+      <item>Nouvelle conception, vue en grille &amp; chargement de fichiers 2x plus rapide</item>
+      <item>Barre latérale incluant Collabora Online et Tâches</item>
+    </regular>
+    <admin>
+      <item>Mise en œuvre de la double authentification &amp; renforcement de la sécurité</item>
+      <item>Conversions automatique en PDF &amp; exécution de script</item>
+      <item>tableau de bord amélioré, recherche en texte intégral &amp; dossiers de groupes</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="gl">
     <regular>
       <item>Nexcloud Social e múltiples ligazóns para compartir</item>
