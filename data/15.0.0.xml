@@ -49,6 +49,18 @@
       <item>Aktualisiertes Dashboard, Volltextsuche und Gruppenordner</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="en_GB">
+    <regular>
+      <item>Nextcloud Social &amp; multiple link shares</item>
+      <item>New design, grid view &amp; 2x faster loading of Files</item>
+      <item>sidebar with Collabora Online &amp; Talk in sidebar</item>
+    </regular>
+    <admin>
+      <item>enforcement of 2FA &amp; security hardenings</item>
+      <item>automatic PDF conversion &amp; script execution</item>
+      <item>Updated Dashboard, Full Text Search &amp; Group folders</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="eo">
     <regular>
       <item>Nextcloud „Social“ kaj plurligilaj kunhavoj</item>

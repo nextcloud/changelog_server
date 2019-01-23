@@ -56,6 +56,17 @@
       <item>Theming: CSS-Dateien wurden konsolidiert</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="en_GB">
+    <regular>
+      <item>Refined user interface</item>
+      <item>End-to-end Encryption</item>
+      <item>Video and Text Chat</item>
+    </regular>
+    <admin>
+      <item>Changes to the Nginx configuration</item>
+      <item>Theming: CSS files were consolidated</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="eo">
     <regular>
       <item>Plibonigita uzantinterfaco</item>
