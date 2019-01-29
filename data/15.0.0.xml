@@ -109,6 +109,18 @@
       <item>Panel actualizado, buscas de texto completo e cartafoles de grupo</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="is">
+    <regular>
+      <item>Nextcloud Social &amp; multiple link shares</item>
+      <item>Ný hönnun, reitasýn &amp; 2x hraðvirkari innhleðsla Files-skráaforrits</item>
+      <item>hliðarstika með Collabora Online &amp; Talk</item>
+    </regular>
+    <admin>
+      <item>enforcement of 2FA &amp; security hardenings</item>
+      <item>Sjálfvirk umbreyting í PDF og sjálfvirk keyrsla á skriftum</item>
+      <item>Uppfært stjórnborð, leit í öllum texta &amp; hópamöppur</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="it">
     <regular>
       <item>Nextcloud Sociale e condivisioni con più collegamenti</item>

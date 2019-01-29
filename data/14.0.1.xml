@@ -121,6 +121,18 @@
       <item>Resoltos os falsos positivos na comprobación da configuración do servidor</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="is">
+    <regular>
+      <item>Margar smávægilegar endurbætur í notendaviðmótinu</item>
+      <item>t.d. ljósar táknmyndir með dökku þema</item>
+      <item>eða að forðast að innsendingarhnappur skarist við athugasemdir</item>
+    </regular>
+    <admin>
+      <item>Löguð vandamál með óalgeng notendaauðkenni</item>
+      <item>Löguð útskráning þegar notað er OAuth</item>
+      <item>Resolved false positive in server setup check</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="it">
     <regular>
       <item>Diversi miglioramenti di dettagli nell'interfaccia utente</item>
