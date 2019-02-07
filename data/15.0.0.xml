@@ -145,6 +145,18 @@
       <item>Bijgewerkt Dashboard, Volledige tekst zoekfunctie &amp; Groepsmappen</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="pl">
+    <regular>
+      <item>Nextcloud Social i udostępnianie linków</item>
+      <item>Nowy wygląd, widok siatki i 2x szybsze wczytywanie plików</item>
+      <item>pasek boczny z Collabora Online i Talk</item>
+    </regular>
+    <admin>
+      <item>narzucenie 2FA i wzmocnienie zabezpieczeń</item>
+      <item>automatyczna konwersja PDF i wykonanie skryptów</item>
+      <item>Zaktualizowano Dashboard, Full Text Search &amp; Group folders</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="pt_BR">
     <regular>
       <item>Nextcloud Social e compartilhamento de link múltiplo</item>
