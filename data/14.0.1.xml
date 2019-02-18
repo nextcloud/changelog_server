@@ -97,6 +97,18 @@
       <item>Resuelto un falso positivo en la comprobación de configuración del servidor</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="es_AR">
+    <regular>
+      <item>Varias mejoras de detalle en la interfaz de usuario.</item>
+      <item>e.g. light icons with the dark theme</item>
+      <item>or avoid overlapping the submit button in comments</item>
+    </regular>
+    <admin>
+      <item>Problemas tratados con ID de usuario poco comunes</item>
+      <item>Cierre de sesión web fijo en el uso de OAuth</item>
+      <item>Resuelto falso positivo en la verificación de configuración del servidor</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="fr">
     <regular>
       <item>Plusieurs amélioration légères de l'interface utilisateur</item>
