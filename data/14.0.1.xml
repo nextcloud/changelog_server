@@ -241,4 +241,16 @@
       <item>Sunucu kurulumu denetimleri sırasında yanlış bulunan hata çözümlendi</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="zh_CN">
+    <regular>
+      <item>用户界面的数个细节改进</item>
+      <item>例如：在暗色主题中使用浅色图标</item>
+      <item>或避免注释的提交按钮的重叠现象</item>
+    </regular>
+    <admin>
+      <item>不常见用户ID的问题处理</item>
+      <item>已修复的使用OAuth的web登出</item>
+      <item>解决服务器配置检查中的误报</item>
+    </admin>
+  </whatsNew>
 </release>

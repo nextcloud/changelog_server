@@ -229,4 +229,16 @@
       <item>Samba için Kerberos kimlik doğrulaması; multi-IdP SAML</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="zh_CN">
+    <regular>
+      <item>在视频通话中验证共享接收者；Signal和Telegram的双因素认证</item>
+      <item>为共享添加注释；扩展共享视图；按注释内容搜索</item>
+      <item>包含高对比度主题的易用性改进</item>
+    </regular>
+    <admin>
+      <item>要求 PHP &gt;= 7.0，日志格式、系统日志标签 &amp; nginx 配置变更</item>
+      <item>应用中改进的GDPR遵从性；独立的审计日志</item>
+      <item>对Samba的Kerberos认证；多IdP SAML</item>
+    </admin>
+  </whatsNew>
 </release>

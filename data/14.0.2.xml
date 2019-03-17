@@ -229,4 +229,16 @@
       <item>Bazı koşullarda dosyalara erişilememesi sorunu çözüldü</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="zh_CN">
+    <regular>
+      <item>修正过的文件上传处理</item>
+      <item>提到上的联系人菜单又能用了</item>
+      <item>细节改进（如移动端文件视图）</item>
+    </regular>
+    <admin>
+      <item>用户页面中的"添加分组"按钮回来了</item>
+      <item>邮件设置中的 "无" 认证方式又可使用了</item>
+      <item>修复在某些情况下文件不可用的问题</item>
+    </admin>
+  </whatsNew>
 </release>

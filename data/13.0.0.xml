@@ -221,4 +221,15 @@
       <item>Tema: CSS dosyaları birleştirildi</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="zh_CN">
+    <regular>
+      <item>改进用户界面</item>
+      <item>端到端加密</item>
+      <item>视频和文本聊天</item>
+    </regular>
+    <admin>
+      <item>Nginx 配置修改</item>
+      <item>主题：合并 CSS 文件</item>
+    </admin>
+  </whatsNew>
 </release>
