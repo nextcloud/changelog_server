@@ -42,7 +42,7 @@
     </regular>
     <admin>
       <item>Änderungen an der Nginx-Konfiguration</item>
-      <item>Theming: CSS-Dateien wurden konsolidiert</item>
+      <item>Design: CSS-Dateien wurden konsolidiert</item>
     </admin>
   </whatsNew>
   <whatsNew lang="de_DE">
@@ -53,7 +53,7 @@
     </regular>
     <admin>
       <item>Änderungen an der Nginx-Konfiguration</item>
-      <item>Theming: CSS-Dateien wurden konsolidiert</item>
+      <item>Design: CSS-Dateien wurden konsolidiert</item>
     </admin>
   </whatsNew>
   <whatsNew lang="en_GB">

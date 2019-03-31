@@ -41,7 +41,7 @@
     <regular>
       <item>Überprüfung des Freigabe-Empfängers im Videochat; 2FA über Signal &amp; Telegram</item>
       <item>Notizen für Freigaben hinzufügen; erweiterte Freigaben-Ansichten; Suche in Kommentaren</item>
-      <item>Verbesserte Barrierefreiheit einschließlich eines Hochkontrastthemes</item>
+      <item>Verbesserte Barrierefreiheit einschließlich eines kontrastreichem Design</item>
     </regular>
     <admin>
       <item>Benötigt PHP &gt;= 7.0, log format, syslog tag &amp; nginx Konfiguration geändert</item>
@@ -53,7 +53,7 @@
     <regular>
       <item>Überprüfung des Freigabe-Empfängers im Videochat; 2FA über Signal &amp; Telegram</item>
       <item>Notizen für Freigaben hinzufügen; erweiterte Freigaben-Ansichten; Suche in Kommentaren</item>
-      <item>Verbesserte Barrierefreiheit einschließlich eines Hochkontrastthemes</item>
+      <item>Verbesserte Barrierefreiheit einschließlich eines kontrastreichem Design</item>
     </regular>
     <admin>
       <item>Benötigt PHP &gt;= 7.0, log format, syslog tag &amp; nginx Konfiguration geändert</item>
