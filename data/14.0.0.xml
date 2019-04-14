@@ -133,6 +133,18 @@
       <item>Autorización Kerberos para Samba; SAML multi-IdP</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="is">
+    <regular>
+      <item>Auðkenni viðtakanda sameigna sannreynt í myndsímtali; tveggja-þátta auðkenning með Signal og Telegram</item>
+      <item>Hægt að bæta minnispunkti við sameignir; viðameiri sýn á sameignir; leit í athugasemdum</item>
+      <item>Bætt aukið aðgengi til að mynda með hábirtuskilaþema</item>
+    </regular>
+    <admin>
+      <item>Krefst PHP &gt;= 7.0, snið atvikaskráningar, syslog merki &amp; uppsetning nginx hafa breyst</item>
+      <item>Bætt samhæfni við GDPR í gegnum forrit; aðskilin atvikaskrá fyrir endurskoðun (audit)</item>
+      <item>Kerberos auðkenning í Samba; multi-IdP SAML</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="it">
     <regular>
       <item>Verifica il destinatario di una condivisione in una chiamata video; 2FA con Signal e Telegram</item>

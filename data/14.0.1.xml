@@ -142,7 +142,7 @@
     <admin>
       <item>Löguð vandamál með óalgeng notendaauðkenni</item>
       <item>Löguð útskráning þegar notað er OAuth</item>
-      <item>Resolved false positive in server setup check</item>
+      <item>Löguð röng aðvörun við athugun á uppsetningu þjóns</item>
     </admin>
   </whatsNew>
   <whatsNew lang="it">

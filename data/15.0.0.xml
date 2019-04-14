@@ -111,12 +111,12 @@
   </whatsNew>
   <whatsNew lang="is">
     <regular>
-      <item>Nextcloud Social &amp; multiple link shares</item>
+      <item>Nextcloud Social samfélagsforrit &amp; sameignir með mörgum tenglum</item>
       <item>Ný hönnun, reitasýn &amp; 2x hraðvirkari innhleðsla Files-skráaforrits</item>
       <item>hliðarstika með Collabora Online &amp; Talk</item>
     </regular>
     <admin>
-      <item>enforcement of 2FA &amp; security hardenings</item>
+      <item>hægt að gera kröfu um tveggja-þátta auðkenningu og ýmsir eiginleikar til að herða öryggi</item>
       <item>Sjálfvirk umbreyting í PDF og sjálfvirk keyrsla á skriftum</item>
       <item>Uppfært stjórnborð, leit í öllum texta &amp; hópamöppur</item>
     </admin>
