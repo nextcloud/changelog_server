@@ -3,6 +3,8 @@ vendor
 !vendor/composer
 !vendor/autoload.php
 
+secrets.php
+
 composer.lock
 .idea
 

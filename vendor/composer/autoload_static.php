@@ -29,6 +29,7 @@ class ComposerStaticInit718b9465c5a1e3fe9b751dd4749a6ddd
     );
 
     public static $classMap = array (
+        'ChangelogServer\\Config' => __DIR__ . '/../..' . '/src/Config.php',
         'ChangelogServer\\Exceptions\\InvalidVersion' => __DIR__ . '/../..' . '/src/Exceptions/InvalidVersion.php',
         'ChangelogServer\\Request' => __DIR__ . '/../..' . '/src/Request.php',
         'ChangelogServer\\Response' => __DIR__ . '/../..' . '/src/Response.php',
