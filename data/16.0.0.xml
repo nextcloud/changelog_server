@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<release xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../schema.xsd" version="16.0.0">
+  <changelog href="https://nextcloud.com/changelog/#16-0-0"/>
+  <whatsNew lang="en">
+    <regular>
+      <item>Machine-learning powered suspicious login detection</item>
+      <item>Access Control Lists in Groupfolders</item>
+      <item>Variables for external storage (LDAP provides '$home')</item>
+    </regular>
+    <admin>
+      <item>Smart recommendations for files, sharees</item>
+      <item>Projects: group files, chats, tasks for easy finding</item>
+      <item>right-click in Files, new document viewer &amp; more</item>
+    </admin>
+  </whatsNew>
+</release>

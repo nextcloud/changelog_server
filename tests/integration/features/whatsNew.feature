@@ -143,3 +143,24 @@ Feature: testing the response of the Changelog Server
         </admin>
       </whatsNew>
     """
+
+  Scenario: Ensure current release data of 16 series is returned
+    Given the version of interest is "16.0.0"
+    When the request is sent
+    Then the return code is "200"
+    And the response contains
+    """
+      <changelog href="https://nextcloud.com/changelog/#16-0-0"/>
+      <whatsNew lang="en">
+        <regular>
+          <item>Machine-learning powered suspicious login detection</item>
+          <item>Access Control Lists in Groupfolders</item>
+          <item>Variables for external storage (LDAP provides '$home')</item>
+        </regular>
+        <admin>
+          <item>Smart recommendations for files, sharees</item>
+          <item>Projects: group files, chats, tasks for easy finding</item>
+          <item>right-click in Files, new document viewer &amp; more</item>
+        </admin>
+      </whatsNew>
+    """
