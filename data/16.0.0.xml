@@ -13,4 +13,100 @@
       <item>right-click in Files, new document viewer &amp; more</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="cs">
+    <regular>
+      <item>Machine-learning powered suspicious login detection</item>
+      <item>Seznam řízení přístupu ve skupinových složkách</item>
+      <item>Proměnné pro externí úložiště (LDAP poskytuje „$home“)</item>
+    </regular>
+    <admin>
+      <item>Chytré doporučování souborů a sdílení</item>
+      <item>Projects: group files, chats, tasks for easy finding</item>
+      <item>kliknutí pravým tlačítkem v Soubory, nový prohlížeč dokumentů a další</item>
+    </admin>
+  </whatsNew>
+  <whatsNew lang="de">
+    <regular>
+      <item>Erkennung von verdächtigen Anmeldungen durch maschinelles Lernen</item>
+      <item>Zugriffskontrolllisten in Gruppenordnern</item>
+      <item>Variablen für externen Speicher (LDAP stellt '$ home' bereit)</item>
+    </regular>
+    <admin>
+      <item>Intelligente Empfehlungen für Dateien, Freigaben</item>
+      <item>Projekte: Gruppendateien, Chats, Aufgaben zum einfachen Finden</item>
+      <item>Rechtsklick auf Dateien, neuer Domkumentenbetrachter und mehr</item>
+    </admin>
+  </whatsNew>
+  <whatsNew lang="de_DE">
+    <regular>
+      <item>Erkennung von verdächtigen Anmeldungen durch maschinelles Lernen</item>
+      <item>Zugriffskontrolllisten in Gruppenordnern</item>
+      <item>Variablen für externen Speicher (LDAP stellt '$ home' bereit)</item>
+    </regular>
+    <admin>
+      <item>Intelligente Empfehlungen für Dateien, Freigaben</item>
+      <item>Projekte: Gruppendateien, Chats, Aufgaben zum einfachen Finden</item>
+      <item>Rechtsklick auf Dateien, neuer Domkumentenbetrachter und mehr</item>
+    </admin>
+  </whatsNew>
+  <whatsNew lang="es">
+    <regular>
+      <item>Detector de inicios de sesión sospechosos basado en Machine-Learning</item>
+      <item>Listas de control de acceso en carpetas grupales</item>
+      <item>Variables en almacenamiento externo (LDAP proporciona '$home')</item>
+    </regular>
+    <admin>
+      <item>Recomendaciones inteligentes para archivos, acciones compartidas</item>
+      <item>Proyectos: archivos grupales, chats, tareas para encontrar fácilmente</item>
+      <item>clic-derecho en Archivos, nuevo visor de documentos y más</item>
+    </admin>
+  </whatsNew>
+  <whatsNew lang="it">
+    <regular>
+      <item>Rilevamento di accessi sospetti tramite machine learning</item>
+      <item>Access Control List nelle cartelle di gruppo</item>
+      <item>Variabili per archiviazione esterna (LDAP fornisce '$home')</item>
+    </regular>
+    <admin>
+      <item>Consigli intelligenti per file, condivisioni</item>
+      <item>Progetti: raggruppano file, chat, attività per semplificare le ricerche</item>
+      <item>tasto destro in File, nuovo visualizzatore di documenti e altro </item>
+    </admin>
+  </whatsNew>
+  <whatsNew lang="pt_BR">
+    <regular>
+      <item>Detecção de login suspeito acionada pelo aprendizado de máquina</item>
+      <item>Listas de Controle de Acesso em Groupfolders</item>
+      <item>Variáveis para armazenamento externo (o LDAP fornece '$home')</item>
+    </regular>
+    <admin>
+      <item>Recomendações inteligentes para arquivos, compartilhamentos</item>
+      <item>Projetos: arquivos de grupo, chats, tarefas para facilitar a busca</item>
+      <item>clique com o botão direito em Arquivos, novo visualizador de documentos e mais</item>
+    </admin>
+  </whatsNew>
+  <whatsNew lang="tr">
+    <regular>
+      <item>Yapay zeka destekli şüpheli oturum açma algılaması</item>
+      <item>Grup Klasörlerinde Erişim Denetimi Listeleri</item>
+      <item>Dış depolama değişkenleri (LDAP tarafından sağlanan '$home')</item>
+    </regular>
+    <admin>
+      <item>Dosyalar ve paylaşımlar için akıllı öneriler</item>
+      <item>Projeler: Dosya, görüşme ve görevleri kolayca bulmak için gruplama</item>
+      <item>dosyalar üzerinde sağ tıklama, yeni belge görüntüleyici ve diğerleri</item>
+    </admin>
+  </whatsNew>
+  <whatsNew lang="zh_CN">
+    <regular>
+      <item>使用机器学习的可疑登录行为检测</item>
+      <item>组文件夹中的访问控制列表</item>
+      <item>外部存储变量（LDAP提供 '$home'）</item>
+    </regular>
+    <admin>
+      <item>文件和共享的智能推荐</item>
+      <item>项目：分组文件，聊天，简易查找任务</item>
+      <item>文件应用中的右键菜单，新的文档查看器及更多</item>
+    </admin>
+  </whatsNew>
 </release>
