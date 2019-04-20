@@ -29,24 +29,24 @@
     <regular>
       <item>Erkennung von verdächtigen Anmeldungen durch maschinelles Lernen</item>
       <item>Zugriffskontrolllisten in Gruppenordnern</item>
-      <item>Variablen für externen Speicher (LDAP stellt '$ home' bereit)</item>
+      <item>Variablen für externen Speicher (LDAP stellt '$home' bereit)</item>
     </regular>
     <admin>
       <item>Intelligente Empfehlungen für Dateien, Freigaben</item>
       <item>Projekte: Gruppendateien, Chats, Aufgaben zum einfachen Finden</item>
-      <item>Rechtsklick auf Dateien, neuer Domkumentenbetrachter und mehr</item>
+      <item>Rechtsklick für Dateien, neuer Domkumentenbetrachter und mehr</item>
     </admin>
   </whatsNew>
   <whatsNew lang="de_DE">
     <regular>
       <item>Erkennung von verdächtigen Anmeldungen durch maschinelles Lernen</item>
       <item>Zugriffskontrolllisten in Gruppenordnern</item>
-      <item>Variablen für externen Speicher (LDAP stellt '$ home' bereit)</item>
+      <item>Variablen für externen Speicher (LDAP stellt '$home' bereit)</item>
     </regular>
     <admin>
       <item>Intelligente Empfehlungen für Dateien, Freigaben</item>
       <item>Projekte: Gruppendateien, Chats, Aufgaben zum einfachen Finden</item>
-      <item>Rechtsklick auf Dateien, neuer Domkumentenbetrachter und mehr</item>
+      <item>Rechtsklick für Dateien, neuer Domkumentenbetrachter und mehr</item>
     </admin>
   </whatsNew>
   <whatsNew lang="es">
@@ -59,6 +59,18 @@
       <item>Recomendaciones inteligentes para archivos, acciones compartidas</item>
       <item>Proyectos: archivos grupales, chats, tareas para encontrar fácilmente</item>
       <item>clic-derecho en Archivos, nuevo visor de documentos y más</item>
+    </admin>
+  </whatsNew>
+  <whatsNew lang="gl">
+    <regular>
+      <item>Detección de accesos sospeitosos accionada por «aprendizaxe da máquina»</item>
+      <item>Listas de control de acceso en grupos de cartafoles</item>
+      <item>Variábeis para almacenamento externo (LDAP fornece «$home»)</item>
+    </regular>
+    <admin>
+      <item>Recomendacións intelixentes para ficheiros, e recursos compartidos</item>
+      <item>Proxectos: ficheiros de grupo, conversas, tarefas para facilitar a busca</item>
+      <item>prema co botón dereito en Ficheiros, novo visor de documentos e máis botón</item>
     </admin>
   </whatsNew>
   <whatsNew lang="it">
