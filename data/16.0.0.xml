@@ -61,6 +61,18 @@
       <item>Variabili per archiviazione esterna (LDAP fornisce '$home')</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="nl">
+    <regular>
+      <item>Slimme aanbevelingen voor bestanden, sharees</item>
+      <item>Projecten: groepsbestanden, chats, taken voor simpel vinden</item>
+      <item>rechts-klikken in Bestanden, nieuwe documentenviewer &amp; meer</item>
+    </regular>
+    <admin>
+      <item>Door Machine Learning ondersteunde detectie van verdachte inlogpogingen</item>
+      <item>Access Control Lists in Groepsmappen</item>
+      <item>Variabelen voor externe opslag (LDAP provides '$home')</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="pt_BR">
     <regular>
       <item>Recomendações inteligentes para arquivos, compartilhamentos</item>
