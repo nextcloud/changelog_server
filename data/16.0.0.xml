@@ -37,6 +37,18 @@
       <item>Variablen für externen Speicher (LDAP stellt '$home' bereit)</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="es">
+    <regular>
+      <item>Recomendaciones inteligentes para archivos y recursos compartidos</item>
+      <item>Proyectos: agrupa archivos, chats y tareas para encontrarlos con facilidad</item>
+      <item>clic-derecho en Archivos, nuevo visor de documentos y más</item>
+    </regular>
+    <admin>
+      <item>Detector de inicios de sesión sospechosos basado en aprendizaje automático</item>
+      <item>Listas de control de acceso en carpetas de grupo</item>
+      <item>Variables para almacenamiento externo (LDAP proporciona '$home')</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="gl">
     <regular>
       <item>Recomendacións intelixentes para ficheiros e recursos compartidos</item>
