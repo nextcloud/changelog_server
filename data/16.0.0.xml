@@ -121,6 +121,18 @@
       <item>Variáveis para armazenamento externo (o LDAP fornece '$home')</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="sr">
+    <regular>
+      <item>Паметне препоруке за фајлове, особе за дељење</item>
+      <item>Пројекти: групишите фајлове, разговоре, задатке ради лакшег проналажења</item>
+      <item>десни клик у апликацији Фајлова, нови прегледач докумената &amp; још више</item>
+    </regular>
+    <admin>
+      <item>Детекција сумњивих пријава коришћењем машинског учења</item>
+      <item>Листе права приступа у апликацији Групних фасцикли</item>
+      <item>Променљиве за спољашње складиште (LDAP  обезбеђује '$home')</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="tr">
     <regular>
       <item>Dosyalar ve paylaşımlar için akıllı öneriler</item>
