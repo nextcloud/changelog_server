@@ -37,6 +37,18 @@
       <item>Variablen für externen Speicher (LDAP stellt '$home' bereit)</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="eo">
+    <regular>
+      <item>Inteligentaj rekomendoj por dosieroj, por alkunhavigitoj</item>
+      <item>Projektoj: grupdosieroj, babiloj, taskoj por pli facile trovi</item>
+      <item>Dekstra alklako en „Dosieroj“, nova dokumenta montrilo kaj pli</item>
+    </regular>
+    <admin>
+      <item>Malkovro de suspektinda ensaluto per aŭtomata maŝinlernado</item>
+      <item>Listoj de alirkontrolo en grupdosierujoj</item>
+      <item>Variabloj por eksteraj konservejoj (LDAP provizas je „$home“)</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="es">
     <regular>
       <item>Recomendaciones inteligentes para archivos y recursos compartidos</item>
