@@ -133,6 +133,18 @@
       <item>Variáveis para armazenamento externo (o LDAP fornece '$home')</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="ru">
+    <regular>
+      <item>Умные рекомендации для файлов, публикаций</item>
+      <item>Проекты: группировка файлов, обсуждений, задач для лёгкого поиска</item>
+      <item>Правая кнопка мыши в приложении Files, новый просмотрщик документов и т. д.</item>
+    </regular>
+    <admin>
+      <item>Обнаружение подозрительных входов с помощью машинного обучения</item>
+      <item>Списки контроля доступа в групповых папках</item>
+      <item>Переменные для внешнего хранилища (LDAP предоставляет '$home')</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="sr">
     <regular>
       <item>Паметне препоруке за фајлове, особе за дељење</item>
