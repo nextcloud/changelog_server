@@ -231,7 +231,7 @@
   </whatsNew>
   <whatsNew lang="zh_CN">
     <regular>
-      <item>在视频通话中验证共享接收者；Signal和Telegram的双因素认证</item>
+      <item>在视频通话中验证共享接收者；Signal和Telegram的两步验证</item>
       <item>为共享添加注释；扩展共享视图；按注释内容搜索</item>
       <item>包含高对比度主题的易用性改进</item>
     </regular>
