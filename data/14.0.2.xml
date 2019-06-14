@@ -177,7 +177,7 @@
     </regular>
     <admin>
       <item>Przywrócono przycisk "Dodaj grupę" na stronie użytkowników</item>
-      <item>W ustawieniach poczty ponownie dostępny jest typ autoryzacji „Brak”</item>
+      <item>W ustawieniach poczty ponownie dostępny jest typ autoryzacji "Brak"</item>
       <item>Naprawiono niedostępne pliki w pewnych warunkach</item>
     </admin>
   </whatsNew>
