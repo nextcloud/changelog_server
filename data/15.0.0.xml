@@ -109,6 +109,18 @@
       <item>Panel actualizado, buscas de texto completo e cartafoles de grupo</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="hu">
+    <regular>
+      <item>Nextcloud Social és több hivatkozással rendelkező megosztások</item>
+      <item>Új dizájn, rácsnézet és a Fájlok 2x gyorsabban tölt be</item>
+      <item>oldalsáv a Collabora Online-nal és Beszélgetés az oldalsávban</item>
+    </regular>
+    <admin>
+      <item>A kétfaktoros hitelesítés és a fokozott biztonság betartatása</item>
+      <item>automatikus PDF-átalakítás és parancsvégrehajtás</item>
+      <item>Frissített irányítópult, teljes szöveges keresés és csoportmappák</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="is">
     <regular>
       <item>Nextcloud Social samfélagsforrit &amp; sameignir með mörgum tenglum</item>

@@ -121,6 +121,18 @@
       <item>Autorización Kerberos para Samba; SAML multi-IdP</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="hu">
+    <regular>
+      <item>Erősítse meg a megosztás címzettjét egy videohívással; 2FA a Signalhoz és a Telegramhoz</item>
+      <item>Adjon megjegyzést a megosztásokhoz; bővített megosztási nézetek; keresés hozzászólások alapján</item>
+      <item>Akadálymentesítési fejlesztések, köztük nagy kontrasztú témával</item>
+    </regular>
+    <admin>
+      <item>PHP &gt;= 7.0 szükséges, naplózási formátum, rendszernapló címke és nginx konfiguráció változott</item>
+      <item>Fejlesztett GDPR-megfelelés az alkalmazásokon keresztül, külön auditnapló</item>
+      <item>Kerberos hitelesítés Sambához, több személyazonosság-szolgáltatós SAML</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="is">
     <regular>
       <item>Auðkenni viðtakanda sameigna sannreynt í myndsímtali; tveggja-þátta auðkenning með Signal og Telegram</item>

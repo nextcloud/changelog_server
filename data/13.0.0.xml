@@ -111,6 +111,17 @@
       <item>Temas: Consolidáronse os ficheiros CSS</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="hu">
+    <regular>
+      <item>Finomított felhasználói felület</item>
+      <item>Végpontok közötti titkosítás</item>
+      <item>Video- és szöveges csevegés</item>
+    </regular>
+    <admin>
+      <item>Az Nginx konfiguráció módosításai</item>
+      <item>Témázás: a CSS-fájlok konszolidálva lettek</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="is">
     <regular>
       <item>Endurbætt notandaviðmót</item>

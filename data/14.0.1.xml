@@ -121,6 +121,18 @@
       <item>Resoltos os falsos positivos na comprobación da configuración do servidor</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="hu">
+    <regular>
+      <item>Számos részlet fejlesztése a felhasználói felületen</item>
+      <item>például világos ikonok a sötét témával</item>
+      <item>vagy a beküldés gomb okozta eltakarás elkerülése</item>
+    </regular>
+    <admin>
+      <item>Ritka felhasználói azonosítók problémáinak kezelése</item>
+      <item>Webes kijelentkezés javítása OAuth használatakor</item>
+      <item>Fals pozitív eredmény megoldva a kiszolgálóbeállítások ellenőrzésekor</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="is">
     <regular>
       <item>Margar smávægilegar endurbætur í notendaviðmótinu</item>

@@ -85,6 +85,18 @@
       <item>Variábeis para almacenamento externo (LDAP fornece «$home»)</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="hu">
+    <regular>
+      <item>Okos fájl- és megosztási javaslatok</item>
+      <item>Projektek: csoportfájlok, csevegések, feladatok a könnyű kereséshez</item>
+      <item>jobb kattintás a Fájlokban, új dokumentummegjelenítő és egyebek</item>
+    </regular>
+    <admin>
+      <item>Gépi tanulással megvalósított gyanús bejelentkezés észlelés</item>
+      <item>Hozzáférés-vezérlési listák (ACL) a csoportmappákban</item>
+      <item>Változók a külső tárolókhoz (LDAP által biztosított „$home”)</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="it">
     <regular>
       <item>Consigli intelligenti per file, condivisioni</item>
