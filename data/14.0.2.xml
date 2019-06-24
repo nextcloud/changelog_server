@@ -21,7 +21,7 @@
     </regular>
     <admin>
       <item>14.0.2-admin1-6154ec8f</item>
-      <item>"None" auth type available again in mail settings</item>
+      <item>Tipus d'autenticació "Cap" disponible un altre cop a les preferències de correu</item>
       <item>14.0.2-admin3-6f9243f3</item>
     </admin>
   </whatsNew>

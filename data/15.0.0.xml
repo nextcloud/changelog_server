@@ -13,6 +13,18 @@
       <item>Updated Dashboard, Full Text Search &amp; Group folders</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="ca">
+    <regular>
+      <item>Nextcloud Social &amp; enllaços de compartició múltiples</item>
+      <item>Nou disseny, vista de graella i duplicada la velocitat de càrrega a Fitxers</item>
+      <item>barra lateral amb Collabora Online i Talk a barra lateral</item>
+    </regular>
+    <admin>
+      <item>implementació de 2FA i enduriment en temes de seguretat</item>
+      <item>conversió automàtica de PDF i execució d'scripts</item>
+      <item>Actualitzat el Panell de control, la Cerca de text complet i les Carpetes de grup</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="cs">
     <regular>
       <item>Nextcloud Společenská a víceodkazová sdílení</item>

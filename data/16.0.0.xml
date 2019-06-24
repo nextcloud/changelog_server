@@ -13,6 +13,18 @@
       <item>Variables for external storage (LDAP provides '$home')</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="ca">
+    <regular>
+      <item>Recomanacions intel·ligents per fitxers, accions</item>
+      <item>Projectes: fitxers de grup, xats, tasques per trobar fàcilment</item>
+      <item>clic amb el botó dret a Fitxers, nou visualitzador de documents i més</item>
+    </regular>
+    <admin>
+      <item>Detecció d'accessos sospitosos emprant algorismes d'aprenentatge automàtic</item>
+      <item>Llistes de Control d'Accés a Carpetes de grup</item>
+      <item>Variables per l'emmagatzemament extern (LDAP proporciona '$home')</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="de">
     <regular>
       <item>Intelligente Empfehlungen für Dateien, Freigaben</item>
