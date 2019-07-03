@@ -233,7 +233,7 @@
     <regular>
       <item>Görüntülü görüşme sırasında bir paylaşım alıcısının kimliğini doğrulama; Signal ve Telegram için iki aşamalı kimlik doğrulaması</item>
       <item>Paylaşımlara not ekleme; gelişmiş paylaşım görünümleri; yorum içeriklerine göre dosya arama</item>
-      <item>Engelliler için yüksek karşıtlık teması da dahil iyileştirmeler</item>
+      <item>Yüksek karşıtlık teması da dahil erişebilirlik iyileştirmeleri</item>
     </regular>
     <admin>
       <item>PHP ve üzeri gerekli, günlük biçimi, syslog kod imi ve nginx yapılandırması değiştirildi</item>
