@@ -157,6 +157,18 @@
       <item>Cruscotto aggiornato, ricerca del testo integrale e cartelle di gruppo</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="ja">
+    <regular>
+      <item>Nextcloudソーシャル＆マルチリンクシェア</item>
+      <item>新しいデザイン、グリッド表示、2倍速のファイル読み込み</item>
+      <item>Collabora Onlineのサイドバー &amp; サイドバーでの会話</item>
+    </regular>
+    <admin>
+      <item>2FAの実行とセキュリティ強化</item>
+      <item>自動PDF変換とスクリプト実行</item>
+      <item>ダッシュボード、フルテキスト検索、グループフォルダを更新</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="nl">
     <regular>
       <item>Nextcloud Social &amp; meervoudige deellinks</item>

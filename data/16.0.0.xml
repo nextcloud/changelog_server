@@ -121,6 +121,18 @@
       <item>Variabili per archiviazione esterna (LDAP fornisce '$home')</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="ja">
+    <regular>
+      <item>ファイル、共有者に対するスマートな推奨</item>
+      <item>プロジェクト：グループファイル、チャット、見つけやすいタスク</item>
+      <item>ファイルを右クリックで新規ドキュメントビューアなどなど</item>
+    </regular>
+    <admin>
+      <item>機械学習による不審なログインの検出</item>
+      <item>グループフォルダ内のアクセス制御リスト</item>
+      <item>外部記憶装置用の変数（LDAPは '$ home'を提供します）</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="nl">
     <regular>
       <item>Slimme aanbevelingen voor bestanden, sharees</item>
