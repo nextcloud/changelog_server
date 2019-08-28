@@ -121,6 +121,18 @@
       <item>Resoltos os falsos positivos na comprobación da configuración do servidor</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="hr">
+    <regular>
+      <item>Nekoliko detaljnih poboljšanja u korisničkom sučelju</item>
+      <item>npr. svijetle ikone u tamnoj temi</item>
+      <item>ili izbjegavanje preklapanja gumba za slanje u komentarima</item>
+    </regular>
+    <admin>
+      <item>Otklonjeni problemi s neuobičajenim ID-ovima korisnika</item>
+      <item>Ispravljena odjava putem weba pri uporabi OAutha</item>
+      <item>Otklonjeni lažni pozitivni rezultati provjere postavljanja poslužitelja</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="hu">
     <regular>
       <item>Számos részlet fejlesztése a felhasználói felületen</item>

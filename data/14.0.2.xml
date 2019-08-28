@@ -121,6 +121,18 @@
       <item>Arranxada a non dispoñibilidade dos ficheiros baixo certas condicións</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="hr">
+    <regular>
+      <item>Revidirana obrada otpremanja datoteka</item>
+      <item>Izbornici kontakata po spominjanju ponovno rade</item>
+      <item>Detaljna poboljšanja (npr. prikaz datoteka na mobilnim uređajima)</item>
+    </regular>
+    <admin>
+      <item>Gumb „Dodaj grupu” ponovno se nalazi na stranici korisnika</item>
+      <item>Vrsta autentifikacije „Nema” ponovno je dostupna u postavkama pošte</item>
+      <item>Ispravljene su nedostupne datoteke u određenim uvjetima</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="hu">
     <regular>
       <item>Fájlfeltöltés kezelésének átdolgozása</item>

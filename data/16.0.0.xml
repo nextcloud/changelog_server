@@ -97,6 +97,18 @@
       <item>Variábeis para almacenamento externo (LDAP fornece «$home»)</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="hr">
+    <regular>
+      <item>Pametne preporuke za datoteke, djelitelje</item>
+      <item>Projekti: grupne datoteke, razmjene poruka, zadaci za lakše pronalaženje</item>
+      <item>desnom tipkom miša kliknite na datoteke, novi preglednik dokumenata i drugo</item>
+    </regular>
+    <admin>
+      <item>Otkrivanje sumnjivih prijava s pomoću strojnog učenja</item>
+      <item>Popisi za kontrolu pristupa u mapama grupa</item>
+      <item>Varijable za vanjsku pohranu (LDAP pruža ‘$home’)</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="hu">
     <regular>
       <item>Okos fájl- és megosztási javaslatok</item>

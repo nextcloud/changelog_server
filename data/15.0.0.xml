@@ -121,6 +121,18 @@
       <item>Panel actualizado, buscas de texto completo e cartafoles de grupo</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="hr">
+    <regular>
+      <item>Nextcloud Social i dijeljenje višestrukih poveznica</item>
+      <item>Novi dizajn, prikaz rešetke i dvostruko brže učitavanje datoteka</item>
+      <item>bočna traka s alatom Collabora Online i Talk u bočnoj traci</item>
+    </regular>
+    <admin>
+      <item>provođenje autentifikacije 2FA i sigurnosna poboljšanja</item>
+      <item>automatsko pretvaranje PDF-ova i izvođenje skripti</item>
+      <item>Ažurirana nadzorna ploča, pretraživanje cijelog teksta i grupne mape</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="hu">
     <regular>
       <item>Nextcloud Social és több hivatkozással rendelkező megosztások</item>

@@ -121,6 +121,18 @@
       <item>Autorización Kerberos para Samba; SAML multi-IdP</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="hr">
+    <regular>
+      <item>Provjerite primatelja dijeljenja putem videopoziva; 2FA sa Signal &amp; Telegram</item>
+      <item>Dodajte bilješke dijeljenja; prošireni prikazi dijeljenja; pretraživanje komentara</item>
+      <item>Poboljšanja pristupačnosti, uključujući temu jakog kontrasta</item>
+    </regular>
+    <admin>
+      <item>Zahtijeva PHP &gt;= 7.0, format zapisa, promijenjeni syslog tag i nginx config</item>
+      <item>Poboljšana usklađenost s GDPR-om putem aplikacija; odvojeni zapis revizije</item>
+      <item>Autentifikacija Kerberosa na Sambu; multi-IdP SAML</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="hu">
     <regular>
       <item>Erősítse meg a megosztás címzettjét egy videohívással; 2FA a Signalhoz és a Telegramhoz</item>

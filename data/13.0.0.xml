@@ -111,6 +111,17 @@
       <item>Temas: Consolidáronse os ficheiros CSS</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="hr">
+    <regular>
+      <item>Poboljšano korisničko sučelje</item>
+      <item>Cjelovito šifriranje</item>
+      <item>Razmjena videoporuka i tekstnih poruka</item>
+    </regular>
+    <admin>
+      <item>Promjene u konfiguraciji Nginxa</item>
+      <item>Teme: CSS datoteke su konsolidirane</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="hu">
     <regular>
       <item>Finomított felhasználói felület</item>
