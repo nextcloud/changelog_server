@@ -25,6 +25,18 @@
       <item>Variables per l'emmagatzemament extern (LDAP proporciona '$home')</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="cs">
+    <regular>
+      <item>Chytrá doporučení pro soubory, sdílející</item>
+      <item>Projekty: skupinové soubory, chaty, úkoly pro snazší nalezení</item>
+      <item>klikněte pravým tlačítkem na Soubory, nový prohlížeč dokumentů a další</item>
+    </regular>
+    <admin>
+      <item>Na strojovém učení založená detekce podezřelých přihlášení</item>
+      <item>Seznamy řízení přístupu ve skupinových složkách</item>
+      <item>Proměnné pro externí úložiště (LDAP poskytuje „$home“)</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="de">
     <regular>
       <item>Intelligente Empfehlungen für Dateien, Freigaben</item>
