@@ -256,7 +256,7 @@
   <whatsNew lang="zh_CN">
     <regular>
       <item>用户界面的数个细节改进</item>
-      <item>例如：在暗色主题中使用浅色图标</item>
+      <item>例如：在深色主题中使用浅色图标</item>
       <item>或避免注释的提交按钮的重叠现象</item>
     </regular>
     <admin>
