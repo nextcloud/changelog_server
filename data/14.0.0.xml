@@ -202,7 +202,7 @@
     <admin>
       <item>Wymaga PHP &gt;= 7.0, zmiany w log format, syslog tag i nginx</item>
       <item>Lepsza zgodność z GDPR (RODO) w aplikacjach; oddzielny log kontrolny</item>
-      <item>Autentykacja Kerberos do Samba; multi-IdP SAML</item>
+      <item>Uwierzytelnianie Kerberos na Sambie; multi-IdP SAML</item>
     </admin>
   </whatsNew>
   <whatsNew lang="pt_BR">
