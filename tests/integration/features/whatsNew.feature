@@ -164,3 +164,25 @@ Feature: testing the response of the Changelog Server
         </admin>
       </whatsNew>
     """
+
+
+  Scenario: Ensure current release data of 17 series is returned
+    Given the version of interest is "17.0.0"
+    When the request is sent
+    Then the return code is "200"
+    And the response contains
+    """
+      <changelog href="https://nextcloud.com/changelog/#17-0-0"/>
+      <whatsNew lang="en">
+        <regular>
+          <item>Remote wipe</item>
+          <item>Our new distraction-free, collaborative rich text editor</item>
+          <item>secure view gains enforceable document watermarks</item>
+        </regular>
+        <admin>
+          <item>Setup two-factor authentication after first login</item>
+          <item>LDAP write support</item>
+          <item>S3 versioning, IBM Spectrum Scale &amp; more</item>
+        </admin>
+      </whatsNew>
+    """
