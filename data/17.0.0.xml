@@ -13,4 +13,52 @@
       <item>S3 versioning, IBM Spectrum Scale &amp; more</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="de">
+    <regular>
+      <item>Fernlöschung</item>
+      <item>Unser neuer ablenkungsfreier, zusammenarbeitsfähiger Rich-Text-Editor</item>
+      <item>Secure view bietet erzwingbare Wasserzeichen für Dokumente</item>
+    </regular>
+    <admin>
+      <item>Konfiguration der Zwei-Faktor-Authentifizierung nach der ersten Anmeldung</item>
+      <item>LDAP Schreibunterstützung</item>
+      <item>S3-Versionierung, IBM Spectrum Scale &amp; mehr</item>
+    </admin>
+  </whatsNew>
+  <whatsNew lang="de_DE">
+    <regular>
+      <item>Fernlöschung</item>
+      <item>Unser neuer ablenkungsfreier, zusammenarbeitsfähiger Rich-Text-Editor</item>
+      <item>Secure view bietet erzwingbare Wasserzeichen für Dokumente</item>
+    </regular>
+    <admin>
+      <item>Konfiguration der Zwei-Faktor-Authentifizierung nach der ersten Anmeldung</item>
+      <item>LDAP Schreibunterstützung</item>
+      <item>S3-Versionierung, IBM Spectrum Scale &amp; mehr</item>
+    </admin>
+  </whatsNew>
+  <whatsNew lang="es">
+    <regular>
+      <item>Borrado remoto</item>
+      <item>Nuestro colaborativo editor de texto enriquecido, sin distracciones</item>
+      <item>La vista segura añade documentos con marcas de agua exigible</item>
+    </regular>
+    <admin>
+      <item>Configurar autenticación de dos factores tras el primer login</item>
+      <item>Soporte escritura LDAP</item>
+      <item>Veriones de S3, IBM Spectrum y otros</item>
+    </admin>
+  </whatsNew>
+  <whatsNew lang="it">
+    <regular>
+      <item>Cancellazione remota</item>
+      <item>Il nostro editor di testo formattato collaborativo e senza distrazioni</item>
+      <item>vista sicura guadgna la possibilità di imporre i watermark nei documenti</item>
+    </regular>
+    <admin>
+      <item>Configura l'autenticazione a due fattori dopo il primo avvio</item>
+      <item>Supporto scrittura LDAP</item>
+      <item>Controllo di versione S3, IBM Spectrum Scale e altro</item>
+    </admin>
+  </whatsNew>
 </release>
