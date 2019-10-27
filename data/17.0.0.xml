@@ -37,6 +37,18 @@
       <item>S3-Versionierung, IBM Spectrum Scale &amp; mehr</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="eo">
+    <regular>
+      <item>Defora forviŝado</item>
+      <item>Nia nova sendistra kunlabora tekstredaktilo riĉa</item>
+      <item>sekuriga vido havas novan trajton: nepra enkorpigo de filigrano</item>
+    </regular>
+    <admin>
+      <item>Agordi dufazan aŭtentigon post la unua ensaluto</item>
+      <item>Ebligo skribi LDAP-on</item>
+      <item>S3-versiuzo, IBM Spectrum Scale kaj aliaj</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="es">
     <regular>
       <item>Borrado remoto</item>
@@ -49,6 +61,18 @@
       <item>Veriones de S3, IBM Spectrum y otros</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="gl">
+    <regular>
+      <item>Limpeza remota</item>
+      <item>O noso novo editor de texto mellorado, colaborativo e sen distraccións</item>
+      <item>a vista segura obtén marcas de auga de documentos executivos</item>
+    </regular>
+    <admin>
+      <item>Estabelecer a autenticación de dous factores após o primeiro acceso</item>
+      <item>Compatibilidade de escritura LDAP</item>
+      <item>Versión do S3, IBM Spectrum Scale e máis</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="it">
     <regular>
       <item>Cancellazione remota</item>
@@ -59,6 +83,18 @@
       <item>Configura l'autenticazione a due fattori dopo il primo avvio</item>
       <item>Supporto scrittura LDAP</item>
       <item>Controllo di versione S3, IBM Spectrum Scale e altro</item>
+    </admin>
+  </whatsNew>
+  <whatsNew lang="pt_BR">
+    <regular>
+      <item>Limpeza remota</item>
+      <item>Nosso novo editor colaborativo de rich text, sem distrações</item>
+      <item>visualização segura obtém marcas d'água de documentos aplicáveis</item>
+    </regular>
+    <admin>
+      <item>Configurar autenticação de dois fatores após o primeiro login</item>
+      <item>Suporte à escrita LDAP</item>
+      <item>Versão S3, IBM Spectrum Scale e mais</item>
     </admin>
   </whatsNew>
 </release>
