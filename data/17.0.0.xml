@@ -97,4 +97,16 @@
       <item>Versão S3, IBM Spectrum Scale e mais</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="tr">
+    <regular>
+      <item>Uzaktan sil</item>
+      <item>Yeni dikkat dağıtmayan, işbirlikli çalışan zengin metin düzenleyicimiz</item>
+      <item>güvenli görünüme dayatılabilir belge filigranları eklendi</item>
+    </regular>
+    <admin>
+      <item>Oturum ilk kez açıldığında iki aşamalı kimlik doğrulaması kurulsun</item>
+      <item>LDAP yazma desteği</item>
+      <item>S3 sürümlendirme, IBM Spectrum Scale ve diğerleri</item>
+    </admin>
+  </whatsNew>
 </release>
