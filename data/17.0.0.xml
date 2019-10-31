@@ -85,6 +85,18 @@
       <item>Controllo di versione S3, IBM Spectrum Scale e altro</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="nl">
+    <regular>
+      <item>Op afstand wissen</item>
+      <item>Onze nieuwe afleidingsvrije, gezamenlijke rijke teksteditor</item>
+      <item>beveiligde weergave krijgt afdwingbare documentwatermerken</item>
+    </regular>
+    <admin>
+      <item>Stel tweefactorauthenticatie in na de eerste login</item>
+      <item>LDAP schrijfondersteuning</item>
+      <item>S3-versiebeheer, IBM Spectrum Scale &amp; meer</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="pt_BR">
     <regular>
       <item>Limpeza remota</item>
