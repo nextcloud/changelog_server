@@ -97,6 +97,18 @@
       <item>S3-versiebeheer, IBM Spectrum Scale &amp; meer</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="pl">
+    <regular>
+      <item>Zdalne czyszczenie</item>
+      <item>Nasz nowy, wolny od zakłóceń, współpracujący edytor tekstu sformatowanego</item>
+      <item>bezpieczny widok umożliwia do wykonania znaki wodne dokumentów</item>
+    </regular>
+    <admin>
+      <item>Ustaw uwierzytelnianie dwuskładnikowe po pierwszym logowaniu</item>
+      <item>Obsługa zapisu LDAP</item>
+      <item>Wersje S3, IBM Spectrum Scale i więcej</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="pt_BR">
     <regular>
       <item>Limpeza remota</item>
