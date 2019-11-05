@@ -133,4 +133,16 @@
       <item>S3 sürümlendirme, IBM Spectrum Scale ve diğerleri</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="zh_CN">
+    <regular>
+      <item>远程擦除</item>
+      <item>我们新的无干扰、专注协作的富文本编辑器</item>
+      <item>安全视图可强制植入文档水印</item>
+    </regular>
+    <admin>
+      <item>在初次登录后配置两步验证</item>
+      <item>LDAP写入支持</item>
+      <item>S3版本控制，IBM Spectrum Scale以及更多</item>
+    </admin>
+  </whatsNew>
 </release>
