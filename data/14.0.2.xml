@@ -241,6 +241,18 @@
       <item>Исправљена грешка са недоступним фајлови која се јављала под појединим условима</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="sv">
+    <regular>
+      <item>Revised file upload handling</item>
+      <item>Contact menus on mentions work again</item>
+      <item>Detaljförbättringar (t.ex. filvisning mobilt)</item>
+    </regular>
+    <admin>
+      <item>Knappen "Lägg till grupp" på användarsidan är tillbaka</item>
+      <item>"Inga"-auth-typ tillgänglig igen i postinställningar</item>
+      <item>Rättade otillgängliga filer under vissa förhållanden</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="tr">
     <regular>
       <item>Dosya yükleme işlemi düzenlendi</item>
