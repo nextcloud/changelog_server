@@ -133,6 +133,18 @@
       <item>Versão S3, IBM Spectrum Scale e mais</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="sr">
+    <regular>
+      <item>Удаљено брисање</item>
+      <item>Наш нови RTF текстуални уређивач за заједнички рад без ометања</item>
+      <item>безбедни преглед омогућава да обезбедите документе са воденим жигом</item>
+    </regular>
+    <admin>
+      <item>Подешавање двофакторске провере идентитета после прве пријаве</item>
+      <item>Подршка за LDAP писање</item>
+      <item>S3 верзионисање, IBM Spectrum Scale &amp; јш</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="tr">
     <regular>
       <item>Uzaktan sil</item>
