@@ -85,6 +85,18 @@
       <item>Versión do S3, IBM Spectrum Scale e máis</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="hr">
+    <regular>
+      <item>Daljinsko brisanje</item>
+      <item>Naš novi, moćan uređivač teksta omogućuje suradnju bez ometanja</item>
+      <item>sigurno pregledavanje za učinkovite vodene žigove na dokumentima</item>
+    </regular>
+    <admin>
+      <item>Postavite dvofaktorsku autentifikaciju nakon prve prijave</item>
+      <item>Podrška za pisanje putem LDAP-a</item>
+      <item>S3 upravljanje inačicama, IBM Spectrum Scale i drugo</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="it">
     <regular>
       <item>Cancellazione remota</item>
