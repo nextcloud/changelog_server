@@ -3,7 +3,7 @@
   <changelog href="https://nextcloud.com/changelog/#16-0-0"/>
   <whatsNew lang="en">
     <regular>
-      <item>Smart recommendations for files, sharees</item>
+      <item>Smart recommendations for files, shares</item>
       <item>Projects: group files, chats, tasks for easy finding</item>
       <item>right-click in Files, new document viewer &amp; more</item>
     </regular>
@@ -159,7 +159,7 @@
   </whatsNew>
   <whatsNew lang="nl">
     <regular>
-      <item>Slimme aanbevelingen voor bestanden, sharees</item>
+      <item>Slimme aanbevelingen voor bestanden, shares</item>
       <item>Projecten: groepsbestanden, chats, taken voor simpel vinden</item>
       <item>rechts-klikken in Bestanden, nieuwe documentenviewer &amp; meer</item>
     </regular>
