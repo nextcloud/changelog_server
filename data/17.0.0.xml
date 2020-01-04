@@ -121,6 +121,18 @@
       <item>Controllo di versione S3, IBM Spectrum Scale e altro</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="ja">
+    <regular>
+      <item>リモートワイプ</item>
+      <item>新しい気が散らず協調的なリッチテキストエディター</item>
+      <item>secure view gains enforceable document watermarks</item>
+    </regular>
+    <admin>
+      <item>初回ログイン後に二要素認証を設定</item>
+      <item>LDAPの書き込みをサポート</item>
+      <item>S3バージョニング、IBM Spectrum Scale他</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="nl">
     <regular>
       <item>Op afstand wissen</item>
