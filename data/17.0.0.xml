@@ -125,7 +125,7 @@
     <regular>
       <item>リモートワイプ</item>
       <item>新しい気が散らず協調的なリッチテキストエディター</item>
-      <item>secure view gains enforceable document watermarks</item>
+      <item>セキュアビューでドキュメントに透かしを表示させられるようになりました</item>
     </regular>
     <admin>
       <item>初回ログイン後に二要素認証を設定</item>
