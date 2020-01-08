@@ -65,7 +65,7 @@
     <regular>
       <item>Borrado remoto</item>
       <item>Nuestro colaborativo editor de texto enriquecido, sin distracciones</item>
-      <item>La vista segura añade documentos con marcas de agua obligadas</item>
+      <item>La vista segura añade marcas de agua impuestas, en la vista de documentos</item>
     </regular>
     <admin>
       <item>Configurar autenticación de dos factores tras el primer login</item>
