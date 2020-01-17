@@ -97,6 +97,18 @@
       <item>Arreglados los archivos no disponibles bajo ciertas condiciones</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="fa">
+    <regular>
+      <item>تجدیدنظرو جابجایی در فایل بارگذاری شده </item>
+      <item>اشاره مجدد در ارتباط منوها</item>
+      <item>جزئیات را بهبود بخشید(به عنوان مثال نمایش پرونده تلفن همراه)</item>
+    </regular>
+    <admin>
+      <item>دکمه "افزودن گروه" در صفحه قبل کاربران صفحه است.</item>
+      <item> هیچ نوشته مجازی در تنظیمات مجدد ایمیل وجود ندارد</item>
+      <item>فایل‌های غیرقابل دسترس تحت برخی شرایط ثابت شده است</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="fr">
     <regular>
       <item>Correction du transfert de fichier</item>

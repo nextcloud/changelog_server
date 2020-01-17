@@ -97,6 +97,18 @@
       <item>Resuelto un falso positivo en la comprobación de configuración del servidor</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="fa">
+    <regular>
+      <item>چندین پیشرفت جزئیات در رابط کاربری</item>
+      <item>به عنوان مثال، آیکون‌های نور با موضوع تاریک</item>
+      <item>یا از هم‌پوشانی دکمه ارسال در نظرات خودداری کنید</item>
+    </regular>
+    <admin>
+      <item>مشکلات برطرف شده با شناسه کاربر غیرمشترک</item>
+      <item>استفاده از پروتکل OAuth در وب ثابت</item>
+      <item>در بررسی راه‌اندازی سرور مثبت کاذب حل شد</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="fr">
     <regular>
       <item>Plusieurs amélioration légères de l'interface utilisateur</item>

@@ -89,6 +89,17 @@
       <item>Temas: se han consolidado los archivos CSS</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="fa">
+    <regular>
+      <item>رابط کاربری تصفیه شده</item>
+      <item>رمز نگاری انتها به انتها</item>
+      <item>چت تصویری و متنی</item>
+    </regular>
+    <admin>
+      <item>تغییر در پیکربندی Nginx</item>
+      <item>مضمون: پرونده های CSS تلفیق شدند</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="fr">
     <regular>
       <item>Interface utilisateur améliorée</item>
