@@ -73,6 +73,18 @@
       <item>Veriones de S3, IBM Spectrum y otros</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="fa">
+    <regular>
+      <item>پاک کردن از راه دور</item>
+      <item>ویرایشگر بدون پریشانی جدید و مشترک متن غنی</item>
+      <item>در حالت «نمایش امن» فایل ها و سندها واترمارک اجباری دارند</item>
+    </regular>
+    <admin>
+      <item>در اولین ورود به سیستم، تأیید هویت دو عاملی را تنظیم کنید</item>
+      <item>پشتیبانی نوشته LDAP</item>
+      <item>نسخه S3 ، مقیاس طیف IBM و موارد دیگر</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="fr">
     <regular>
       <item>Nettoyage/vidage à distance</item>

@@ -97,6 +97,18 @@
       <item>Dashboard actualizado, búsquedas de texto completo y carpetas grupales</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="fa">
+    <regular>
+      <item>شبکه اجتماعی و اشتراک لینک‌های چندگانه Nextcloud </item>
+      <item>طراحی جدید، نمای شبکه و بارگذاری فایل‌ها با سرعت 2 برابر</item>
+      <item>نوار کناری با مشارکت آنلاین و مبادله نوار کناری</item>
+    </regular>
+    <admin>
+      <item>اجرای 2FA و سختی های امنیتی</item>
+      <item>تبدیل خودکار PDF و اجرای اسکریپت</item>
+      <item>بروزرسانی داشبورد، جستجوی کامل متن و مجموعه پوشه‌ها</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="fr">
     <regular>
       <item>Nextcloud social &amp; partages par lien multiple</item>

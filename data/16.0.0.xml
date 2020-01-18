@@ -85,6 +85,18 @@
       <item>Variables para almacenamiento externo (LDAP proporciona '$home')</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="fa">
+    <regular>
+      <item>اشتراک گذاری توصیه های هوشمند برای پرونده ها</item>
+      <item>پروژه ها: پوشه های گروهی، گفتگوها، کارهایی برای یافتن آسان</item>
+      <item>کلیک راست بر روی فایل ها، نمایشگر اسناد جدید و موارد دیگر</item>
+    </regular>
+    <admin>
+      <item>تشخیص ورود مشکوک توان ماشین یادگیری</item>
+      <item>کنترل لیست های دسترسی به مجموعه پوشه ها</item>
+      <item>متغیرهایی برای ذخیره سازی خارجی (LDAP "خانه $" را فراهم می کند)</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="fr">
     <regular>
       <item>Recommandations intelligentes pour les fichiers, les partages</item>
