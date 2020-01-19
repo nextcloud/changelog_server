@@ -61,6 +61,18 @@
       <item>Variablen für externen Speicher (LDAP stellt '$home' bereit)</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="el">
+    <regular>
+      <item>16.0.0-regular1-db3fa10a</item>
+      <item>16.0.0-regular2-2161378c</item>
+      <item>16.0.0-regular3-646fa355</item>
+    </regular>
+    <admin>
+      <item>16.0.0-admin1-694e294c</item>
+      <item>16.0.0-admin2-978954da</item>
+      <item>16.0.0-admin3-71fec2f7</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="eo">
     <regular>
       <item>Inteligentaj rekomendoj por dosieroj, por alkunhavigitoj</item>

@@ -61,6 +61,18 @@
       <item>Kerberos-Authentifizierung gegen Samba; Multi-IdP-SAML</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="el">
+    <regular>
+      <item>14.0.0-regular1-e06eab9a</item>
+      <item>14.0.0-regular2-ca43ab35</item>
+      <item>14.0.0-regular3-969b1bee</item>
+    </regular>
+    <admin>
+      <item>14.0.0-admin1-af6c1504</item>
+      <item>14.0.0-admin2-c36c9acb</item>
+      <item>14.0.0-admin3-28cd5194</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="en_GB">
     <regular>
       <item>Verify a share recipient in a video call; 2FA with Signal &amp; Telegram</item>
