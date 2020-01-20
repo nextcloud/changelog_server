@@ -122,7 +122,7 @@ Feature: testing the response of the Changelog Server
       </whatsNew>
     """
 
-    
+
   Scenario: Ensure current release data of 15 series is returned
     Given the version of interest is "15.0.0"
     When the request is sent
@@ -183,6 +183,27 @@ Feature: testing the response of the Changelog Server
           <item>Setup two-factor authentication after first login</item>
           <item>LDAP write support</item>
           <item>S3 versioning, IBM Spectrum Scale &amp; more</item>
+        </admin>
+      </whatsNew>
+    """
+
+  Scenario: Ensure current release data of 18 series is returned
+    Given the version of interest is "18.0.0"
+    When the request is sent
+    Then the return code is "200"
+    And the response contains
+    """
+      <changelog href="https://nextcloud.com/changelog/#18-0-0"/>
+      <whatsNew lang="en">
+        <regular>
+          <item>Workspaces lets you add a description above your folders</item>
+          <item>File locking prevents conflicts editing shared files with others</item>
+          <item>Flow lets you automate repetitive, boring tasks</item>
+        </regular>
+        <admin>
+          <item>ONLYOFFICE can be installed without docker or reverse proxy</item>
+          <item>Calendar, Mail and Talk rewrites bring many new improvements</item>
+          <item>Flow lets you easily automate tasks, protect files and process documents</item>
         </admin>
       </whatsNew>
     """
