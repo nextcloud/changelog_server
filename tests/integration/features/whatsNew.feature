@@ -202,7 +202,7 @@ Feature: testing the response of the Changelog Server
         </regular>
         <admin>
           <item>ONLYOFFICE can be installed without docker or reverse proxy</item>
-          <item>Calendar, Mail and Talk rewrites bring many improvements</item>
+          <item>Calendar, Mail and Talk rewrites bring many new improvements</item>
           <item>Flow lets you easily automate tasks, protect files and process documents</item>
         </admin>
       </whatsNew>
