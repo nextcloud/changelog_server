@@ -122,7 +122,7 @@ Feature: testing the response of the Changelog Server
       </whatsNew>
     """
 
-    
+
   Scenario: Ensure current release data of 15 series is returned
     Given the version of interest is "15.0.0"
     When the request is sent
@@ -199,11 +199,11 @@ Feature: testing the response of the Changelog Server
           <item>Workspaces lets you add a description above your folders</item>
           <item>File locking prevents conflicts editing shared files with others</item>
           <item>Flow lets you automate repetitive, boring tasks</item>
-          </regular>
+        </regular>
         <admin>
           <item>ONLYOFFICE can be installed without docker or reverse proxy</item>
           <item>Calendar, Mail and Talk rewrites bring many improvements</item>
           <item>Flow lets you easily automate tasks, protect files and process documents</item>
-          </admin>
+        </admin>
       </whatsNew>
     """
