@@ -153,7 +153,7 @@ Feature: testing the response of the Changelog Server
       <changelog href="https://nextcloud.com/changelog/#16-0-0"/>
       <whatsNew lang="en">
         <regular>
-          <item>Smart recommendations for files, sharees</item>
+          <item>Smart recommendations for files, share recipients</item>
           <item>Projects: group files, chats, tasks for easy finding</item>
           <item>right-click in Files, new document viewer &amp; more</item>
         </regular>
