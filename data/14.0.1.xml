@@ -285,7 +285,7 @@
     </regular>
     <admin>
       <item>不常见用户ID的问题处理</item>
-      <item>已修复的使用 OAuth 的 web 登出</item>
+      <item>修复了使用 OAuth 的网页端登出</item>
       <item>解决服务器配置检查中的误报</item>
     </admin>
   </whatsNew>

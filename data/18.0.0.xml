@@ -13,4 +13,112 @@
       <item>Flow lets you easily automate tasks, protect files and process documents</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="cs">
+    <regular>
+      <item>Pracovní plochy vám umožňují přidávat popis nad vašimi složkami</item>
+      <item>Zamykání souborů brání konfliktům při úpravách souborů, sdílených s ostatními uživateli</item>
+      <item>Flow umožňuje automatizovat opakující se, nudné úkoly</item>
+    </regular>
+    <admin>
+      <item>ONLYOFFICE je možné nainstalovat bez použití docker kontejneru či reverzní proxy</item>
+      <item>Předělání aplikací Kalendář, E-mail a Talk přináší mnoho nových vylepšení</item>
+      <item>Flow vám umožňuje jednoduše automatizovat úkoly, chránit soubor a zpracovávat dokumenty</item>
+    </admin>
+  </whatsNew>
+  <whatsNew lang="de">
+    <regular>
+      <item>In Arbeitsbereichen kann Ordnern eine Beschreibung hinzugefügt werden</item>
+      <item>Die Dateisperrung verhindert Konflikte beim gemeinsamen Bearbeiten freigegebener Dateien </item>
+      <item>Mit Flow können wiederkehrende, langweilige Aufgaben automatisiert werden</item>
+    </regular>
+    <admin>
+      <item>ONLYOFFICE kann ohne Docker order Reverse-Proxy installiert werden</item>
+      <item>Kalender, E-Mail und Talk überarbeitungen bringen viele neue Verbesserungen</item>
+      <item>Mit Flow können Aufgaben einfach automatisiert, Dateien geschützt und Dokumente verarbeitet werden</item>
+    </admin>
+  </whatsNew>
+  <whatsNew lang="de_DE">
+    <regular>
+      <item>In Arbeitsbereichen kann Ordnern eine Beschreibung hinzugefügt werden</item>
+      <item>Die Dateisperrung verhindert Konflikte beim gemeinsamen Bearbeiten freigegebener Dateien </item>
+      <item>Mit Flow können wiederkehrende, langweilige Aufgaben automatisiert werden</item>
+    </regular>
+    <admin>
+      <item>ONLYOFFICE kann ohne Docker order Reverse-Proxy installiert werden</item>
+      <item>Kalender, E-Mail und Talk überarbeitungen bringen viele neue Verbesserungen</item>
+      <item>Mit Flow können Aufgaben einfach automatisiert, Dateien geschützt und Dokumente verarbeitet werden</item>
+    </admin>
+  </whatsNew>
+  <whatsNew lang="el">
+    <regular>
+      <item>Το Workspaces επιτρέπει την προσθήκη περιγραφής στους φακέλους σας</item>
+      <item>Το κλείδωμα αρχείων εμποδίζει τις διενέξεις κατά την επεξεργασία των κοινόχρηστων αρχείας με άλλους χρήστες</item>
+      <item>Η Ροή σας επιτρέπει να αυτοματοποιήσετε επαναλαμβανόμενες, βαρετές εργασίες</item>
+    </regular>
+    <admin>
+      <item>Το ONLYOFFICE μπορεί να εγκατασταθεί χωρίς το docker ή reverse proxy</item>
+      <item>Το Ημερολόγιο, το πρόγραμμα Mail και Talk ξαναγράφετε με πολλές βελτιώσεις</item>
+      <item>Η Ροή σας επιτρέπει να αυτοματοποιείτε εύκολα τις εργασίες, να προστατεύετε αρχεία και να επεξεργάζεστε έγγραφα</item>
+    </admin>
+  </whatsNew>
+  <whatsNew lang="gl">
+    <regular>
+      <item>Espazos de traballo permítelle engadir unha descrición por riba dos seus cartafoles</item>
+      <item>O bloqueo de Ficheiros impide conflitos a o editar ficheiros compartidos con outros</item>
+      <item>Fluxo permítelle automatizar tarefas repetitivas e aburridas</item>
+    </regular>
+    <admin>
+      <item>ONLYOFFICE pódese instalar sen docker ou proxy inverso</item>
+      <item>As reescrituras de Calendario, Correo e Talk traen moitas novas melloras</item>
+      <item>Fluxo permítelle automatizar tarefas, protexer ficheiros e procesar documentos</item>
+    </admin>
+  </whatsNew>
+  <whatsNew lang="pl">
+    <regular>
+      <item>Obszary robocze pozwalają dodać opis powyżej katalogów</item>
+      <item>Blokowanie plików zapobiega konfliktom podczas edycji udostępnionych plików innym osobom</item>
+      <item>Flow pozwala zautomatyzować powtarzalne, nudne zadania</item>
+    </regular>
+    <admin>
+      <item>ONLYOFFICE można zainstalować bez dockera lub zwrotnego serwera proxy</item>
+      <item>Udoskonalenie Kalendarza, Maila i Talka przynosi wiele nowych ulepszeń</item>
+      <item>Flow umożliwia łatwą automatyzację zadań, ochronę plików i przetwarzanie dokumentów</item>
+    </admin>
+  </whatsNew>
+  <whatsNew lang="pt_BR">
+    <regular>
+      <item>Áreas de trabalho permitem adicionar uma descrição acima de suas pastas</item>
+      <item>O bloqueio de arquivos evita conflitos ao editar arquivos compartilhados com outras pessoas</item>
+      <item>O Flow permite automatizar tarefas repetitivas e chatas</item>
+    </regular>
+    <admin>
+      <item>ONLYOFFICE pode ser instalado sem docker ou proxy reverso</item>
+      <item>A reescrita do Calendário, Correio e Conversa trazem muitas novas melhorias</item>
+      <item>O Flow permite automatizar tarefas com facilidade, proteger arquivos e processar documentos</item>
+    </admin>
+  </whatsNew>
+  <whatsNew lang="tr">
+    <regular>
+      <item>Çalışma alanları, klasörlerinizin üzerine bir açıklama eklemenizi sağlar</item>
+      <item>Dosya kilitleme özelliği, paylaşılan dosyalarda çakışan düzenlemeler yapılmasını engeller</item>
+      <item>Akış, yinelenen sıkıcı işlemlerin otomatikleştirilmesini sağlar</item>
+    </regular>
+    <admin>
+      <item>ONLYOFFICE docker ya da ters vekil sunucu olmadan kurulabilir</item>
+      <item>Takvim, E-posta ve Sohbet yeniden yazılarak birçok yeni iyileştirme yapıldı</item>
+      <item>Akış, görevleri otomatikleştirmeyi, dosyaları korumayı ve belgeleri işlemeyi kolaylaştırır</item>
+    </admin>
+  </whatsNew>
+  <whatsNew lang="zh_CN">
+    <regular>
+      <item>工作区可让您在文件夹上方添加描述</item>
+      <item>文件锁定可防止与他人编辑共享文件时发生冲突</item>
+      <item>工作流使您可以自动执行重复无聊的任务</item>
+    </regular>
+    <admin>
+      <item>可以在没有 docker 或反向代理的情况下安装 ONLYOFFICE</item>
+      <item>日历，邮件和谈话的重写带来了许多新的改进</item>
+      <item>工作流使您可以轻松地自动执行任务，保护文件和处理文档</item>
+    </admin>
+  </whatsNew>
 </release>

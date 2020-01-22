@@ -15,7 +15,7 @@
   </whatsNew>
   <whatsNew lang="ca">
     <regular>
-      <item>Recomanacions intel·ligents per fitxers, accions</item>
+      <item>Smart recommendations for files, share recipients</item>
       <item>Projectes: fitxers de grup, xats, tasques per trobar fàcilment</item>
       <item>clic amb el botó dret a Fitxers, nou visualitzador de documents i més</item>
     </regular>
@@ -27,7 +27,7 @@
   </whatsNew>
   <whatsNew lang="cs">
     <regular>
-      <item>Chytrá doporučení pro soubory, sdílející</item>
+      <item>Smart recommendations for files, share recipients</item>
       <item>Projekty: skupinové soubory, chaty, úkoly pro snazší nalezení</item>
       <item>klikání pravým tlačítkem v Souborech, nový prohlížeč dokumentů a další</item>
     </regular>
@@ -39,7 +39,7 @@
   </whatsNew>
   <whatsNew lang="de">
     <regular>
-      <item>Intelligente Empfehlungen für Dateien, Freigabenempfänger</item>
+      <item>Smart recommendations for files, share recipients</item>
       <item>Projekte: Gruppendateien, Chats, Aufgaben zum einfachen Finden</item>
       <item>Rechtsklick für Dateien, neuer Dokumentenbetrachter und mehr</item>
     </regular>
@@ -51,7 +51,7 @@
   </whatsNew>
   <whatsNew lang="de_DE">
     <regular>
-      <item>Intelligente Empfehlungen für Dateien, Freigabenempfänger</item>
+      <item>Smart recommendations for files, share recipients</item>
       <item>Projekte: Gruppendateien, Chats, Aufgaben zum einfachen Finden</item>
       <item>Rechtsklick für Dateien, neuer Dokumentenbetrachter und mehr</item>
     </regular>
@@ -63,7 +63,7 @@
   </whatsNew>
   <whatsNew lang="el">
     <regular>
-      <item>16.0.0-regular1-db3fa10a</item>
+      <item>Smart recommendations for files, share recipients</item>
       <item>16.0.0-regular2-2161378c</item>
       <item>16.0.0-regular3-646fa355</item>
     </regular>
@@ -75,7 +75,7 @@
   </whatsNew>
   <whatsNew lang="eo">
     <regular>
-      <item>Inteligentaj rekomendoj por dosieroj, por alkunhavigitoj</item>
+      <item>Smart recommendations for files, share recipients</item>
       <item>Projektoj: grupdosieroj, babiloj, taskoj por pli facile trovi</item>
       <item>Dekstra alklako en „Dosieroj“, nova dokumenta montrilo kaj pli</item>
     </regular>
@@ -87,7 +87,7 @@
   </whatsNew>
   <whatsNew lang="es">
     <regular>
-      <item>Recomendaciones inteligentes para archivos y recursos compartidos</item>
+      <item>Smart recommendations for files, share recipients</item>
       <item>Proyectos: agrupa archivos, chats y tareas para encontrarlos con facilidad</item>
       <item>clic-derecho en Archivos, nuevo visor de documentos y más</item>
     </regular>
@@ -99,7 +99,7 @@
   </whatsNew>
   <whatsNew lang="fa">
     <regular>
-      <item>اشتراک گذاری توصیه های هوشمند برای پرونده ها</item>
+      <item>Smart recommendations for files, share recipients</item>
       <item>پروژه ها: پوشه های گروهی، گفتگوها، کارهایی برای یافتن آسان</item>
       <item>کلیک راست بر روی فایل ها، نمایشگر اسناد جدید و موارد دیگر</item>
     </regular>
@@ -111,7 +111,7 @@
   </whatsNew>
   <whatsNew lang="fr">
     <regular>
-      <item>Recommandations intelligentes pour les fichiers, les partages</item>
+      <item>Smart recommendations for files, share recipients</item>
       <item>Projets : fichiers de groupe, discussions, tâches pour faciliter la recherche</item>
       <item>clic-droit dans Fichiers, nouvelle visionneuse de documents et plus encore</item>
     </regular>
@@ -123,7 +123,7 @@
   </whatsNew>
   <whatsNew lang="gl">
     <regular>
-      <item>Recomendacións intelixentes para ficheiros e recursos compartidos</item>
+      <item>Smart recommendations for files, share recipients</item>
       <item>Proxectos: ficheiros de grupo, conversas, tarefas para facilitar a busca</item>
       <item>prema co botón dereito en Ficheiros, novo visor de documentos e máis</item>
     </regular>
@@ -135,7 +135,7 @@
   </whatsNew>
   <whatsNew lang="hr">
     <regular>
-      <item>Pametne preporuke za datoteke, djelitelje</item>
+      <item>Smart recommendations for files, share recipients</item>
       <item>Projekti: grupne datoteke, razmjene poruka, zadaci za lakše pronalaženje</item>
       <item>desnom tipkom miša kliknite na datoteke, novi preglednik dokumenata i drugo</item>
     </regular>
@@ -147,7 +147,7 @@
   </whatsNew>
   <whatsNew lang="hu">
     <regular>
-      <item>Okos fájl- és megosztási javaslatok</item>
+      <item>Smart recommendations for files, share recipients</item>
       <item>Projektek: csoportfájlok, csevegések, feladatok a könnyű kereséshez</item>
       <item>jobb kattintás a Fájlokban, új dokumentummegjelenítő és egyebek</item>
     </regular>
@@ -159,7 +159,7 @@
   </whatsNew>
   <whatsNew lang="it">
     <regular>
-      <item>Consigli intelligenti per file, condivisioni</item>
+      <item>Smart recommendations for files, share recipients</item>
       <item>Progetti: raggruppano file, chat, attività per semplificare le ricerche</item>
       <item>tasto destro in File, nuovo visualizzatore di documenti e altro </item>
     </regular>
@@ -171,7 +171,7 @@
   </whatsNew>
   <whatsNew lang="ja">
     <regular>
-      <item>ファイル、共有者に対するスマートな推奨</item>
+      <item>Smart recommendations for files, share recipients</item>
       <item>プロジェクト：グループファイル、チャット、見つけやすいタスク</item>
       <item>ファイルを右クリックで新規ドキュメントビューアなどなど</item>
     </regular>
@@ -183,7 +183,7 @@
   </whatsNew>
   <whatsNew lang="nl">
     <regular>
-      <item>Slimme aanbevelingen voor bestanden, sharees</item>
+      <item>Smart recommendations for files, share recipients</item>
       <item>Projecten: groepsbestanden, chats, taken voor simpel vinden</item>
       <item>rechts-klikken in Bestanden, nieuwe documentenviewer &amp; meer</item>
     </regular>
@@ -195,7 +195,7 @@
   </whatsNew>
   <whatsNew lang="pl">
     <regular>
-      <item>Inteligentne zalecenia dotyczące plików, udostępnień</item>
+      <item>Smart recommendations for files, share recipients</item>
       <item>Projekty: pliki grup, czaty, zadania ułatwiające wyszukiwanie</item>
       <item>kliknij prawym przyciskiem myszy na Pliki, nowa przeglądarka dokumentów i inne</item>
     </regular>
@@ -207,7 +207,7 @@
   </whatsNew>
   <whatsNew lang="pt_BR">
     <regular>
-      <item>Recomendações inteligentes para arquivos, compartilhamentos</item>
+      <item>Smart recommendations for files, share recipients</item>
       <item>Projetos: arquivos de grupo, bate-papos, tarefas para facilitar a busca</item>
       <item>clique com o botão direito em Arquivos, novo visualizador de documentos e mais</item>
     </regular>
@@ -219,7 +219,7 @@
   </whatsNew>
   <whatsNew lang="ru">
     <regular>
-      <item>Умные рекомендации для файлов, публикаций</item>
+      <item>Smart recommendations for files, share recipients</item>
       <item>Проекты: группировка файлов, обсуждений, задач для лёгкого поиска</item>
       <item>Правая кнопка мыши в приложении Files, новый просмотрщик документов и т. д.</item>
     </regular>
@@ -231,7 +231,7 @@
   </whatsNew>
   <whatsNew lang="sr">
     <regular>
-      <item>Паметне препоруке за фајлове, особе за дељење</item>
+      <item>Smart recommendations for files, share recipients</item>
       <item>Пројекти: групишите фајлове, разговоре, задатке ради лакшег проналажења</item>
       <item>десни клик у апликацији Фајлова, нови прегледач докумената &amp; још више</item>
     </regular>
@@ -243,7 +243,7 @@
   </whatsNew>
   <whatsNew lang="tr">
     <regular>
-      <item>Dosyalar ve paylaşımlar için akıllı öneriler</item>
+      <item>Smart recommendations for files, share recipients</item>
       <item>Projeler: Dosya, görüşme ve görevleri kolayca bulmak için gruplama</item>
       <item>dosyalar üzerinde sağ tıklama, yeni belge görüntüleyici ve diğerleri</item>
     </regular>
@@ -255,7 +255,7 @@
   </whatsNew>
   <whatsNew lang="zh_CN">
     <regular>
-      <item>文件和共享的智能推荐</item>
+      <item>Smart recommendations for files, share recipients</item>
       <item>项目：分组文件，聊天，简易查找任务</item>
       <item>文件应用中的右键菜单，新的文档查看器及更多</item>
     </regular>

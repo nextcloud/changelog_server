@@ -261,7 +261,7 @@
       <item>视频和文本聊天</item>
     </regular>
     <admin>
-      <item>Nginx 配置修改</item>
+      <item>对 Nginx 配置的修改</item>
       <item>主题：合并 CSS 文件</item>
     </admin>
   </whatsNew>
