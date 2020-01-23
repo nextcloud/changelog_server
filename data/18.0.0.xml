@@ -61,6 +61,18 @@
       <item>Η Ροή σας επιτρέπει να αυτοματοποιείτε εύκολα τις εργασίες, να προστατεύετε αρχεία και να επεξεργάζεστε έγγραφα</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="es">
+    <regular>
+      <item>Workspaces te permite agregar una descripción a tus carpetas</item>
+      <item>"File Locking" previene conflictos al editar archivos compartidos con otros</item>
+      <item>"Flow" te permite automatizar tareas aburridas o repetitivas</item>
+    </regular>
+    <admin>
+      <item>ONLYOFFICE puede ser instalado sin docker o proxy inverso</item>
+      <item>La reedición de Calendario, Mail y Talk traen muchas mejoras nuevas</item>
+      <item>"Flow" te permite automatizar tareas fácilmente, proteger archivos y procesar documentos</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="gl">
     <regular>
       <item>Espazos de traballo permítelle engadir unha descrición por riba dos seus cartafoles</item>
@@ -71,6 +83,30 @@
       <item>ONLYOFFICE pódese instalar sen docker ou proxy inverso</item>
       <item>As reescrituras de Calendario, Correo e Talk traen moitas novas melloras</item>
       <item>Fluxo permítelle automatizar tarefas, protexer ficheiros e procesar documentos</item>
+    </admin>
+  </whatsNew>
+  <whatsNew lang="it">
+    <regular>
+      <item>Le aree di lavoro ti consentono di aggiungere una descrizione sopra le tue cartelle</item>
+      <item>Il blocco dei file impediscono conflitti durante la modifica di file condivisi con altri</item>
+      <item>Flow consente di automatizzare operazioni ripetitive e noiose</item>
+    </regular>
+    <admin>
+      <item>ONLYOFFICE può essere installato senza docker o reverse proxy</item>
+      <item>La riscrittura di Calendario, Posta e Talk portani molti nuovi miglioramenti</item>
+      <item>Flow consente di automatizzare facilmente operazioni, proteggere file ed elaborare documenti</item>
+    </admin>
+  </whatsNew>
+  <whatsNew lang="nl">
+    <regular>
+      <item>Met Workspaces kunt u een beschrijving boven uw mappen toevoegen</item>
+      <item>Bestandsvergrendeling voorkomt conflicten bij het bewerken van gedeelde bestanden met anderen</item>
+      <item>Flow lets you automate repetitive, boring tasks</item>
+    </regular>
+    <admin>
+      <item>ONLYOFFICE kan zonder docker of reverse proxy worden geïnstalleerd</item>
+      <item>Calendar, Mail and Talk rewrites bring many new improvements</item>
+      <item>Met Flow kunt u eenvoudig taken automatiseren, bestanden beveiligen en documenten verwerken</item>
     </admin>
   </whatsNew>
   <whatsNew lang="pl">

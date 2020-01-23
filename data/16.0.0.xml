@@ -27,7 +27,7 @@
   </whatsNew>
   <whatsNew lang="cs">
     <regular>
-      <item>Smart recommendations for files, share recipients</item>
+      <item>Chytré doporučování souborů a příjemců sdílení</item>
       <item>Projekty: skupinové soubory, chaty, úkoly pro snazší nalezení</item>
       <item>klikání pravým tlačítkem v Souborech, nový prohlížeč dokumentů a další</item>
     </regular>
@@ -87,7 +87,7 @@
   </whatsNew>
   <whatsNew lang="es">
     <regular>
-      <item>Smart recommendations for files, share recipients</item>
+      <item>Recomendaciones inteligentes para archivos y receptores de compartidos</item>
       <item>Proyectos: agrupa archivos, chats y tareas para encontrarlos con facilidad</item>
       <item>clic-derecho en Archivos, nuevo visor de documentos y más</item>
     </regular>
@@ -123,7 +123,7 @@
   </whatsNew>
   <whatsNew lang="gl">
     <regular>
-      <item>Smart recommendations for files, share recipients</item>
+      <item>Recomendacións intelixentes para ficheiros, compartir destinatarios</item>
       <item>Proxectos: ficheiros de grupo, conversas, tarefas para facilitar a busca</item>
       <item>prema co botón dereito en Ficheiros, novo visor de documentos e máis</item>
     </regular>
@@ -159,7 +159,7 @@
   </whatsNew>
   <whatsNew lang="it">
     <regular>
-      <item>Smart recommendations for files, share recipients</item>
+      <item>Consigli intelligenti per file, destinatari delle condivisioni</item>
       <item>Progetti: raggruppano file, chat, attività per semplificare le ricerche</item>
       <item>tasto destro in File, nuovo visualizzatore di documenti e altro </item>
     </regular>
@@ -183,7 +183,7 @@
   </whatsNew>
   <whatsNew lang="nl">
     <regular>
-      <item>Smart recommendations for files, share recipients</item>
+      <item>Slimme aanbevelingen voor bestanden, shares, ontvangers</item>
       <item>Projecten: groepsbestanden, chats, taken voor simpel vinden</item>
       <item>rechts-klikken in Bestanden, nieuwe documentenviewer &amp; meer</item>
     </regular>
@@ -195,7 +195,7 @@
   </whatsNew>
   <whatsNew lang="pl">
     <regular>
-      <item>Smart recommendations for files, share recipients</item>
+      <item>Inteligentne zalecenia dla plików, udostępnianych odbiorcom</item>
       <item>Projekty: pliki grup, czaty, zadania ułatwiające wyszukiwanie</item>
       <item>kliknij prawym przyciskiem myszy na Pliki, nowa przeglądarka dokumentów i inne</item>
     </regular>
@@ -207,7 +207,7 @@
   </whatsNew>
   <whatsNew lang="pt_BR">
     <regular>
-      <item>Smart recommendations for files, share recipients</item>
+      <item>Recomendações inteligentes para arquivos, compartilhe destinatários</item>
       <item>Projetos: arquivos de grupo, bate-papos, tarefas para facilitar a busca</item>
       <item>clique com o botão direito em Arquivos, novo visualizador de documentos e mais</item>
     </regular>
@@ -255,7 +255,7 @@
   </whatsNew>
   <whatsNew lang="zh_CN">
     <regular>
-      <item>Smart recommendations for files, share recipients</item>
+      <item>针对文件应用的智能建议，共享收件人</item>
       <item>项目：分组文件，聊天，简易查找任务</item>
       <item>文件应用中的右键菜单，新的文档查看器及更多</item>
     </regular>
