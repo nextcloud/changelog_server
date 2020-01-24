@@ -39,7 +39,7 @@
   </whatsNew>
   <whatsNew lang="de">
     <regular>
-      <item>Smart recommendations for files, share recipients</item>
+      <item>Intelligente Empfehlungen für Dateien und Empfänger von Freigaben</item>
       <item>Projekte: Gruppendateien, Chats, Aufgaben zum einfachen Finden</item>
       <item>Rechtsklick für Dateien, neuer Dokumentenbetrachter und mehr</item>
     </regular>
@@ -51,7 +51,7 @@
   </whatsNew>
   <whatsNew lang="de_DE">
     <regular>
-      <item>Smart recommendations for files, share recipients</item>
+      <item>Intelligente Empfehlungen für Dateien, Freigabenempfänger</item>
       <item>Projekte: Gruppendateien, Chats, Aufgaben zum einfachen Finden</item>
       <item>Rechtsklick für Dateien, neuer Dokumentenbetrachter und mehr</item>
     </regular>
@@ -243,7 +243,7 @@
   </whatsNew>
   <whatsNew lang="tr">
     <regular>
-      <item>Smart recommendations for files, share recipients</item>
+      <item>Dosyalar, paylaşımlar ve alıcılar için akıllı öneriler</item>
       <item>Projeler: Dosya, görüşme ve görevleri kolayca bulmak için gruplama</item>
       <item>dosyalar üzerinde sağ tıklama, yeni belge görüntüleyici ve diğerleri</item>
     </regular>
