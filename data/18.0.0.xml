@@ -73,6 +73,18 @@
       <item>"Flow" te permite automatizar tareas fácilmente, proteger archivos y procesar documentos</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="fr">
+    <regular>
+      <item>Workspaces vous permet d'ajouter une description au-dessus de vos dossiers</item>
+      <item>Le verrouillage de fichier empêche les conflits lors de la modification d'un fichier partagé</item>
+      <item>Flow vous permet d'automatiser les tâches répétitives et ennuyeuses.</item>
+    </regular>
+    <admin>
+      <item>ONLYOFFICE peut être installé sans docket ou proxy inverse</item>
+      <item>La réécriture de Calendar, Mail et Talk apporte de nombreuses améliorations </item>
+      <item>Flow vous permet d'automatiser certaines tâches, de protéger des fichiers et de traiter des documents</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="gl">
     <regular>
       <item>Espazos de traballo permítelle engadir unha descrición por riba dos seus cartafoles</item>
