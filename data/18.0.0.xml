@@ -73,6 +73,18 @@
       <item>"Flow" te permite automatizar tareas fácilmente, proteger archivos y procesar documentos</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="fa">
+    <regular>
+      <item>فضای کاری به شما امکان می دهد توضیحی در بالای پوشه های خود اضافه کنید</item>
+      <item>قفل پرونده مانع از بروز اختلاف در ویرایش پرونده های مشترک با دیگران می شود.</item>
+      <item>جریان به شما امکان می دهد کارهای تکراری و کسل کننده را به طور خودکار انجام دهید</item>
+    </regular>
+    <admin>
+      <item>ONLYOFFICE را می توان بدون داکر یا پروکسی معکوس نصب کرد</item>
+      <item>بازنویسی تقویم، نامه و گفتگو پیشرفت های جدید بسیاری را به همراه دارد</item>
+      <item>جریان به شما امکان می دهد تا به راحتی کارهای خود را به صورت خودکار، محافظت از پرونده ها و اسناد پردازش کنید</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="fr">
     <regular>
       <item>Workspaces vous permet d'ajouter une description au-dessus de vos dossiers</item>
