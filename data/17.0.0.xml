@@ -193,6 +193,18 @@
       <item>Versão S3, IBM Spectrum Scale e mais</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="ru">
+    <regular>
+      <item>Поддержка принудительного стирания файлов с устройств;</item>
+      <item>Our new distraction-free, collaborative rich text editor</item>
+      <item>secure view gains enforceable document watermarks</item>
+    </regular>
+    <admin>
+      <item>Настройка двухфакторной аутентификации после первого входа в систему;</item>
+      <item>Поддержка записи в каталоги LDAP;</item>
+      <item>Поддержка версионирования для хранилищ S3, IBM Spectrum Scale и прочих;</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="sr">
     <regular>
       <item>Удаљено брисање</item>
