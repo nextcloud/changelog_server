@@ -51,14 +51,14 @@
   </whatsNew>
   <whatsNew lang="el">
     <regular>
-      <item>17.0.0-regular1-3cc72639</item>
-      <item>17.0.0-regular2-582ed3b7</item>
-      <item>17.0.0-regular3-498431c9</item>
+      <item>Απομακρυσμένη εκκαθάριση</item>
+      <item>Ο νέος χωρίς περιορισμούς, συνεργατικός επεξεργαστής κειμένου</item>
+      <item>η ασφαλής προβολή παρέχει υδατογραφήματα εγγράφων</item>
     </regular>
     <admin>
-      <item>17.0.0-admin1-484a69c9</item>
-      <item>17.0.0-admin2-fa448241</item>
-      <item>17.0.0-admin3-874535a8</item>
+      <item>Ρύθμιση πιστοποίησης δύο-παραγόντων μετά την πρώτη σύνδεση</item>
+      <item>Υποστήριξη εγγραφής LDAP</item>
+      <item>S3 εκδόσεις, IBM Spectrum Scale και πολλά άλλα</item>
     </admin>
   </whatsNew>
   <whatsNew lang="eo">
