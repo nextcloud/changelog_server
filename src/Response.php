@@ -26,7 +26,7 @@ class Response {
 			. 'xml';
 
 		if(!file_exists($path)) {
-			header('HTTP/1.1 404 Not Found');
+			header("Etag: " . md5(''));
 			return;
 		}
 

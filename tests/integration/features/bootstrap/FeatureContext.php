@@ -112,4 +112,18 @@ class FeatureContext implements SnippetAcceptingContext {
 	{
 		$this->knownEtag = $this->responseEtag;
 	}
+
+	/**
+	 * @Given /^the etag is "([^"]*)"$/
+	 * @throws Exception
+	 */
+	public function theEtagIs(string $expectedEtag)
+	{
+		if($expectedEtag !== $this->responseEtag) {
+			throw new \Exception(
+				'The response etag was expected to be ' . $expectedEtag
+				. ', but actually is ' . $this->responseEtag
+			);
+		}
+	}
 }
