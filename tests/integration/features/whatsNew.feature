@@ -3,7 +3,8 @@ Feature: testing the response of the Changelog Server
     Given the version of interest is "11.0.0"
     When the request is sent
     Then the response is empty
-    And the return code is "404"
+    And the return code is "200"
+    And the etag is "d41d8cd98f00b204e9800998ecf8427e"
 
   Scenario: Request against an invalid version (wrong format)
     Given the version of interest is "eleven oh oh"
