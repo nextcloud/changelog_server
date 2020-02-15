@@ -157,6 +157,18 @@
       <item>O Flow permite automatizar tarefas com facilidade, proteger arquivos e processar documentos</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="sr">
+    <regular>
+      <item>Радна Места вам дају да додате опис изнад Ваших фасцикли</item>
+      <item>Закључавање фајлова онемогућава конфликте приликом уређивања дељених фајлова са другима</item>
+      <item>Flow Вам даје да аутоматизујете понављајуће, досадне задатке</item>
+    </regular>
+    <admin>
+      <item>ONLYOFFICE може бити инсталиран без докера или обрнутог проксија</item>
+      <item>Поновна писања апликација Календара, Е-поште и Разговора доносе бројна нова побољшања</item>
+      <item>Flow Вам дозвољава да лако аутоматизујете задатке, заштитие фајлове и обрађујете документа</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="tr">
     <regular>
       <item>Çalışma alanları, klasörlerinizin üzerine bir açıklama eklemenizi sağlar</item>
