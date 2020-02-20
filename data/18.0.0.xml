@@ -125,11 +125,11 @@
     <regular>
       <item>Met Workspaces kunt u een beschrijving boven uw mappen toevoegen</item>
       <item>Bestandsvergrendeling voorkomt conflicten bij het bewerken van gedeelde bestanden met anderen</item>
-      <item>Flow lets you automate repetitive, boring tasks</item>
+      <item>Met Flow kan je repetitieve, saaie taken automatiseren</item>
     </regular>
     <admin>
       <item>ONLYOFFICE kan zonder docker of reverse proxy worden geïnstalleerd</item>
-      <item>Calendar, Mail and Talk rewrites bring many new improvements</item>
+      <item>Kalender, Mail en Talk aanpassingen brengen vele nieuwe verbeteringen</item>
       <item>Met Flow kunt u eenvoudig taken automatiseren, bestanden beveiligen en documenten verwerken</item>
     </admin>
   </whatsNew>
