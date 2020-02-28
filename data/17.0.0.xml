@@ -196,8 +196,8 @@
   <whatsNew lang="ru">
     <regular>
       <item>Поддержка принудительного стирания файлов с устройств;</item>
-      <item>Our new distraction-free, collaborative rich text editor</item>
-      <item>secure view gains enforceable document watermarks</item>
+      <item>Новый редактор текста с поддержкой форматирования и совместной работы c с лаконичным интерфейсом;</item>
+      <item>Поддержка добавления водяных знаков в режиме безопасного просмотра документов;</item>
     </regular>
     <admin>
       <item>Настройка двухфакторной аутентификации после первого входа в систему;</item>
