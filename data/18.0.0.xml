@@ -109,6 +109,18 @@
       <item>Fluxo permítelle automatizar tarefas, protexer ficheiros e procesar documentos</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="hr">
+    <regular>
+      <item>Workspaces dodaje opis iznad mapa</item>
+      <item>Zaključavanje datoteka sprječava nepodudaranja između datoteka koje se uređuju</item>
+      <item>Flow omogućuje automatizaciju ponavljajućih, dosadnih zadataka</item>
+    </regular>
+    <admin>
+      <item>Moguće je instalirati ONLYOFFICE bez dockera ili obrnutog proxyja</item>
+      <item>Ažurirani Calendar, Mail i Talk donose mnoga poboljšanja</item>
+      <item>Flow omogućuje jednostavnu automatizaciju zadataka, zaštitu datoteka i obradu dokumenata</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="it">
     <regular>
       <item>Le aree di lavoro ti consentono di aggiungere una descrizione sopra le tue cartelle</item>
