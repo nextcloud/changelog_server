@@ -189,7 +189,7 @@
     </regular>
     <admin>
       <item>Gestiti i problemi con ID utente insoliti</item>
-      <item>Corretta disconnessione web utikizzando OAuth</item>
+      <item>Corretta disconnessione web utilizzando OAuth</item>
       <item>Risolto falso positivo nel controllo di installazione del server</item>
     </admin>
   </whatsNew>
