@@ -141,7 +141,7 @@
     </regular>
     <admin>
       <item>Require PHP &gt;=7.0, formato de rexistro, etiqueta do rexistro do sistema e configuración do Nginx cambiados</item>
-      <item>Mellorado o cumprimento de GDPR a través de aplicacións; rexistro de auditoría separado</item>
+      <item>Mellorado o cumprimento do RGPD mediante aplicacións; rexistro de auditoría separado</item>
       <item>Autorización Kerberos para Samba; SAML multi-IdP</item>
     </admin>
   </whatsNew>
