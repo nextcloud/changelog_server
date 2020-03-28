@@ -253,6 +253,18 @@
       <item>Обновления приложений «Панель управления», «Полнотекстовый поиск» и «Папки групп»;</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="sk">
+    <regular>
+      <item>Nextcloud sociálne a viac odkazové zdieľania</item>
+      <item>Nový dizajn, zobrazenie v mriežke a 2x rýchlejšie načítanie aplikácie Súbory</item>
+      <item> bočný panel s Collabora Online a Talk </item>
+    </regular>
+    <admin>
+      <item>vynútenie dvojfázového overovania a posilnenie zabezpečenia</item>
+      <item>automatický prevod do PDF a vykonávanie skriptov</item>
+      <item>Aktualizovaná nástenka, celotextové vyhľadávanie a skupinové priečinky</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="sr">
     <regular>
       <item>Друштвени Некстклауд и вишеструке везе дељења</item>

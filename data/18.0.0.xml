@@ -181,6 +181,18 @@
       <item>Приложение Flow позволяет автоматизировать операции, защищать файлы и обрабатывать документы;</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="sk">
+    <regular>
+      <item>Pracovné priestory vám umožňujú pridať popis nad vaše priečinky</item>
+      <item>Zamykanie súborov zabraňuje konfliktom pri úprave zdieľaných súborov</item>
+      <item>Flow (Tok) vám umožňuje automatizovať opakujúce sa a nudné úlohy</item>
+    </regular>
+    <admin>
+      <item>ONLYOFFICE sa dá nainštalovať bez docker kontajneru alebo reverzného proxy</item>
+      <item>Prepracovanie Kalendára, E-mailu a Rozhovoru prináša mnoho nových vylepšení.</item>
+      <item>Flow(Tok) vám umožňuje ľahko automatizovať úlohy, chrániť súbory a spracovávať dokumenty</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="sr">
     <regular>
       <item>Радна Места вам дају да додате опис изнад Ваших фасцикли</item>

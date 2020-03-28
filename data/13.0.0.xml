@@ -232,6 +232,17 @@
       <item>Поддержка стилей оформления: объединение CSS-файлов;</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="sk">
+    <regular>
+      <item>Vylepšené užívateľské rozhranie</item>
+      <item>Šifrovanie po celej dĺžke spojenia</item>
+      <item>Video a textová konverzácia</item>
+    </regular>
+    <admin>
+      <item>Zmeny v konfigurácii Nginx</item>
+      <item>Témy vzhľadu: súbory CSS boli konsolidované</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="sr">
     <regular>
       <item>Побољшан кориснички интерфејс</item>

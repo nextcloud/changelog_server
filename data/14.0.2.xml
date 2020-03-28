@@ -253,6 +253,18 @@
       <item>Исправлены ошибки недоступности файлов в некоторых условиях;</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="sk">
+    <regular>
+      <item>Upravené nahrávanie súborov</item>
+      <item>Ponuky kontaktu pri zmienkach opäť fungujú</item>
+      <item>Drobné vylepšenia (napr. zobrazenie súborov v mobilnej verzii)</item>
+    </regular>
+    <admin>
+      <item>Tlačidlo „Pridať skupinu“ na stránke používateľov je späť</item>
+      <item>V nastaveniach e-mailu je znova k dispozícii typ overenia „Žiadny“</item>
+      <item>Opravená nedostupnosť súborov za určitých podmienok</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="sr">
     <regular>
       <item>Преиспитано руковање отпремањем фајлова</item>

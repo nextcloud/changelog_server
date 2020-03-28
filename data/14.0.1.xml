@@ -253,6 +253,18 @@
       <item>Исправлено ложное срабатывание при проверке настроек сервера;</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="sk">
+    <regular>
+      <item>Niekoľko drobných vylepšení v používateľskom rozhraní</item>
+      <item>napr. svetlé ikony v tmavej téme vzhľadu</item>
+      <item>alebo zabránenie prekrytia tlačidla odoslania v komentároch</item>
+    </regular>
+    <admin>
+      <item>Opravené problémy s nezvyčajnými identifikátormi používateľov</item>
+      <item>Opravené odhlásenie z webu pri použití OAuth</item>
+      <item>Opravený falošný poplach pri kontrole nastavenia servera</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="sr">
     <regular>
       <item>Неколико ситних побољшања у корисничком интерфејсу</item>

@@ -229,6 +229,18 @@
       <item>Переменные для внешнего хранилища (LDAP предоставляет '$home')</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="sk">
+    <regular>
+      <item>Inteligentné odporúčania súborov a príjemcov zdieľaní </item>
+      <item>Projekty: súbory skupín, rozhovory, úlohy pre ľahké vyhľadávanie</item>
+      <item>klikanie pravým tlačidlom v Súboroch, nový prehliadač dokumentov a ďalšie</item>
+    </regular>
+    <admin>
+      <item>Na strojovom učení založené zisťovanie podozrivých prihlásení</item>
+      <item>Zoznamy riadenia prístupu v priečinkoch skupín</item>
+      <item>Premenné pre externý ukladací priestor (LDAP poskytuje '$ home')</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="sr">
     <regular>
       <item>Паметне препоруке за фајлове, особе за дељење</item>

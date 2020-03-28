@@ -253,6 +253,18 @@
       <item>Поддержка проверка подлинности Kerberos для протокола Samba; Поддержка язык разметки декларации безопасности (SAML) для множественных поставщиков учётных записей;</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="sk">
+    <regular>
+      <item>Overte príjemcu zdieľania pri video hovore; 2FA pomocou Signal &amp; Telegram</item>
+      <item>Pridať poznámku k zdieľaniam; rozširuje zobrazenia zdieľaní; hľadať podľa komentárov</item>
+      <item>Zlepšenie použiteľnosti pre hendikepovaných, vrátane témy vzhľadu s vysokým kontrastom</item>
+    </regular>
+    <admin>
+      <item>Vyžaduje PHP 7.0 a novší – formát záznamu udalostí, štítok a nastavenie nginx bolo v syslog zmenené</item>
+      <item>Zlepšený súlad s GDPR prostredníctvom aplikácií; samostatný protokol auditu</item>
+      <item>Kerberos overovanie k Samba; multi-IdP SAML</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="sr">
     <regular>
       <item>Провера примаоца дељења кроз видео позив; Двофакторска провера идентитета преко Сигнала &amp; Телеграма</item>
