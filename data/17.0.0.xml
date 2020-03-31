@@ -85,6 +85,18 @@
       <item>Veriones de S3, IBM Spectrum y otros</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="eu">
+    <regular>
+      <item>Urruneko garbiketa</item>
+      <item>Gure distrakziorik gabeko testu editore aberats kolaboratzaile berria</item>
+      <item>Ikuspegi seguruari gehitu zaio dokumentuetan ur-marka behartzeko aukera</item>
+    </regular>
+    <admin>
+      <item>Ezarri bi faktoreko autentifikazioa lehen aldiz saioa hastean</item>
+      <item>LDAP idazteko laguntza</item>
+      <item>S3 bertsioa, IBM Spectrum Scale eta gehiago</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="fa">
     <regular>
       <item>پاک کردن از راه دور</item>

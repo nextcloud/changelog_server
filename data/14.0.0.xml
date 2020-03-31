@@ -109,6 +109,18 @@
       <item>Autorización Kerberos a Samba; SAML multi-IdP</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="eu">
+    <regular>
+      <item>Partekatze edukiak egiaztatzea bideo deian; Signal eta Telegramekin 2FA</item>
+      <item>Partekatzen direnei oharra gehitzea; partekatuen ikuspegia zabaltzea; iruzkinen arabera bilaketa egitea</item>
+      <item>Irisgarritasun hobekuntzak, kontraste altuko gai bat barne</item>
+    </regular>
+    <admin>
+      <item>PHP &gt;= 7.0, log formatua, syslog etiketa eta nginx konfigurazioa aldatuta behar ditu</item>
+      <item>DBEO betetzea aplikazioen bidez hobetuta; auditoretza-egunkari banatua</item>
+      <item>Kerberos autentifikazioa Samba-ri; multi-IdP SAML </item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="fa">
     <regular>
       <item>در یک تماس ویدیویی یک گیرنده اشتراک را تأیید کنید. 2FA با سیگنال و تلگرام</item>

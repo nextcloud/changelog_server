@@ -97,6 +97,18 @@
       <item>Variables para almacenamiento externo (LDAP proporciona '$home')</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="eu">
+    <regular>
+      <item>Gomendio onak fitxategientzat, eduki partekatzeak</item>
+      <item>Proiektuak: talde fitxategiak, txatak, erraz aurkitzeko atazak</item>
+      <item>Eskuin klika egin fitxategiei, dokumentu ikusgailua eta gehiago</item>
+    </regular>
+    <admin>
+      <item>Saio haste susmagarrien detekzioa makina-ikaskuntza bidez</item>
+      <item>Sarrera baimenen kontrol zerrendak Taldekarpetetan</item>
+      <item>Kanpo biltegiratzea egiteko aldagaiak (LDAP hornitzaileak '$home') </item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="fa">
     <regular>
       <item>توصیه های هوشمند برای پرونده ها، گیرندگان را به اشتراک بگذارید</item>

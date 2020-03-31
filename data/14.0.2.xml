@@ -109,6 +109,18 @@
       <item>Arreglados los archivos no disponibles bajo ciertas condiciones</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="eu">
+    <regular>
+      <item>Fitxategiak igotzeko maneiua berrikusita</item>
+      <item>Kontaktuen menuak berriro aipamen lanetan</item>
+      <item>Detaileen hobekuntza (adib. mugikorrean fitxategiak ikustea)</item>
+    </regular>
+    <admin>
+      <item>«Gehitu taldea» botoia erabiltzaileen orrian berriro jarri da</item>
+      <item>"Batere ez" autentifikazio aukera eskuragarri berriro e-posta ezarpenetan</item>
+      <item>Fitxategiak eskuragarri ez izatea konponduta egoera batzuetan</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="fa">
     <regular>
       <item>تجدیدنظرو جابجایی در فایل بارگذاری شده </item>

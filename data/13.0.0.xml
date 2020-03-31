@@ -100,6 +100,17 @@
       <item>Temas: se han consolidado los archivos CSS</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="eu">
+    <regular>
+      <item>Erabiltzaile interfazea findua</item>
+      <item>Muturretik muturrerako zifratzea</item>
+      <item>Bideo eta testu txata</item>
+    </regular>
+    <admin>
+      <item>Nginx konfigurazioaren aldaketak</item>
+      <item>Gaiak: CSS fitxategiak finkatuta</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="fa">
     <regular>
       <item>رابط کاربری تصفیه شده</item>

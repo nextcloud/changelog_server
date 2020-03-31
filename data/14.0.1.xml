@@ -109,6 +109,18 @@
       <item>Resuelto un falso positivo en la comprobación de configuración del servidor</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="eu">
+    <regular>
+      <item>Erabiltzaile interfazean detaile ugariren hobekuntza</item>
+      <item>Esaterako ikono argiak itxura ilunerako</item>
+      <item>edo iruzkinetan bidalketa botoia gainjar dadin saihestea</item>
+    </regular>
+    <admin>
+      <item>Ezohiko ID erabiltzaileekin landutako arazoak</item>
+      <item>OAuth erabiltzean saioa ixteko aukera finkatuta</item>
+      <item>Positibo faltsua konponduta zerbitzari ezarpenen egiaztatzean</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="fa">
     <regular>
       <item>چندین پیشرفت جزئیات در رابط کاربری</item>

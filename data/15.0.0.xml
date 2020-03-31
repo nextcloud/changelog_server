@@ -109,6 +109,18 @@
       <item>Dashboard actualizado, búsquedas de texto completo y carpetas grupales</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="eu">
+    <regular>
+      <item>Nextcloud sare soziala eta partekatze esteka ugari</item>
+      <item>Diseinu berria, saretxo ikuspegia eta fitxategien kargatzea 2x azkarragoa</item>
+      <item>Albo-barra Collabora Online-rekin eta Talk albo-barra.</item>
+    </regular>
+    <admin>
+      <item>2FA betearaztea eta segurtasun indartzeak</item>
+      <item>PDF konbertsio automatikoa eta script-ak exekutatzea</item>
+      <item>Arbel eguneratua, testu bilatzaile osoa eta talde karpetak</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="fa">
     <regular>
       <item>شبکه اجتماعی و اشتراک لینک‌های چندگانه Nextcloud </item>

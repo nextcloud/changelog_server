@@ -73,6 +73,18 @@
       <item>"Flow" te permite automatizar tareas fácilmente, proteger archivos y procesar documentos</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="eu">
+    <regular>
+      <item>Lan eremuek aukera ematen dizute karpeten gainean deskribapenak gehitzeko</item>
+      <item>Fitxategiak sarrailatzeak edizio gatazkak saihesten ditu besteekin partekatutako fitxategietan</item>
+      <item>Fluxuak ataza errepikakor eta aspergarriak automatizatzen laguntzen dizu</item>
+    </regular>
+    <admin>
+      <item>ONLYOFFICE docker edo proxy alderantzizkatu bat gabe instalatu daiteke</item>
+      <item>Egutegia, Posta eta Talk berridazpenek hainbat hobekuntza dakartzate</item>
+      <item>Fluxuak erraztu egiten dizu atazak automatizatzea, fitxategiak babestea eta dokumentuak prozesatzea</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="fa">
     <regular>
       <item>فضای کاری به شما امکان می دهد توضیحی در بالای پوشه های خود اضافه کنید</item>
