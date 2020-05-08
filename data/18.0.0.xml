@@ -145,6 +145,18 @@
       <item>Flow consente di automatizzare facilmente operazioni, proteggere file ed elaborare documenti</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="ja">
+    <regular>
+      <item>ワークスペースを使えばフォルダに説明を追加することができるようになります</item>
+      <item>ファイルのロックにより他人と共有されたファイルへの編集の競合が避けられます</item>
+      <item>Flowを使えば繰り返しや退屈なタスクを自動化できるようになります</item>
+    </regular>
+    <admin>
+      <item>ONLYOFFICEはDockerやリバースプロクシを使わずにインストール可能です</item>
+      <item>カレンダー、メール、トークは書き直され、多くの点で新しく進化しました</item>
+      <item>Flowを使えばタスクを簡単に自動化し、ファイルを保護し、ドキュメントを処理できるようになります</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="nl">
     <regular>
       <item>Met Workspaces kunt u een beschrijving boven uw mappen toevoegen</item>
