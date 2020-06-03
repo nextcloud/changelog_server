@@ -220,13 +220,13 @@ Feature: testing the response of the Changelog Server
       <whatsNew lang="en">
         <regular>
           <item>Talk 9 integrates document viewing/editing and a grid view</item>
-          <item>Deck integration in Calendar - easily track your deadlines!</item>
+          <item>Previews for krita / open document files by default</item>
           <item>Many performance improvements in Talk and file handling</item>
         </regular>
         <admin>
           <item>Collabora Online can be installed without docker or reverse proxy</item>
           <item>Password-less authentication and additional password settings introduced</item>
-          Assign groups to guest accounts you create (can be delegated to group admins)
+          <item>Assign groups to guest accounts you create (can be delegated to group admins)</item>
         </admin>
       </whatsNew>
     """
