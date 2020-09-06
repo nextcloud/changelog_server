@@ -208,3 +208,25 @@ Feature: testing the response of the Changelog Server
         </admin>
       </whatsNew>
     """
+
+
+  Scenario: Ensure current release data of 19 series is returned
+    Given the version of interest is "19.0.0"
+    When the request is sent
+    Then the return code is "200"
+    And the response contains
+    """
+      <changelog href="https://nextcloud.com/changelog/#19-0-0"/>
+      <whatsNew lang="en">
+        <regular>
+          <item>Talk 9 integrates document viewing/editing and a grid view</item>
+          <item>Previews for krita / open document files by default</item>
+          <item>Many performance improvements in Talk and file handling</item>
+        </regular>
+        <admin>
+          <item>Collabora Online can be installed without docker or reverse proxy</item>
+          <item>Password-less authentication and additional password settings introduced</item>
+          <item>Assign groups to guest accounts you create (can be delegated to group admins)</item>
+        </admin>
+      </whatsNew>
+    """
