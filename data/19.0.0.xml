@@ -49,6 +49,18 @@
       <item>Weisen Sie den von Ihnen erstellten Gastkonten Gruppen zu (können an Gruppenadministratoren delegiert werden).</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="gl">
+    <regular>
+      <item>Talk 9 integra a vista/edición de documentos e unha vista de grella</item>
+      <item>Vista previa de ficheiros de krita / open document como predeterminado</item>
+      <item>Moitas melloras no rendemento no manexo de ficheiros e conversas</item>
+    </regular>
+    <admin>
+      <item>Collabora Online pódese instalar sen docker ou proxy inverso</item>
+      <item>Introduciuse a autenticación sen contrasinal e axustes de contrasinais adicionais</item>
+      <item>Asignar grupos ás contas de convidado que cree (pode delegarse en administradores de grupos)</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="it">
     <regular>
       <item>Talk 9 integra la visualizzazione/modifica dei documenti e una vista a griglia</item>
@@ -71,6 +83,18 @@
       <item>Collabora Online można zainstalować bez dockera lub reverse proxy</item>
       <item>Wprowadzono uwierzytelnianie bez hasła i dodatkowe ustawienia haseł</item>
       <item>Przydzielanie grup do tworzonych kont gości (można je delegować do administratorów grup)</item>
+    </admin>
+  </whatsNew>
+  <whatsNew lang="pt_BR">
+    <regular>
+      <item>Talk 9 integra visualização/edição de documentos e visualização em grade</item>
+      <item>Pre-visualizações para krita / arquivos de documentos abertos por padrão</item>
+      <item>Muitas melhorias de desempenho no Talk e tratamento de arquivos</item>
+    </regular>
+    <admin>
+      <item>Collabora Online pode ser instalado sem docker ou proxy reverso</item>
+      <item>Autenticação sem senha e configurações de senha adicionais introduzidas</item>
+      <item>Atribuir grupos a contas de convidados que você criar (pode ser delegado a administradores de grupo)</item>
     </admin>
   </whatsNew>
   <whatsNew lang="tr">
