@@ -116,7 +116,7 @@
       <item>Flow vous permet d'automatiser les tâches répétitives et ennuyeuses.</item>
     </regular>
     <admin>
-      <item>ONLYOFFICE peut être installé sans docket ou proxy inverse</item>
+      <item>ONLYOFFICE peut être installé sans docker ou reverse-proxy</item>
       <item>La réécriture de Calendar, Mail et Talk apporte de nombreuses améliorations </item>
       <item>Flow vous permet d'automatiser certaines tâches, de protéger des fichiers et de traiter des documents</item>
     </admin>

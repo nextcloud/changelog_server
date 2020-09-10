@@ -49,6 +49,18 @@
       <item>Weisen Sie den von Ihnen erstellten Gastkonten Gruppen zu (können an Gruppenadministratoren delegiert werden).</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="fr">
+    <regular>
+      <item>Talk 9 intègre la visualisation et l'édition de documents ainsi qu'une vue grille</item>
+      <item>Aperçus des fichiers Krita / Open Document par défaut</item>
+      <item>Nombreuses améliorations de performance dans Talk et la gestion de fichiers</item>
+    </regular>
+    <admin>
+      <item>Collabora Online peut être installé sans docker ou reverse-proxy</item>
+      <item>Ajout de l'authentification sans mot de passe et de paramètres de mot de passe additionnels</item>
+      <item>Assignez des groupes aux comptes invité que vous créez (délégation possible aux administrateurs de groupe)</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="gl">
     <regular>
       <item>Talk 9 integra a vista/edición de documentos e unha vista de grella</item>
