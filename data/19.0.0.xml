@@ -109,6 +109,18 @@
       <item>Atribuir grupos a contas de convidados que você criar (pode ser delegado a administradores de grupo)</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="ru">
+    <regular>
+      <item>В приложение Talk версии 9 встроена функция просмотра и редактирования документов и режим просмотра сеткой;</item>
+      <item>Для файлов приложения Krita и документов в формате Open Document создание миниатюр включено по умолчанию;</item>
+      <item>Множество улучшений, направленных на увеличение скорости работы в приложении Talk и модуле работы с файлами;</item>
+    </regular>
+    <admin>
+      <item>Сервер Collabora Online возможно установить без использования docker-контейнера или обратного прокси</item>
+      <item>Представлена авторизация без использования пароля и новые параметры управления паролями</item>
+      <item>Assign groups to guest accounts you create (can be delegated to group admins)</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="tr">
     <regular>
       <item>Sohbet 9 için belge görüntüleme ve düzenleme ile tablo görünümü özellikleri eklendi</item>
