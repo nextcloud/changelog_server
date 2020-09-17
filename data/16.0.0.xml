@@ -9,7 +9,7 @@
     </regular>
     <admin>
       <item>Machine-learning powered suspicious login detection</item>
-      <item>Access Control Lists in Groupfolders</item>
+      <item>Access Control Lists in Group folders</item>
       <item>Variables for external storage (LDAP provides '$home')</item>
     </admin>
   </whatsNew>
