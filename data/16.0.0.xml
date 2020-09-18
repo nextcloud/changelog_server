@@ -16,13 +16,13 @@
   <whatsNew lang="ca">
     <regular>
       <item>16.0.0-regular1-add70d18</item>
-      <item>Projectes: fitxers de grup, xats, tasques per trobar fàcilment</item>
-      <item>clic amb el botó dret a Fitxers, nou visualitzador de documents i més</item>
+      <item>16.0.0-regular2-2161378c</item>
+      <item>16.0.0-regular3-646fa355</item>
     </regular>
     <admin>
-      <item>Detecció d'accessos sospitosos emprant algorismes d'aprenentatge automàtic</item>
-      <item>Llistes de Control d'Accés a Carpetes de grup</item>
-      <item>Variables per l'emmagatzemament extern (LDAP proporciona '$home')</item>
+      <item>16.0.0-admin1-694e294c</item>
+      <item>16.0.0-admin2-978954da</item>
+      <item>16.0.0-admin3-71fec2f7</item>
     </admin>
   </whatsNew>
   <whatsNew lang="cs">
@@ -213,7 +213,7 @@
     </regular>
     <admin>
       <item>Włączono automatyczne nauczanie wykrywania podejrzanego logowania</item>
-      <item>Access Control Lists w katalogach grupowych</item>
+      <item>Listy kontroli dostępu w folderach grupowych</item>
       <item>Zmienne dla zewnętrznej pamięci masowej (LDAP udostępnia '$home')</item>
     </admin>
   </whatsNew>

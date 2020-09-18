@@ -15,14 +15,14 @@
   </whatsNew>
   <whatsNew lang="ca">
     <regular>
-      <item>Nextcloud Social &amp; enllaços de compartició múltiples</item>
-      <item>Nou disseny, vista de graella i duplicada la velocitat de càrrega a Fitxers</item>
-      <item>barra lateral amb Collabora Online i Talk a barra lateral</item>
+      <item>15.0.0-regular1-4298c406</item>
+      <item>15.0.0-regular2-f5b6406a</item>
+      <item>15.0.0-regular3-c0bce1aa</item>
     </regular>
     <admin>
-      <item>implementació de 2FA i enduriment en temes de seguretat</item>
-      <item>conversió automàtica de PDF i execució d'scripts</item>
-      <item>Actualitzat el Panell de control, la Cerca de text complet i les Carpetes de grup</item>
+      <item>15.0.0-admin1-95e4d92c</item>
+      <item>15.0.0-admin2-ceff66bd</item>
+      <item>15.0.0-admin3-46d294d0</item>
     </admin>
   </whatsNew>
   <whatsNew lang="cs">
@@ -238,7 +238,7 @@
     <admin>
       <item>narzucenie 2FA i wzmocnienie zabezpieczeń</item>
       <item>automatyczna konwersja PDF i wykonanie skryptów</item>
-      <item>Zaktualizowano Dashboard, Full Text Search &amp; Group folders</item>
+      <item>Zaktualizowano Dashboard, Full Text Search i Group folders</item>
     </admin>
   </whatsNew>
   <whatsNew lang="pt_BR">
