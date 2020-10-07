@@ -52,8 +52,8 @@
   <whatsNew lang="de_DE">
     <regular>
       <item>Talk 9 integriert die Anzeige / Bearbeitung von Dokumenten sowie eine Rasteransicht</item>
-      <item>Standardmäßig Vorschau für krita / open document Dateien</item>
-      <item>Viele Leistungsverbesserungen in Talk und bei der Datei bei der Dateiverwaltung</item>
+      <item>Standardmäßig Vorschau für krita / öffnet Datei standardmäßig</item>
+      <item>Viele Leistungsverbesserungen in Talk und der Dateiverwaltung</item>
     </regular>
     <admin>
       <item>Collabora Online kann ohne Docker oder Reverse Proxy installiert werden</item>
