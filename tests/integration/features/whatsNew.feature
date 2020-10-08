@@ -230,3 +230,25 @@ Feature: testing the response of the Changelog Server
         </admin>
       </whatsNew>
     """
+
+
+  Scenario: Ensure current release data of 20 series is returned
+    Given the version of interest is "20.0.0"
+    When the request is sent
+    Then the return code is "200"
+    And the response contains
+    """
+      <changelog href="https://nextcloud.com/changelog/#20-0-0"/>
+      <whatsNew lang="en">
+        <regular>
+          <item>🏁 Dashboard provides a great starting point for the day</item>
+          <item>🔍 Unified search brings results from apps and external sources</item>
+          <item>🗨 Talk introduced bridging to other platforms</item>
+        </regular>
+        <admin>
+          <item>Integration apps allow users to access twitter, Jira and others from Nextcloud</item>
+          <item>Flow adds notifications and web hooks for more automation</item>
+          <item>Usual security, accessibility and performance improvements</item>
+        </admin>
+      </whatsNew>
+    """
