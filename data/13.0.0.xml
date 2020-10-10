@@ -254,6 +254,17 @@
       <item>Témy vzhľadu: súbory CSS boli konsolidované</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="sl">
+    <regular>
+      <item>Posodobljen uporabniški vmesnik</item>
+      <item>Celovito šifriranje E2E</item>
+      <item>Besedilno sporočanje in video klici</item>
+    </regular>
+    <admin>
+      <item>Spremembe nastavitev Nginx</item>
+      <item>Teme: datoteke CSS so bile usklajene</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="sr">
     <regular>
       <item>Побољшан кориснички интерфејс</item>

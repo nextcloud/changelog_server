@@ -277,6 +277,18 @@
       <item>Aktualizovaná nástenka, celotextové vyhľadávanie a skupinové priečinky</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="sl">
+    <regular>
+      <item>Nextcloud Social &amp; multiple link shares</item>
+      <item>Novo oblikovanje, mrežni pogled in dvakrat hitrejše nalaganje Datotek</item>
+      <item>sidebar with Collabora Online &amp; Talk in sidebar</item>
+    </regular>
+    <admin>
+      <item>enforcement of 2FA &amp; security hardenings</item>
+      <item>samodejno pretvarjanje v PDF in izvajanje skriptov</item>
+      <item>Posodobljena je Pregledna plošča, mogoče je iskanje polnega besedila, na voljo so skupinske mape</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="sr">
     <regular>
       <item>Друштвени Некстклауд и вишеструке везе дељења</item>

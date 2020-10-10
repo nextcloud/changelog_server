@@ -277,6 +277,18 @@
       <item>Opravená nedostupnosť súborov za určitých podmienok</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="sl">
+    <regular>
+      <item>Predelano upravljanje s pošiljanjem datotek</item>
+      <item>Meniji stikov ob omenjanju spet delujejo</item>
+      <item>Izboljšave podrobnosti (npr. pogled datotek na mobilnih napravah)</item>
+    </regular>
+    <admin>
+      <item>Vrnjen je gumb »Dodaj skupine« na uporabniški strani</item>
+      <item>Med nastavitvami pošte je spet na voljo možnost uporabe »Brez« overitve</item>
+      <item>Odpravljena je nedostopnost datotek pri nekaterih pogojih</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="sr">
     <regular>
       <item>Преиспитано руковање отпремањем фајлова</item>

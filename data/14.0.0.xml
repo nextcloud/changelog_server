@@ -277,6 +277,18 @@
       <item>Kerberos overovanie k Samba; multi-IdP SAML</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="sl">
+    <regular>
+      <item>Verify a share recipient in a video call; 2FA with Signal &amp; Telegram</item>
+      <item>Add a note to shares; extended share views; search by comments</item>
+      <item>Izboljšave dostopnosti vključujejo tudi visokokontrastno temo</item>
+    </regular>
+    <admin>
+      <item>Program zahteva PHP ≥ 7.0 in spremembe v zapisu dnevnika, oznaki syslog in nastavitev nginx</item>
+      <item>Izboljšana je skladnost GDPR prek programov z ločenimi dnevniki spremljanja</item>
+      <item>Overitev Kerberos za okolje Samba; multi-IdP SAML</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="sr">
     <regular>
       <item>Провера примаоца дељења кроз видео позив; Двофакторска провера идентитета преко Сигнала &amp; Телеграма</item>

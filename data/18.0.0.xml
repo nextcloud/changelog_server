@@ -229,6 +229,18 @@
       <item>Flow(Tok) vám umožňuje ľahko automatizovať úlohy, chrániť súbory a spracovávať dokumenty</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="sl">
+    <regular>
+      <item>Delovne površine omogočajo dodajanje opisov nad mape</item>
+      <item>File locking prevents conflicts editing shared files with others</item>
+      <item>Koračniki vam omogočajo avtomatizacijo ponavljajočih, dolgočasnih nalog.</item>
+    </regular>
+    <admin>
+      <item>paket ONLYOFFICE je mogoče namestiti brez okolja docker oziroma obrnjenega posredniškega strežnika reverse proxy</item>
+      <item>posodobitve Koledarja, Pošte in programa Talk prinašajo številne nove izboljšave</item>
+      <item>Koračniki vam omogočajo enostavno avtomatizacijo nalog, zaščite datotek in obdelave dokumentov</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="sr">
     <regular>
       <item>Радна Места вам дају да додате опис изнад Ваших фасцикли</item>

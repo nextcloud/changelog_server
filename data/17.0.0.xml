@@ -241,6 +241,18 @@
       <item>S3 versioning, IBM Spectrum Scale a ďalšie</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="sl">
+    <regular>
+      <item>Oddaljeno brisanje podatkov</item>
+      <item>Nov enostaven urejevalnik besedila s podporo za sodelovalno delo</item>
+      <item>secure view gains enforceable document watermarks</item>
+    </regular>
+    <admin>
+      <item>Nastavitev dvostopenjske overitve po prvi prijavi</item>
+      <item>Podpora zapisovanja LDAP</item>
+      <item>S3 versioning, IBM Spectrum Scale &amp; more</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="sr">
     <regular>
       <item>Удаљено брисање</item>
