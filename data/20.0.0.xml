@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<release xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../schema.xsd" version="18.0.0">
+  <changelog href="https://nextcloud.com/changelog/#20-0-0"/>
+  <whatsNew lang="en">
+    <regular>
+      <item>🏁 Dashboard provides a great starting point for the day</item>
+      <item>🔍 Unified search brings results from apps and external sources</item>
+      <item>🗨 Talk introduced bridging to other platforms</item>
+    </regular>
+    <admin>
+      <item>Integration apps allow users to access twitter, Jira and others from Nextcloud</item>
+      <item>Flow adds notifications and web hooks for more automation</item>
+      <item>Usual security, accessibility and performance improvements</item>
+    </admin>
+  </whatsNew>
+</release>
