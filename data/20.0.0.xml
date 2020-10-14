@@ -13,4 +13,88 @@
       <item>Usual security, accessibility and performance improvements</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="cs">
+    <regular>
+      <item>🏁 Přehled poskytuje skvělý startovní bod pro den</item>
+      <item>🔍 Sjednocené vyhledávání vrací výsledky z aplikací a externích zdrojů</item>
+      <item>🗨 Talk uvedeno napojení na ostatní platformy</item>
+    </regular>
+    <admin>
+      <item>Aplikace pro napojení umožňují uživatelům z Nextcloud přistupovat ke twitter, Jira a dalším</item>
+      <item>Flow přidává upozornění a webové háčky pro vice automatizace</item>
+      <item>Obvyklá vylepšení zabezpečení, přístupnosti a výkonnosti</item>
+    </admin>
+  </whatsNew>
+  <whatsNew lang="de">
+    <regular>
+      <item>🏁 Das Dashboard bietet einen hervorragenden Ausgangspunkt für den Tag</item>
+      <item>🔍 Einheitliche Suche zeigt Ergebnisse aus Anwendungen und externen Quellen</item>
+      <item>🗨 Talk führte die Überbrückung zu anderen Plattformen ein</item>
+    </regular>
+    <admin>
+      <item>Einbindungs-Apps ermöglichen Benutzern den Zugriff auf Twitter, Jira und andere aus Nextcloud</item>
+      <item>Flow fügt Benachrichtigungen und Web-Hooks für mehr Automatisierung hinzu</item>
+      <item>Übliche Verbesserungen bei Sicherheit, Zugänglichkeit und Leistung</item>
+    </admin>
+  </whatsNew>
+  <whatsNew lang="de_DE">
+    <regular>
+      <item>🏁 Das Dashboard bietet einen hervorragenden Ausgangspunkt für den Tag</item>
+      <item>🔍 Einheitliche Suche zeigt Ergebnisse aus Anwendungen und externen Quellen</item>
+      <item>🗨 Talk führte die Überbrückung zu anderen Plattformen ein</item>
+    </regular>
+    <admin>
+      <item>Einbindungs-Apps ermöglichen Benutzern den Zugriff auf Twitter, Jira und andere aus Nextcloud</item>
+      <item>Ablauf fügt Benachrichtigungen und Web-Hooks (Kommunikation von Servern) für mehr Automatisierung hinzu</item>
+      <item>Übliche Verbesserungen bei Sicherheit, Zugänglichkeit und Leistung</item>
+    </admin>
+  </whatsNew>
+  <whatsNew lang="gl">
+    <regular>
+      <item>🏁 O panel de control fornece un excelente punto de partida para o día</item>
+      <item>🔍 A busca unificada trae resultados de aplicacións e fontes externas</item>
+      <item>🗨 Talk introduciu pontes con outras plataformas</item>
+    </regular>
+    <admin>
+      <item>As aplicacións de integración permiten aos usuarios acceder a Twitter, Jira e outros desde Nextcloud</item>
+      <item>Flow engade notificacións e ganchos web para unha maior automatización</item>
+      <item>Melloras de seguridade, accesibilidade e rendemento habituais</item>
+    </admin>
+  </whatsNew>
+  <whatsNew lang="it">
+    <regular>
+      <item>🏁 Il cruscotto offre un ottimo punto di partenza per la giornata</item>
+      <item>🔍 La ricerca unificata porta risultati da applicazioni e fonti esterne</item>
+      <item>🗨 Talk ha introdotto il collegamento ad altre piattaforme</item>
+    </regular>
+    <admin>
+      <item>Le applicazioni di integrazione consentono di accedere a Twitter, Jira e altre da Nextcloud</item>
+      <item>Flow aggiunge notifiche e hook web per una maggiore automazione</item>
+      <item>Soliti miglioramenti in termini di sicurezza, accessibilità e prestazioni</item>
+    </admin>
+  </whatsNew>
+  <whatsNew lang="pl">
+    <regular>
+      <item>🏁 Pulpit to doskonały punkt startujący na cały dzień</item>
+      <item>🔍 Ujednolicone wyszukiwanie zapewnia wyniki z aplikacji i źródeł zewnętrznych</item>
+      <item>🗨 Talk wprowadził pomosty na inne platformy</item>
+    </regular>
+    <admin>
+      <item>Aplikacje integrujące umożliwiają użytkownikom dostęp do Twittera, Jira i innych z Nextcloud</item>
+      <item>Flow dodaje powiadomienia i podpięcia do sieci w celu zwiększenia automatyzacji</item>
+      <item>Zwykłe ulepszenia w zakresie bezpieczeństwa, dostępności i wydajności</item>
+    </admin>
+  </whatsNew>
+  <whatsNew lang="tr">
+    <regular>
+      <item>🏁 Pano güne başlamak için iyi bir başlangıç noktası sağlar</item>
+      <item>🔍 Birleşik arama, uygulamalar ve dış kaynaklarda arama yapar</item>
+      <item>🗨 Talk diğer platformlar ile bağlantı sunar</item>
+    </regular>
+    <admin>
+      <item>Bütünleştirme uygulamaları kullanıcıların Nextcloud üzerinden twitter ve Jira gibi hizmetlere erişebilmesini sağlar</item>
+      <item>Flow, daha fazla otomasyon sağlamak için bildirimler ve web bağlantıları ekler</item>
+      <item>Genel güvenlik, erişilebilirlik ve başarım iyileştirmeleri</item>
+    </admin>
+  </whatsNew>
 </release>

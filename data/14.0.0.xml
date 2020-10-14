@@ -73,18 +73,6 @@
       <item>14.0.0-admin3-28cd5194</item>
     </admin>
   </whatsNew>
-  <whatsNew lang="en_GB">
-    <regular>
-      <item>Verify a share recipient in a video call; 2FA with Signal &amp; Telegram</item>
-      <item>Add a note to shares; extended share views; search by comments</item>
-      <item>Accessibility improvements including high contrast theme</item>
-    </regular>
-    <admin>
-      <item>Requires PHP &gt;= 7.0, log format, syslog tag &amp; nginx config changed</item>
-      <item>Improved GDPR compliance through apps; separate audit log</item>
-      <item>Kerberos auth to Samba; multi-IdP SAML</item>
-    </admin>
-  </whatsNew>
   <whatsNew lang="eo">
     <regular>
       <item>Kontrolado de kunhaviga ricevanto en vide-alvoko; 2FA (dufaza aŭtentigo) kun Signal kaj Telegram</item>
@@ -179,18 +167,6 @@
       <item>PHP &gt;= 7.0 szükséges, naplózási formátum, rendszernapló címke és nginx konfiguráció változott</item>
       <item>Fejlesztett GDPR-megfelelés az alkalmazásokon keresztül, külön auditnapló</item>
       <item>Kerberos hitelesítés Sambához, több személyazonosság-szolgáltatós SAML</item>
-    </admin>
-  </whatsNew>
-  <whatsNew lang="is">
-    <regular>
-      <item>Auðkenni viðtakanda sameigna sannreynt í myndsímtali; tveggja-þátta auðkenning með Signal og Telegram</item>
-      <item>Hægt að bæta minnispunkti við sameignir; viðameiri sýn á sameignir; leit í athugasemdum</item>
-      <item>Bætt aukið aðgengi til að mynda með hábirtuskilaþema</item>
-    </regular>
-    <admin>
-      <item>Krefst PHP &gt;= 7.0, snið atvikaskráningar, syslog merki &amp; uppsetning nginx hafa breyst</item>
-      <item>Bætt samhæfni við GDPR í gegnum forrit; aðskilin atvikaskrá fyrir endurskoðun (audit)</item>
-      <item>Kerberos auðkenning í Samba; multi-IdP SAML</item>
     </admin>
   </whatsNew>
   <whatsNew lang="it">

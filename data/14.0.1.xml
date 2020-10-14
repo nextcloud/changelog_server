@@ -73,18 +73,6 @@
       <item>14.0.1-admin3-b3805169</item>
     </admin>
   </whatsNew>
-  <whatsNew lang="en_GB">
-    <regular>
-      <item>Several detail improvements in the user interface</item>
-      <item>e.g. light icons with the dark theme</item>
-      <item>or avoid overlapping the submit button in comments</item>
-    </regular>
-    <admin>
-      <item>Treated issues with uncommon user IDs</item>
-      <item>Fixed web logout on OAuth use</item>
-      <item>Resolved false positive in server setup check</item>
-    </admin>
-  </whatsNew>
   <whatsNew lang="eo">
     <regular>
       <item>Pluraj detalaj plibonigoj en la uzantinterfaco</item>
@@ -179,18 +167,6 @@
       <item>Ritka felhasználói azonosítók problémáinak kezelése</item>
       <item>Webes kijelentkezés javítása OAuth használatakor</item>
       <item>Fals pozitív eredmény megoldva a kiszolgálóbeállítások ellenőrzésekor</item>
-    </admin>
-  </whatsNew>
-  <whatsNew lang="is">
-    <regular>
-      <item>Margar smávægilegar endurbætur í notendaviðmótinu</item>
-      <item>t.d. ljósar táknmyndir með dökku þema</item>
-      <item>eða að forðast að innsendingarhnappur skarist við athugasemdir</item>
-    </regular>
-    <admin>
-      <item>Löguð vandamál með óalgeng notendaauðkenni</item>
-      <item>Löguð útskráning þegar notað er OAuth</item>
-      <item>Löguð röng aðvörun við athugun á uppsetningu þjóns</item>
     </admin>
   </whatsNew>
   <whatsNew lang="it">

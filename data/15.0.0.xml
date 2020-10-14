@@ -73,18 +73,6 @@
       <item>15.0.0-admin3-46d294d0</item>
     </admin>
   </whatsNew>
-  <whatsNew lang="en_GB">
-    <regular>
-      <item>Nextcloud Social &amp; multiple link shares</item>
-      <item>New design, grid view &amp; 2x faster loading of Files</item>
-      <item>sidebar with Collabora Online &amp; Talk in sidebar</item>
-    </regular>
-    <admin>
-      <item>enforcement of 2FA &amp; security hardenings</item>
-      <item>automatic PDF conversion &amp; script execution</item>
-      <item>Updated Dashboard, Full Text Search &amp; Group folders</item>
-    </admin>
-  </whatsNew>
   <whatsNew lang="eo">
     <regular>
       <item>Nextcloud „Social“ kaj plurligilaj kunhavoj</item>
@@ -179,18 +167,6 @@
       <item>A kétfaktoros hitelesítés és a fokozott biztonság betartatása</item>
       <item>automatikus PDF-átalakítás és parancsvégrehajtás</item>
       <item>Frissített irányítópult, teljes szöveges keresés és csoportmappák</item>
-    </admin>
-  </whatsNew>
-  <whatsNew lang="is">
-    <regular>
-      <item>Nextcloud Social samfélagsforrit &amp; sameignir með mörgum tenglum</item>
-      <item>Ný hönnun, reitasýn &amp; 2x hraðvirkari innhleðsla Files-skráaforrits</item>
-      <item>hliðarstika með Collabora Online &amp; Talk</item>
-    </regular>
-    <admin>
-      <item>hægt að gera kröfu um tveggja-þátta auðkenningu og ýmsir eiginleikar til að herða öryggi</item>
-      <item>Sjálfvirk umbreyting í PDF og sjálfvirk keyrsla á skriftum</item>
-      <item>Uppfært stjórnborð, leit í öllum texta &amp; hópamöppur</item>
     </admin>
   </whatsNew>
   <whatsNew lang="it">

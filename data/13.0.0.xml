@@ -67,17 +67,6 @@
       <item>Θέματα: Τα αρχεία CSS ενοποιήθηκαν</item>
     </admin>
   </whatsNew>
-  <whatsNew lang="en_GB">
-    <regular>
-      <item>Refined user interface</item>
-      <item>End-to-end Encryption</item>
-      <item>Video and Text Chat</item>
-    </regular>
-    <admin>
-      <item>Changes to the Nginx configuration</item>
-      <item>Theming: CSS files were consolidated</item>
-    </admin>
-  </whatsNew>
   <whatsNew lang="eo">
     <regular>
       <item>Plibonigita uzantinterfaco</item>
@@ -164,17 +153,6 @@
     <admin>
       <item>Az Nginx konfiguráció módosításai</item>
       <item>Témázás: a CSS-fájlok konszolidálva lettek</item>
-    </admin>
-  </whatsNew>
-  <whatsNew lang="is">
-    <regular>
-      <item>Endurbætt notandaviðmót</item>
-      <item>Enda-í-enda dulritun</item>
-      <item>Texta- og myndspjall</item>
-    </regular>
-    <admin>
-      <item>Breytingar á Nginx uppsetningu</item>
-      <item>Þemu: CSS-skrár voru sameinaðar</item>
     </admin>
   </whatsNew>
   <whatsNew lang="it">
