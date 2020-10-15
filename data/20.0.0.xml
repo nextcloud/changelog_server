@@ -49,6 +49,18 @@
       <item>Übliche Verbesserungen bei Sicherheit, Zugänglichkeit und Leistung</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="es">
+    <regular>
+      <item>🏁 Dashboard provides a great starting point for the day</item>
+      <item>🔍 La búsqueda unificada ofrece resultados de las apps y fuentes externas</item>
+      <item>🗨 Talk introduce enlaces a otras plataformas</item>
+    </regular>
+    <admin>
+      <item>Las apps de integración permiten que los usuarios accedan a Twitter, Jira y otros desde Nextcloud</item>
+      <item>Flow añade notificaciones y ganchos web para una mayor automatización</item>
+      <item>Las mejoras de seguridad, accesibilidad y rendimiento habituales</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="gl">
     <regular>
       <item>🏁 O panel de control fornece un excelente punto de partida para o día</item>
