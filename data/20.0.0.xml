@@ -97,6 +97,18 @@
       <item>Zwykłe ulepszenia w zakresie bezpieczeństwa, dostępności i wydajności</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="pt_BR">
+    <regular>
+      <item>🏁 Painel proporciona um ótimo local para iniciar o dia</item>
+      <item>🔍 Busca Unificada traz resultados de diversos aplicativos e também de fontes externas</item>
+      <item>🗨 Talk permite comunicação com outras plataformas</item>
+    </regular>
+    <admin>
+      <item>Aplicativos de Integração permitem que os usuários acessem twitter, Jira e outros serviços a partir no Nextcloud</item>
+      <item>Flow adiciona notificações e web hooks para mais automação</item>
+      <item>Melhorias de segurança, acessibilidade e performance como de costume </item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="tr">
     <regular>
       <item>🏁 Pano güne başlamak için iyi bir başlangıç noktası sağlar</item>
