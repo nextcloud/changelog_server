@@ -45,7 +45,7 @@
     </regular>
     <admin>
       <item>Einbindungs-Apps ermöglichen Benutzern den Zugriff auf Twitter, Jira und andere aus Nextcloud</item>
-      <item>Ablauf fügt Benachrichtigungen und Web-Hooks (Kommunikation von Servern) für mehr Automatisierung hinzu</item>
+      <item>Flow fügt Benachrichtigungen und Web-Hooks für mehr Automatisierung hinzu</item>
       <item>Übliche Verbesserungen bei Sicherheit, Zugänglichkeit und Leistung</item>
     </admin>
   </whatsNew>
