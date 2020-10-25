@@ -109,6 +109,18 @@
       <item>Melhorias de segurança, acessibilidade e performance como de costume </item>
     </admin>
   </whatsNew>
+  <whatsNew lang="sl">
+    <regular>
+      <item>🏁 Nadzorna plošča omogoča hiter pregled ob začetku dneva</item>
+      <item>🔍 Enotni iskalnik združuje zadetke programov in zunanjih virov</item>
+      <item>🗨 Talk vključuje tudi povezovanje z drugimi spletnimi okolji</item>
+    </regular>
+    <admin>
+      <item>Integration apps allow users to access twitter, Jira and others from Nextcloud</item>
+      <item>Flow adds notifications and web hooks for more automation</item>
+      <item>Usual security, accessibility and performance improvements</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="tr">
     <regular>
       <item>🏁 Pano güne başlamak için iyi bir başlangıç noktası sağlar</item>

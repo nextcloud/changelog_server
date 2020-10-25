@@ -261,7 +261,7 @@
     </regular>
     <admin>
       <item>Treated issues with uncommon user IDs</item>
-      <item>Fixed web logout on OAuth use</item>
+      <item>Popravljena spletna odjava pri uporabi OAuth</item>
       <item>Razreševanje napačno pozitivnih odzivov pri preverjanju nastavitev strežnika</item>
     </admin>
   </whatsNew>

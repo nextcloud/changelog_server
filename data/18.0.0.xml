@@ -232,7 +232,7 @@
   <whatsNew lang="sl">
     <regular>
       <item>Delovne površine omogočajo dodajanje opisov nad mape</item>
-      <item>File locking prevents conflicts editing shared files with others</item>
+      <item>Zaklepanje datotek preprečuje spore pri urejanju datotek v souporabi</item>
       <item>Koračniki vam omogočajo avtomatizacijo ponavljajočih, dolgočasnih nalog.</item>
     </regular>
     <admin>

@@ -253,6 +253,18 @@
       <item>Premenné pre externý ukladací priestor (LDAP poskytuje '$ home')</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="sl">
+    <regular>
+      <item>Smart recommendations for files, share recipients</item>
+      <item>Projekti: skupinske datoteke, pogovori, naloge in enostavno iskanje</item>
+      <item>desni klik v Datotekah, nov pregledovalnik dokumentov in mnogo več</item>
+    </regular>
+    <admin>
+      <item>Strojno učenje omogoča zaznavanje sumljivih prijav</item>
+      <item>Seznami nadzora za dostop v skupinskih mapah</item>
+      <item>Variables for external storage (LDAP provides '$home')</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="sr">
     <regular>
       <item>Паметне препоруке за фајлове, особе за дељење</item>
