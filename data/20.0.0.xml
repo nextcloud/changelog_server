@@ -61,6 +61,18 @@
       <item>Las mejoras de seguridad, accesibilidad y rendimiento habituales</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="fr">
+    <regular>
+      <item>🏁 Le tableau de bord constitue un excellent point de départ pour la journée</item>
+      <item>🔍 La recherche unifiée fournis des résultats provenant des apps et des sources externes</item>
+      <item>🗨 Talk a introduit l’interopérabilité vers d'autres plates-formes</item>
+    </regular>
+    <admin>
+      <item>Les applications d'intégration permettent aux utilisateurs d'accéder à Twitter, Jira et autres à partir de Nextcloud</item>
+      <item>Flow ajoute des notifications et des web hooks pour plus d'automatisation</item>
+      <item>Améliorations habituelles de la sécurité, de l'accessibilité et des performances</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="gl">
     <regular>
       <item>🏁 O panel de control fornece un excelente punto de partida para o día</item>
