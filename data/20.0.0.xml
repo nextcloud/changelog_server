@@ -145,4 +145,16 @@
       <item>Genel güvenlik, erişilebilirlik ve başarım iyileştirmeleri</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="zh_CN">
+    <regular>
+      <item>🏁 仪表盘为一天提供了一个很好的起点</item>
+      <item>🔍 统一搜索带来了来自应用和外部来源的结果</item>
+      <item>🗨 Talk 引入桥接至其他平台</item>
+    </regular>
+    <admin>
+      <item>集成应用允许用户从 Nextcloud 访问 Twitter, Jira 等。</item>
+      <item>流程添加了通知和 Web 挂钩，以实现更多自动化</item>
+      <item>通常的安全性、可访问性和性能改进</item>
+    </admin>
+  </whatsNew>
 </release>

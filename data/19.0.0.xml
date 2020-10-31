@@ -157,4 +157,16 @@
       <item>Oluşturduğunuz konuk hesaplarına grup atama (grup yöneticileri tarafından yapılabilir)</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="zh_CN">
+    <regular>
+      <item>Talk 9 集成了文档查看/编辑和网格视图</item>
+      <item>默认情况下预览 krita /打开文档文件</item>
+      <item>Talk 和文件处理方面的许多性能改进</item>
+    </regular>
+    <admin>
+      <item>可以在没有 Docker 或反向代理的情况下安装在线协作</item>
+      <item>引入了无密码身份验证和额外的密码设置</item>
+      <item>将群组分配给您创建的访客账号（可以委派给群组管理员）</item>
+    </admin>
+  </whatsNew>
 </release>
