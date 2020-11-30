@@ -109,6 +109,18 @@
       <item>Assegna gruppi agli account ospite che crei (può essere delegata agli amministratori dei gruppi)</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="nl">
+    <regular>
+      <item>Talk 9 integreert document bekijken/bewerken en een roosteroverzicht</item>
+      <item>Voorbeelden vor krita / open document bestanden standaard</item>
+      <item>Veel prestatieverbeteringen in Talk en bestandbewerkingen</item>
+    </regular>
+    <admin>
+      <item>Collabora Online kan worden geïnstalleerd zonder docker of reverse proxy</item>
+      <item>Wachtwoordloze authenticatie en nieuwe aanvullende wachtwoordinstellingen</item>
+      <item>Wijs groepen toe aan gastenaccounts die je creëert (kan worden gedelegeerd naar de groepsbeheerders)</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="pl">
     <regular>
       <item>Talk 9 integruje przeglądanie/edycję dokumentów i widok siatki</item>
