@@ -97,6 +97,18 @@
       <item>Soliti miglioramenti in termini di sicurezza, accessibilità e prestazioni</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="nl">
+    <regular>
+      <item>🏁 Dashboard geeft een mooi startpunt voor je dag</item>
+      <item>🔍 Geïntegreerde zoekfuncties tonen zoekresultaten van apps en externe bronnen</item>
+      <item>🗨 Talk introduceert overbrugging naar andere platforms</item>
+    </regular>
+    <admin>
+      <item>Met integratie-apps hebben gebruikers toegang tot Twitter, Jira en andere vanuit Nextcloud</item>
+      <item>Flow voegt meldingen en web hooks toe voor meer automatisering</item>
+      <item>Gebruikelijke beveiligings-, toegankelijkheids- en prestatieverbeteringen</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="pl">
     <regular>
       <item>🏁 Pulpit to doskonały punkt startujący na cały dzień</item>
@@ -119,6 +131,18 @@
       <item>Aplicativos de Integração permitem que os usuários acessem twitter, Jira e outros serviços a partir no Nextcloud</item>
       <item>Flow adiciona notificações e web hooks para mais automação</item>
       <item>Melhorias de segurança, acessibilidade e performance como de costume </item>
+    </admin>
+  </whatsNew>
+  <whatsNew lang="ru">
+    <regular>
+      <item>Новая начальная страница 🏁 в панели управления;</item>
+      <item>В результаты поиска 🔍 включены соответствующие запросу данные из приложений и внешних источников;</item>
+      <item>Начальная поддержка сторонних платформ приложением 🗨 Конференции</item>
+    </regular>
+    <admin>
+      <item>Приложения для интеграции Nextcloud c Twitter, Jira и другими социальными сетями и приложениями;</item>
+      <item>В приложение Обработка файлов добавлена возможность формирования уведомлений и вызова внешних процедур (веб-хуки);</item>
+      <item>Регулярные улучшения безопасности, производительности и удобства в использовании;</item>
     </admin>
   </whatsNew>
   <whatsNew lang="sl">
