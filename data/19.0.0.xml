@@ -166,7 +166,7 @@
     <admin>
       <item>Paket Collabora Online je mogoče namestiti brez okolja docker oziroma obrnjenega posredniškega strežnika</item>
       <item>Omogočena je možnost brezgeselne prijave z dodatnimi možnostmi gesel</item>
-      <item>Assign groups to guest accounts you create (can be delegated to group admins)</item>
+      <item>Dodeljevanje skupin za račune gostov (lahko je dodeljeno k skupini skrbnikov)</item>
     </admin>
   </whatsNew>
   <whatsNew lang="tr">

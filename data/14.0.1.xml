@@ -260,7 +260,7 @@
       <item>ali izogibanje prekrivanju gumba za pošiljanje v opombah</item>
     </regular>
     <admin>
-      <item>Treated issues with uncommon user IDs</item>
+      <item>Razrešene težave z neobičajnimi določili ID uporabnikov</item>
       <item>Popravljena spletna odjava pri uporabi OAuth</item>
       <item>Razreševanje napačno pozitivnih odzivov pri preverjanju nastavitev strežnika</item>
     </admin>

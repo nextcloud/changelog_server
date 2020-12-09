@@ -152,7 +152,7 @@
       <item>🗨 Talk vključuje tudi povezovanje z drugimi spletnimi okolji</item>
     </regular>
     <admin>
-      <item>Integration apps allow users to access twitter, Jira and others from Nextcloud</item>
+      <item>Združevalniko omogočajo uporabnikom dostop do objav Twitter, Jira in drugih iz okolja Nextcloud.</item>
       <item>Flow adds notifications and web hooks for more automation</item>
       <item>Običajne izboljšave varnosti, dostopnosti in delovanja</item>
     </admin>
