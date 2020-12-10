@@ -97,6 +97,18 @@
       <item>Asignar grupos ás contas de convidado que cree (pode delegarse en administradores de grupos)</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="hr">
+    <regular>
+      <item>Talk 9 integrira pregled/uređivanje dokumenata i prikaz rešetke</item>
+      <item>Pretpregledi za krita/otvorene datoteke dokumenata prema zadanim postavkama</item>
+      <item>Mnoga poboljšanja u aplikaciji Talk i rukovanju datotekama</item>
+    </regular>
+    <admin>
+      <item>Collabora Online može se instalirati bez dockera ili obrnutog proxyja</item>
+      <item>Uvedene su autentifikacija bez lozinke i dodatne postavke lozinke</item>
+      <item>Dodijelite grupe računima gostiju koje stvorite (mogu se dodijeliti administratorima grupa)</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="it">
     <regular>
       <item>Talk 9 integra la visualizzazione/modifica dei documenti e una vista a griglia</item>

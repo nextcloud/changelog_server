@@ -85,6 +85,18 @@
       <item>Melloras de seguridade, accesibilidade e rendemento habituais</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="hr">
+    <regular>
+      <item>🏁 Nadzorna ploča predstavlja izvrsno svakodnevno polazište</item>
+      <item>🔍 Objedinjeno pretraživanje obuhvaća rezultate iz aplikacija i vanjskih izvora</item>
+      <item>🗨 Talk je uveo mogućnost povezivanja s drugim platformama</item>
+    </regular>
+    <admin>
+      <item>Aplikacije za integraciju omogućuju korisnicima pristup servisima twitter, Jira itd. iz Nextclouda</item>
+      <item>Flow dodaje obavijesti i webhookove radi veće automatizacije</item>
+      <item>Uobičajena poboljšanja sigurnosti, pristupačnosti i učinkovitosti</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="it">
     <regular>
       <item>🏁 Il cruscotto offre un ottimo punto di partenza per la giornata</item>
