@@ -52,13 +52,13 @@
   <whatsNew lang="de_DE">
     <regular>
       <item>In Arbeitsbereichen kann Ordnern eine Beschreibung hinzugefügt werden</item>
-      <item>Die Dateisperrung verhindert Konflikte beim gemeinsamen Bearbeiten freigegebener Dateien </item>
-      <item>Mit Flow können wiederkehrende, langweilige Aufgaben automatisiert werden</item>
+      <item>Die Dateisperrung verhindert Konflikte beim gemeinsamen Bearbeiten freigegebener Dateien</item>
+      <item>Mit Flow können wiederkehrende, langweilige Aufgaben automatisiert werden.</item>
     </regular>
     <admin>
-      <item>ONLYOFFICE kann ohne Docker order Reverse-Proxy installiert werden</item>
-      <item>Kalender, E-Mail und Talk überarbeitungen bringen viele neue Verbesserungen</item>
-      <item>Mit Flow können Aufgaben einfach automatisiert, Dateien geschützt und Dokumente verarbeitet werden</item>
+      <item>ONLYOFFICE kann ohne Docker oder Reverse-Proxy installiert werden</item>
+      <item>überarbeitungen an Kalender, E-Mail und Talk bringen viele neue Verbesserungen.</item>
+      <item>Mit Flow können Aufgaben einfach automatisiert, Dateien geschützt und Dokumente verarbeitet werden.</item>
     </admin>
   </whatsNew>
   <whatsNew lang="el">
