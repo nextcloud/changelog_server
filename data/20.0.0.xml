@@ -49,6 +49,18 @@
       <item>Übliche Verbesserungen bei Sicherheit, Zugänglichkeit und Leistung</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="el">
+    <regular>
+      <item>Ο πίνακας ελέγχου παρέχει ένα εξαιρετικό σημείο εκκίνησης για την ημέρα</item>
+      <item>🔍 Η ενοποιημένη αναζήτηση φέρνει αποτελέσματα από εφαρμογές και εξωτερικές πηγές </item>
+      <item>🗨 Το Talk εισήγαγε γεφύρωση σε άλλες πλατφόρμες</item>
+    </regular>
+    <admin>
+      <item>Οι εφαρμογές ενσωμάτωσης επιτρέπουν στους χρήστες να έχουν πρόσβαση στο twitter, τη Jira και άλλους από το Nextcloud</item>
+      <item>Το Flow προσθέτει ειδοποιήσεις και αγκίστρια ιστού για περισσότερους αυτοματισμούς</item>
+      <item>Συνήθης βελτίωση ασφάλειας, προσβασιμότητας και απόδοσης</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="es">
     <regular>
       <item>🏁 Dashboard proporciona una excelente punto de partida para el día</item>

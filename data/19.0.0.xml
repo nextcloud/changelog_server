@@ -61,6 +61,18 @@
       <item>Weisen Sie den von Ihnen erstellten Gastkonten Gruppen zu (können an Gruppenadministratoren delegiert werden).</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="el">
+    <regular>
+      <item>Το Talk 9 ενσωματώνει την προβολή / επεξεργασία εγγράφων και μια προβολή πλέγματος</item>
+      <item>Προεπισκοπήσεις για krita / ανοιχτά αρχεία εγγράφων από προεπιλογή</item>
+      <item>Πολλές βελτιώσεις απόδοσης στο Talk και στο χειρισμό αρχείων</item>
+    </regular>
+    <admin>
+      <item>Το Collabora Online μπορεί να εγκατασταθεί χωρίς το πρόγραμμα docker ή αντίστροφο διακομιστή μεσολάβησης</item>
+      <item>Έγινε εισαγωγή ταυτότητας χωρίς κωδικό πρόσβασης και πρόσθετες ρυθμίσεις κωδικού πρόσβασης</item>
+      <item>Αναθέστε ομάδες σε λογαριασμούς επισκεπτών που δημιουργείτε (μπορούν να ανατεθούν σε διαχειριστές ομάδων)</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="es">
     <regular>
       <item>Talk 9 integra vista/edición de documentos y vista en parrilla</item>
