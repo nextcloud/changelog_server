@@ -177,7 +177,7 @@
     </regular>
     <admin>
       <item>Združevalniko omogočajo uporabnikom dostop do objav Twitter, Jira in drugih iz okolja Nextcloud.</item>
-      <item>Flow adds notifications and web hooks for more automation</item>
+      <item>Koračnik doda obvestila in spletne programske povezave za več avtomatizacije</item>
       <item>Običajne izboljšave varnosti, dostopnosti in delovanja</item>
     </admin>
   </whatsNew>
