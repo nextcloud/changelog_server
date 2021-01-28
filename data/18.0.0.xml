@@ -277,4 +277,16 @@
       <item>工作流使您可以轻松地自动执行任务，保护文件和处理文档</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="zh_TW">
+    <regular>
+      <item>工作區讓您可以在您的資料夾上方新增描述</item>
+      <item>檔案鎖定可避免與其他人編輯共享的檔案時發生衝突</item>
+      <item>Flow 讓您自動化執行重複且無聊的工作</item>
+    </regular>
+    <admin>
+      <item>可在沒有 docker 或反向代理的情況下安裝 ONLYOFFICE</item>
+      <item>日曆、電子郵件與交談的重寫帶來了許多新改進</item>
+      <item>Flow 讓您可以輕鬆地執行自動化的工作、保護檔案與處理文件</item>
+    </admin>
+  </whatsNew>
 </release>

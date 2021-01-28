@@ -289,4 +289,16 @@
       <item>S3版本控制，IBM Spectrum Scale以及更多</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="zh_TW">
+    <regular>
+      <item>遠端抹除</item>
+      <item>我們全新的無干擾、可協作的富文字編輯器</item>
+      <item>安全檢視加入了可強制加入的水印</item>
+    </regular>
+    <admin>
+      <item>首次登入後設定雙因素驗證</item>
+      <item>LDAP 寫入支援</item>
+      <item>S3 版本控制、IBM Spectrum Scale 與更多</item>
+    </admin>
+  </whatsNew>
 </release>

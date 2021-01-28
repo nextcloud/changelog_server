@@ -301,4 +301,16 @@
       <item>解决服务器配置检查中的误报</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="zh_TW">
+    <regular>
+      <item>多個使用者介面中的細節改善</item>
+      <item>例如深色主題中的淺色圖示</item>
+      <item>或是避免在評論中讓「遞交」按鈕重疊</item>
+    </regular>
+    <admin>
+      <item>不常見的使用者 ID 的問題已解決</item>
+      <item>修復了關於使用 OAuth 使用的網路登出問題</item>
+      <item>解決了伺服器設定檢查中的誤報</item>
+    </admin>
+  </whatsNew>
 </release>

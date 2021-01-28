@@ -301,4 +301,16 @@
       <item>修复在某些情况下文件不可用的问题</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="zh_TW">
+    <regular>
+      <item>檔案上傳處理改進</item>
+      <item>聯絡人的提及選單再次運作</item>
+      <item>細節改進（例如行動裝置檔案檢視）</item>
+    </regular>
+    <admin>
+      <item>使用者頁面上的「新增群組」按鈕回來了</item>
+      <item>郵件設定中再次提供「無」的驗證類型</item>
+      <item>修復了某些情況下無法使用的檔案</item>
+    </admin>
+  </whatsNew>
 </release>
