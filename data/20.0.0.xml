@@ -205,6 +205,18 @@
       <item>通常的安全性、可访问性和性能改进</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="zh_HK">
+    <regular>
+      <item>🏁 儀表板為一天提供了一個很好的起點</item>
+      <item>🔍 統一搜尋從應用程式與外部來源取得結果</item>
+      <item>🗨 Talk 引入了與其他平台的橋接</item>
+    </regular>
+    <admin>
+      <item>整合應用程式讓使用者可以從 Nextcloud 存取 Twitter、Jira 與其他服務</item>
+      <item>Flow 新增了通知與網路觸發程式來執行更多的自動化</item>
+      <item>一般的安全性、無障礙與效能改善</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="zh_TW">
     <regular>
       <item>🏁 儀表板為一天提供了一個很好的起點</item>

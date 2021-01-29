@@ -301,6 +301,18 @@
       <item>已更新的仪表盘，全文搜索 &amp; 组文件夹</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="zh_HK">
+    <regular>
+      <item>Nextcloud 社交與多連結分享</item>
+      <item>新設計、網格檢視、檔案載入速度提高兩倍</item>
+      <item>帶有 Collabora Online 與 Talk 的側邊欄</item>
+    </regular>
+    <admin>
+      <item>強制雙因素驗證與安全強化</item>
+      <item>自動 PDF 轉換與指令稿執行</item>
+      <item>更新儀表板、全文搜尋與群組資料夾</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="zh_TW">
     <regular>
       <item>Nextcloud 社交與多連結分享</item>

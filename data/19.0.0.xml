@@ -217,6 +217,18 @@
       <item>将群组分配给您创建的访客账号（可以委派给群组管理员）</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="zh_HK">
+    <regular>
+      <item>Talk 9 整合了文件檢視／編輯與網格檢視</item>
+      <item>預設情況下預覽 Krita／開放文件格式的檔案</item>
+      <item>Talk 與文件處理的許多效能改善</item>
+    </regular>
+    <admin>
+      <item>可在沒有 docker 或反向代理的情況下安裝 Collabora Online</item>
+      <item>引入了無密碼驗證與其他密碼設定</item>
+      <item>將群組指派給您建立的訪客帳號（可委派給群組管理員）</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="zh_TW">
     <regular>
       <item>Talk 9 整合了文件檢視／編輯與網格檢視</item>
