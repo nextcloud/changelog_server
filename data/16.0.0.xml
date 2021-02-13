@@ -304,11 +304,11 @@
   <whatsNew lang="zh_HK">
     <regular>
       <item>針對檔案、分享收件者的智慧型建議</item>
-      <item>專案：更容易搜尋的群組檔案、聊天、工作項目</item>
-      <item>右鍵點擊檔案、新的文件檢視程式與更多</item>
+      <item>專案：將文件，聊天，任務組合在一起，以便於搜索</item>
+      <item>右鍵點擊檔案、新文件檢視程式與更多</item>
     </regular>
     <admin>
-      <item>威力源自機器學習的可疑登入偵測</item>
+      <item>AI 可疑登入偵測</item>
       <item>群組資料夾的存取控制列表</item>
       <item>外部儲存變數（LDAP 提供 '$home'）</item>
     </admin>
