@@ -85,6 +85,18 @@
       <item>Asignar grupos a cuentas de invitados que creas (se puede delegar en los administradores de grupos)</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="eu">
+    <regular>
+      <item>Talk 9 integrates document viewing/editing and a grid view</item>
+      <item>Previews for krita / open document files by default</item>
+      <item>Many performance improvements in Talk and file handling</item>
+    </regular>
+    <admin>
+      <item>Posible da Collabora Online instalatzea docker edo alderantzizko proxyrik erabili gabe.</item>
+      <item>Pasahitzik gabeko autentifikazioa eta pasahitz gehigarrien ezarpenak gehitu dira</item>
+      <item>Esleitu taldeak zuk sorturiko gonbidatu-kontuei (delegatu ahal zaie talde administratzaileei)</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="fr">
     <regular>
       <item>Talk 9 intègre la visualisation et l'édition de documents ainsi qu'une vue grille</item>
