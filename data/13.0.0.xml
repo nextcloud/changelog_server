@@ -221,6 +221,17 @@
       <item>Поддержка стилей оформления: объединение CSS-файлов;</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="sc">
+    <regular>
+      <item>Interfache utente afinada</item>
+      <item>Tzifradura end-to-end</item>
+      <item>Tzarrada vìdeu e testuale</item>
+    </regular>
+    <admin>
+      <item>Modìficas a is cunfiguratziones de Nginx </item>
+      <item>Temas: is archìvios de CSS sunt istados postos paris</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="sk">
     <regular>
       <item>Vylepšené užívateľské rozhranie</item>

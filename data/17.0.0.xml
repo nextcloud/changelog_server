@@ -229,6 +229,18 @@
       <item>Поддержка версионирования для хранилищ S3, IBM Spectrum Scale и прочих;</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="sc">
+    <regular>
+      <item>Remote wipe</item>
+      <item>Our new distraction-free, collaborative rich text editor</item>
+      <item>secure view gains enforceable document watermarks</item>
+    </regular>
+    <admin>
+      <item>Cunfigura s'identificatzione a duos fatores a pustis de su primu aviamentu</item>
+      <item>Suportu iscritura LDAP </item>
+      <item>Controllu de versione S3, IBM e Scale e àteru</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="sk">
     <regular>
       <item>Vymazanie na diaľku</item>

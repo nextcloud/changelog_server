@@ -241,6 +241,18 @@
       <item>Исправлено ложное срабатывание при проверке настроек сервера;</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="sc">
+    <regular>
+      <item>Paritzos megioramentos de is detàllios in s'interfache utente</item>
+      <item>pro es. iconas craras a tema iscuru</item>
+      <item>o evitare chi su butone de imbiu de is cummentos si subrapòngiat</item>
+    </regular>
+    <admin>
+      <item>Isortos problemas insòlitos cun ID utente</item>
+      <item>Disconnessione ìnternet curreta impreende OAuth </item>
+      <item>Isortu positivu frassu in su controllu de s'installatzione de su serbidore</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="sk">
     <regular>
       <item>Niekoľko drobných vylepšení v používateľskom rozhraní</item>

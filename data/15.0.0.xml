@@ -241,6 +241,18 @@
       <item>Обновления приложений «Панель управления», «Полнотекстовый поиск» и «Папки групп»;</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="sc">
+    <regular>
+      <item>Nextcloud Sotziale e cumpartziduras cun prus ligòngios</item>
+      <item>Gràfica noa, bista a grìlia e carrigamentu de is archìvios duas bortas prus lestru</item>
+      <item>istanca laterale cun Collabora Online &amp; Talk in sa istanca laterale</item>
+    </regular>
+    <admin>
+      <item>aplicatzione de 2FA e afortigadura de sa seguridade</item>
+      <item>Cunversione automàtica de is PDF &amp; esecutzione de is scripts</item>
+      <item>Cofaneddu agiornadu, chirca de su testu integrale e cartellas de su grupu</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="sk">
     <regular>
       <item>Nextcloud sociálne a viac odkazové zdieľania</item>

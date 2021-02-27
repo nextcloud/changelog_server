@@ -241,6 +241,18 @@
       <item>Переменные для внешнего хранилища (LDAP предоставляет '$home')</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="sc">
+    <regular>
+      <item>Cunsìgios sàbios pro is archìvios, destinatàrios de is cumpartziduras</item>
+      <item>Progetos: ammuntonant archìvios, tzarradas, atividades pro fàghere prus simpre sa chirca</item>
+      <item>butone a manu dereta in Archìviu, visualizadore nou de documentos e àteru</item>
+    </regular>
+    <admin>
+      <item>Rilevamentu de atzessos suspetosos tràmite machine-learning</item>
+      <item>Access Control Lists in is cartellas de grupu</item>
+      <item>Variàbiles pro depòsitu in foras (LDAP frunit '$home')</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="sk">
     <regular>
       <item>Inteligentné odporúčania súborov a príjemcov zdieľaní </item>

@@ -241,6 +241,18 @@
       <item>Поддержка проверка подлинности Kerberos для протокола Samba; Поддержка язык разметки декларации безопасности (SAML) для множественных поставщиков учётных записей;</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="sc">
+    <regular>
+      <item>Verìfica il destinatàriu de una cumpartzidura in una vìdeu-cramada; 2FA cun Signal e Telegram</item>
+      <item>Agiunghe una nota a cumpartziduras; bistas ampras de is cumpartziduras; chirca in is cummentos</item>
+      <item>Megioramentos in s'atzessibilidade includende temas a cuntrastu artu</item>
+    </regular>
+    <admin>
+      <item>Rechedet PHP &gt;= 7.0, formadu de is log, etichetas de syslog e cunfiguratziones de nginx modificados</item>
+      <item>Capatzidades megioradas in cunformidade cun su GDPR tràmite aplicatzioni; log de audit separados</item>
+      <item>Identificatzione Kerberos in Samba; SAML multi-IdP </item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="sk">
     <regular>
       <item>Overte príjemcu zdieľania pri video hovore; 2FA pomocou Signal &amp; Telegram</item>

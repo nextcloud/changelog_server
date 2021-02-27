@@ -241,6 +241,18 @@
       <item>Исправлены ошибки недоступности файлов в некоторых условиях;</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="sc">
+    <regular>
+      <item>Revisionadu su manìgiu de su carrigamentu de is archìvios </item>
+      <item>Is menu de cuntatu o mentzione funtzionant torra</item>
+      <item>Megiormentu de is detàllios (p.e. bista mòbile de is archìvios)</item>
+    </regular>
+    <admin>
+      <item>Su butone "Agiunghe grupu" in sa pàgina utente est torradu</item>
+      <item>Modellu de identificatzione "Nessunu" torra a disponimentu in is impostatziones de sa posta</item>
+      <item>Is archìvios a disponimentu curretos a determinadas cunditziones</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="sk">
     <regular>
       <item>Upravené nahrávanie súborov</item>
