@@ -169,6 +169,18 @@
       <item>Регулярные улучшения безопасности, производительности и удобства в использовании;</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="sc">
+    <regular>
+      <item>🏁 Su cofaneddu est unu printzìpiu bonu a beru de sa die</item>
+      <item>🔍 Sa chirca unificada batit resurtados dae aplicatziones e fontes de foras</item>
+      <item>🗨 Talk at introduidu su ligòngiu a àteras prataformas</item>
+    </regular>
+    <admin>
+      <item>Is aplicatziones de integratzione permitet a is utentes de atzèdere a Twitter, Jira e àteras dae Nextcloud</item>
+      <item>Flow agiunghe notìficas e gantzos de rete pro ddu rèndere prus automàticu</item>
+      <item>A su sòlitu, megioramentos in sa seguridade, atzessibilidade e esecutzione</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="sl">
     <regular>
       <item>🏁 Nadzorna plošča omogoča hiter pregled ob začetku dneva</item>

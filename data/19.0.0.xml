@@ -193,6 +193,18 @@
       <item>Возможность включения гостевых учётных записей в группы, в том числе администраторами групп;</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="sc">
+    <regular>
+      <item>Talk 9 ìntegrat sa visualizatzione/modìfica de is documentos e una bista a grìllia</item>
+      <item>Anteprimas pro krita / aberi is archìvios de is documentos in modalidade predefinida</item>
+      <item>Megiormentos medas de su rendimentu de Talk e in sa gestione de is archìvios</item>
+    </regular>
+    <admin>
+      <item>Collabora Online faghet a ddu installare sena docker o serbidore intermèdiu cuntràriu</item>
+      <item>Introduida s'identificatzione sena crae e impostatziones in agiunta de sa crae</item>
+      <item>Assigna grupos a is contos acollidos chi creas (si podet delegare a is amministradores de is grupos)</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="sl">
     <regular>
       <item>Program Talk 9 podpira predogled in urejanje dokumentov v mrežnem pogledu</item>
