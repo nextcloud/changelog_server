@@ -87,9 +87,9 @@
   </whatsNew>
   <whatsNew lang="eu">
     <regular>
-      <item>Talk 9 integrates document viewing/editing and a grid view</item>
-      <item>Previews for krita / open document files by default</item>
-      <item>Many performance improvements in Talk and file handling</item>
+      <item>Talk 9-k dokumentuak ikusteko / editatzeko eta sareta ikuspegia integratzen ditu</item>
+      <item>Modu lehenetsian krita / dokumentu irekiko fitxategien aurrebistak</item>
+      <item>Errendimendu hobekuntza ugari Talk eta fitxategien kudeaketan</item>
     </regular>
     <admin>
       <item>Posible da Collabora Online instalatzea docker edo alderantzizko proxyrik erabili gabe.</item>

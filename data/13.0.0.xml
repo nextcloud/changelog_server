@@ -289,12 +289,12 @@
   </whatsNew>
   <whatsNew lang="zh_HK">
     <regular>
-      <item>重新定義使用者介面</item>
-      <item>端點對端點加密</item>
-      <item>影音及文字聊天</item>
+      <item>重新定義用戶介面</item>
+      <item>端對端加密</item>
+      <item>視像及文字聊天</item>
     </regular>
     <admin>
-      <item>對 Nginx 設定的變更</item>
+      <item>對 Nginx 配置的變更</item>
       <item>佈景主題：CSS 檔案已合併</item>
     </admin>
   </whatsNew>

@@ -315,14 +315,14 @@
   </whatsNew>
   <whatsNew lang="zh_HK">
     <regular>
-      <item>驗證視訊通話中的分享收件者；Signal 與 Telegram 的雙因素驗證</item>
+      <item>驗證視像通話中的分享收件者；Signal 與 Telegram 的雙因素驗證</item>
       <item>在分享中新增註記；擴展的分享檢視；透過評論搜尋</item>
       <item>無障礙功能改善，包含高對比度主題</item>
     </regular>
     <admin>
       <item>需要 PHP &gt;= 7.0、紀錄檔案格式、syslog 標籤與 nginx 變更</item>
       <item>透過應用程式改善 GDPR 的合規性；獨立的審核紀錄檔</item>
-      <item>Samba 的 Kerberos 驗證；多 IdP SAML</item>
+      <item>Samba 的 Kerberos 驗證；multi-IdP SAML</item>
     </admin>
   </whatsNew>
   <whatsNew lang="zh_TW">

@@ -73,6 +73,18 @@
       <item>Las mejoras de seguridad, accesibilidad y rendimiento habituales</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="eu">
+    <regular>
+      <item>🏁 Arbelak eguneko abiapuntu bikaina eskaintzen du</item>
+      <item>🔍 Bilaketa bateratuak aplikazioetako eta kanpoko iturrietako emaitzak erakusten ditu</item>
+      <item>🗨 Talk-ek beste plataforma batzuetarako zubia aurkeztu zuen</item>
+    </regular>
+    <admin>
+      <item>Integrazio aplikazioek baimentzen dute erabiltzaileek Nextcloud-etik Twitter, Jira eta bestelakoak atzitzea </item>
+      <item>Flow-ek jakinarazpenak eta web kakoak gehitzen ditu automatizazio gehiagorako</item>
+      <item>Ohiko segurtasun, irisgarritasun eta errendimendu hobekuntzak</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="fr">
     <regular>
       <item>🏁 Le tableau de bord constitue un excellent point de départ pour la journée</item>
@@ -224,7 +236,7 @@
       <item>🗨 Talk 引入了與其他平台的橋接</item>
     </regular>
     <admin>
-      <item>整合應用程式讓使用者可以從 Nextcloud 存取 Twitter、Jira 與其他服務</item>
+      <item>整合應用程式讓用戶可以從 Nextcloud 存取 Twitter、Jira 與其他服務</item>
       <item>Flow 新增了通知與網路觸發程式來執行更多的自動化</item>
       <item>一般的安全性、無障礙與效能改善</item>
     </admin>
