@@ -34,7 +34,7 @@
     <admin>
       <item>Po prvním přihlášení nastavit dvoufázové ověřování se</item>
       <item>Podpora pro zápis do LDAP</item>
-      <item>S3 versioning, IBM Spectrum Scale a další</item>
+      <item>S3 správa verzí, IBM Spectrum Scale a další</item>
     </admin>
   </whatsNew>
   <whatsNew lang="de">
