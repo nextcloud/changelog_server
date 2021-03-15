@@ -28,7 +28,7 @@
   <whatsNew lang="cs">
     <regular>
       <item>Vymazání na dálku</item>
-      <item>Náš nový, soustředění nerozptylující editor formátovaného textu, podporující spolupráci</item>
+      <item>Náš nový, soustředění nerozptylující editor formátovaného textu, umožňující souběžné úpravy vícero uživateli naráz</item>
       <item>zabezpečené zobrazení získá vynutitelné vodoznaky dokumentů</item>
     </regular>
     <admin>
