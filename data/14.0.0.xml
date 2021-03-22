@@ -320,7 +320,7 @@
       <item>無障礙功能改善，包含高對比度主題</item>
     </regular>
     <admin>
-      <item>需要 PHP &gt;= 7.0、紀錄檔案格式、syslog 標籤與 nginx 變更</item>
+      <item>需要 PHP &gt;= 7。0、紀錄檔案格式、syslog 標籤與 nginx 變更</item>
       <item>透過應用程式改善 GDPR 的合規性；獨立的審核紀錄檔</item>
       <item>Samba 的 Kerberos 驗證；multi-IdP SAML</item>
     </admin>
