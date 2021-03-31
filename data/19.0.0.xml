@@ -29,10 +29,10 @@
     <regular>
       <item>Talk 9 začleňuje zobrazování/upravování dokumentů a zobrazení v mřížce</item>
       <item>Náhledy pro soubory s krita / (open) dokumenty ve výchozím stavu</item>
-      <item>Mnoho vylepšení výkonosti v Talk a zacházení se soubory</item>
+      <item>Mnohá výkonnostní vylepšení v rámci Talk a také v oblasti zacházení se soubory</item>
     </regular>
     <admin>
-      <item>Collabora Online je možné nainstalovat bez použití docker nebo reverzní proxy</item>
+      <item>Collabora Online je možné nainstalovat bez použití docker kontejneru nebo reverzní proxy</item>
       <item>Zavedeno ověřování se bez hesla a další nastavení pro hesla</item>
       <item>Přiřaďte skupiny účtům hostů, které vytvoříte (je možné delegovat na správce skupin)</item>
     </admin>
