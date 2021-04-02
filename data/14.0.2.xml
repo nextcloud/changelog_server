@@ -27,14 +27,14 @@
   </whatsNew>
   <whatsNew lang="cs">
     <regular>
-      <item>Zrevidována obsluha nahrávání souboru</item>
+      <item>Zrevidováno jak je nakládáno s nahráváním souboru</item>
       <item>Nabídky kontaktu při zmínění opět fungují</item>
       <item>Vylepšení podrobností (např. zobrazení souboru v mobilní verzi)</item>
     </regular>
     <admin>
       <item>Tlačítko „Přidat skupinu“ na stránce uživatelů je zpět</item>
-      <item>V nastavení e-mailu je opět k dispozici typ ověřování „Žádné“</item>
-      <item>Opravena nedostupnost souborů za nějakých okolností</item>
+      <item>V nastavení e-mailu je opět k dispozici typ ověřování se „Žádné“</item>
+      <item>Opravena nedostupnost souborů, projevující se za některých okolností</item>
     </admin>
   </whatsNew>
   <whatsNew lang="de">
