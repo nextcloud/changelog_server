@@ -177,7 +177,7 @@
     </regular>
     <admin>
       <item>初回ログイン後に二要素認証を設定</item>
-      <item>LDAPの書き込みをサポート</item>
+      <item>LDAPの書き込みに対応</item>
       <item>S3バージョニング、IBM Spectrum Scale他</item>
     </admin>
   </whatsNew>
