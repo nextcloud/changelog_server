@@ -52,12 +52,12 @@
   <whatsNew lang="de_DE">
     <regular>
       <item>Fernlöschung</item>
-      <item>Unser neuer ablenkungsfreier, zusammenarbeitsfähiger Rich-Text-Editor</item>
+      <item>Unser neuer ablenkungsfreier, kollaborativer Rich-Text-Editor</item>
       <item>Secure view bietet erzwingbare Wasserzeichen für Dokumente</item>
     </regular>
     <admin>
       <item>Konfiguration der Zwei-Faktor-Authentifizierung nach der ersten Anmeldung</item>
-      <item>LDAP Schreibunterstützung</item>
+      <item>Schreibunterstützung für LDAP </item>
       <item>S3-Versionierung, IBM Spectrum Scale &amp; mehr</item>
     </admin>
   </whatsNew>
@@ -155,6 +155,18 @@
       <item>Postavite dvofaktorsku autentifikaciju nakon prve prijave</item>
       <item>Podrška za pisanje putem LDAP-a</item>
       <item>S3 upravljanje inačicama, IBM Spectrum Scale i drugo</item>
+    </admin>
+  </whatsNew>
+  <whatsNew lang="hu">
+    <regular>
+      <item>A távoli törlés</item>
+      <item>Új, figyelemelterelés nélküli, szövegszerkesztőnk együttműködéshez</item>
+      <item>a biztonságos nézet lehetővé teszi a dokumentumokba vízjel beágyazását</item>
+    </regular>
+    <admin>
+      <item>Kétfaktoros hitelesítés beállítása az első belépés után</item>
+      <item>LDAP írás támogatás</item>
+      <item>S3 verzió, IBM Spectrum Scale és egyebek</item>
     </admin>
   </whatsNew>
   <whatsNew lang="it">

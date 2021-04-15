@@ -121,6 +121,18 @@
       <item>Uobičajena poboljšanja sigurnosti, pristupačnosti i učinkovitosti</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="hu">
+    <regular>
+      <item> Az irányítópult minden napra remek kiindulópontot nyújt</item>
+      <item> Az egységes keresés alkalmazásokból és külső forrásból is ad eredményeket</item>
+      <item>🗨 Talk introduced bridging to other platforms</item>
+    </regular>
+    <admin>
+      <item>Az integrációs alkalmazások lehetővé teszik a felhasználók számára a twitter, Jira és más szoftverek elérését a Nextcloudból</item>
+      <item>A Folyamat értesítéseket és web horgokat szolgáltat az automatizáláshoz</item>
+      <item>Szokásos biztonsági, hozzáférési és teljesítménybeli fejlesztések</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="it">
     <regular>
       <item>🏁 Il cruscotto offre un ottimo punto di partenza per la giornata</item>

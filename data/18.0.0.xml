@@ -145,6 +145,18 @@
       <item>Flow omogućuje jednostavnu automatizaciju zadataka, zaštitu datoteka i obradu dokumenata</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="hu">
+    <regular>
+      <item>A Munkaterületek segítségével leírást adhat a mappákhoz</item>
+      <item>A fájl lezárása megakadályozza a másokkal megosztott fájlok szerkesztését</item>
+      <item>A Folyamat segítségével automatizálhatja az ismétlődő, unalmas feladatokat</item>
+    </regular>
+    <admin>
+      <item>Az ONLYOFFICE telepíthető docker vagy fordított proxy nélkül</item>
+      <item>A Naptár, a Mail és a Csevegés átírása számos új fejlesztést hoz</item>
+      <item>A Folyamat segítségével könnyedén automatizálhatja a feladatokat, védheti a fájlokat és feldolgozhatja a dokumentumokat</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="it">
     <regular>
       <item>Le aree di lavoro ti consentono di aggiungere una descrizione sopra le tue cartelle</item>

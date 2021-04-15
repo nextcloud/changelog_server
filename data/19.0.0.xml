@@ -133,6 +133,18 @@
       <item>Dodijelite grupe računima gostiju koje stvorite (mogu se dodijeliti administratorima grupa)</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="hu">
+    <regular>
+      <item>A Beszélgetés 9 integrálja a dokumentumok megtekintését/szerkesztését és a rács nézetet</item>
+      <item>Previews for krita / open document files by default</item>
+      <item>Számos teljesítményjavulás a Beszélgetés és a fájlkezelés terén</item>
+    </regular>
+    <admin>
+      <item>Collabora Online can be installed without docker or reverse proxy</item>
+      <item>Jelszó nélküli hitelesítés és további jelszóbeállítások bevezetése</item>
+      <item>Assign groups to guest accounts you create (can be delegated to group admins)</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="it">
     <regular>
       <item>Talk 9 integra la visualizzazione/modifica dei documenti e una vista a griglia</item>
