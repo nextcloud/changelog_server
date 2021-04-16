@@ -136,13 +136,13 @@
   <whatsNew lang="hu">
     <regular>
       <item>A Beszélgetés 9 integrálja a dokumentumok megtekintését/szerkesztését és a rács nézetet</item>
-      <item>Previews for krita / open document files by default</item>
+      <item>Előnézet a krita / dokumentumfájlok számára alapértalmazésként</item>
       <item>Számos teljesítményjavulás a Beszélgetés és a fájlkezelés terén</item>
     </regular>
     <admin>
-      <item>Collabora Online can be installed without docker or reverse proxy</item>
+      <item>A Collabora Online telepíthető docker vagy fordított proxy nélkül</item>
       <item>Jelszó nélküli hitelesítés és további jelszóbeállítások bevezetése</item>
-      <item>Assign groups to guest accounts you create (can be delegated to group admins)</item>
+      <item>Csoportok hozzárendelése a létrehozott vendégfiókokhoz (delegálható a csoport rendszergazdáinak)</item>
     </admin>
   </whatsNew>
   <whatsNew lang="it">

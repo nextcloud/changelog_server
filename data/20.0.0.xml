@@ -125,7 +125,7 @@
     <regular>
       <item> Az irányítópult minden napra remek kiindulópontot nyújt</item>
       <item> Az egységes keresés alkalmazásokból és külső forrásból is ad eredményeket</item>
-      <item>🗨 Talk introduced bridging to other platforms</item>
+      <item> A Beszélgetésekbe bekerült a más platformokkal való kapcsolat lehetősége</item>
     </regular>
     <admin>
       <item>Az integrációs alkalmazások lehetővé teszik a felhasználók számára a twitter, Jira és más szoftverek elérését a Nextcloudból</item>
