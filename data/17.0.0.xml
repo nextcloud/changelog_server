@@ -269,12 +269,12 @@
     <regular>
       <item>Oddaljeno brisanje podatkov</item>
       <item>Nov enostaven urejevalnik besedila s podporo za sodelovalno delo</item>
-      <item>secure view gains enforceable document watermarks</item>
+      <item>varni pogled pridobi vsiljene vodne žige za zaščito dokumentov</item>
     </regular>
     <admin>
       <item>Nastavitev dvostopenjske overitve po prvi prijavi</item>
       <item>Podpora zapisovanja LDAP</item>
-      <item>S3 versioning, IBM Spectrum Scale &amp; more</item>
+      <item>različice S3, merjenje IBM Spectrum in še več</item>
     </admin>
   </whatsNew>
   <whatsNew lang="sr">

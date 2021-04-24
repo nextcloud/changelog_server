@@ -274,7 +274,7 @@
     <admin>
       <item>Strojno učenje omogoča zaznavanje sumljivih prijav</item>
       <item>Seznami nadzora za dostop v skupinskih mapah</item>
-      <item>Spremenljivke za zunanjo shrambo (LDAP omogoča '$home')</item>
+      <item>Spremenljivke za zunanjo shrambo (LDAP omogoča »$home«)</item>
     </admin>
   </whatsNew>
   <whatsNew lang="sr">
