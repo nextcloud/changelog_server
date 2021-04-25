@@ -57,7 +57,7 @@
     </regular>
     <admin>
       <item>Behandelte Probleme mit ungewöhnlichen Benutzer-IDs</item>
-      <item>Fehler beim Web-Logout bei OAuth-Verwendung behoben</item>
+      <item>Fehler beim Abmelden von der Web-Schnittstelle bei OAuth-Verwendung behoben</item>
       <item>Falsch-positives Ergebnis beim Server-Setup-Check behoben</item>
     </admin>
   </whatsNew>
