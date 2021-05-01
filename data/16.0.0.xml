@@ -213,7 +213,7 @@
     </regular>
     <admin>
       <item>Włączono automatyczne nauczanie wykrywania podejrzanego logowania</item>
-      <item>Listy kontroli dostępu w folderach grupowych</item>
+      <item>Listy kontroli dostępu w katalogach grupowych</item>
       <item>Zmienne dla zewnętrznej pamięci masowej (LDAP udostępnia '$home')</item>
     </admin>
   </whatsNew>
