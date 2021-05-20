@@ -212,7 +212,7 @@
       <item>lub unikaj nakładania się przycisku wysyłania w komentarzach</item>
     </regular>
     <admin>
-      <item>Rozwiązano problemy z nietypowymi identyfikatorami użytkowników</item>
+      <item>Rozwiązano problemy z nietypowymi ID użytkowników</item>
       <item>Naprawiono wylogowanie z sieci przy użyciu OAuth</item>
       <item>Naprawiono fałszywy alarm w sprawdzaniu konfiguracji serwera</item>
     </admin>
