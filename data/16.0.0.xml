@@ -189,7 +189,7 @@
     </regular>
     <admin>
       <item>機械学習による不審なログインの検出</item>
-      <item>グループフォルダ内のアクセス制御リスト</item>
+      <item>グループフォルダー内のアクセス制御リスト</item>
       <item>外部ストレージ用の変数(LDAPからの'$home'が利用されます)</item>
     </admin>
   </whatsNew>
