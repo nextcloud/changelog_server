@@ -27,14 +27,14 @@
   </whatsNew>
   <whatsNew lang="cs">
     <regular>
-      <item>Talk 9 začleňuje zobrazování/upravování dokumentů a zobrazení v mřížce</item>
-      <item>Náhledy pro soubory s krita / (open) dokumenty ve výchozím stavu</item>
+      <item>Aplikace Talk začleňuje od verze 9 zobrazování/upravování dokumentů a zobrazení v mřížce</item>
+      <item>Náhledy pro soubory s daty ve formátu krita a open document vytvářeny už ve výchozím stavu</item>
       <item>Mnohá výkonnostní vylepšení v rámci Talk a také v oblasti zacházení se soubory</item>
     </regular>
     <admin>
       <item>Collabora Online je možné nainstalovat bez použití docker kontejneru nebo reverzní proxy</item>
       <item>Zavedeno ověřování se bez hesla a další nastavení pro hesla</item>
-      <item>Přiřaďte skupiny účtům hostů, které vytvoříte (je možné delegovat na správce skupin)</item>
+      <item>Účty hostů, které vytváříte, je možné přiřazovat do skupin (úlohu je možné delegovat na správce skupin)</item>
     </admin>
   </whatsNew>
   <whatsNew lang="de">
