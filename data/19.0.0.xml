@@ -157,6 +157,18 @@
       <item>Assegna gruppi agli account ospite che crei (può essere delegata agli amministratori dei gruppi)</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="ja">
+    <regular>
+      <item>Talk 9でドキュメントの表示/編集とグリッドビューが統合されました</item>
+      <item>kritaでのプレビュー/ドキュメントファイルをデフォルトで開く</item>
+      <item>Talkとファイル処理の多くのパフォーマンスの改善</item>
+    </regular>
+    <admin>
+      <item>Collabora Onlineは、Dockerやリバースプロキシーを使わずにインストールできます</item>
+      <item>パスワードなしの認証と追加のパスワード設定が導入されました</item>
+      <item>作成したゲストアカウントにグループを割り当てます（グループ管理者に委任できます）</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="nl">
     <regular>
       <item>Talk 9 integreert document bekijken/bewerken en een roosteroverzicht</item>
@@ -215,6 +227,18 @@
       <item>Collabora Online faghet a ddu installare sena docker o serbidore intermèdiu cuntràriu</item>
       <item>Introduida s'identificatzione sena crae e impostatziones in agiunta de sa crae</item>
       <item>Assigna grupos a is contos acollidos chi creas (si podet delegare a is amministradores de is grupos)</item>
+    </admin>
+  </whatsNew>
+  <whatsNew lang="sk">
+    <regular>
+      <item>Talk 9 integruje prehliadanie/úpravu dokumentov a zobrazenie v mriežke</item>
+      <item>Náhľady pre Kritu / otváranie dokumentov ako predvolené</item>
+      <item>Množstvo vylepšení výkonu v Talku a v spracovaní súborov</item>
+    </regular>
+    <admin>
+      <item>Collabora Online sa dá nainštalovať bez docker kontajneru alebo reverzného proxy</item>
+      <item>Predstavili sme overenie bez hesla a rozšírené nastavenia hesla</item>
+      <item>Priradiť skupiny k návštevníckym účtom ktoré vytvárate (môže byť delegované na administrátorov)</item>
     </admin>
   </whatsNew>
   <whatsNew lang="sl">

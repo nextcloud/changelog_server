@@ -145,6 +145,18 @@
       <item>Soliti miglioramenti in termini di sicurezza, accessibilità e prestazioni</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="ja">
+    <regular>
+      <item>🏁ダッシュボードによりその日の素晴らしい始まりが提供されます</item>
+      <item>🔍統合検索により、アプリや外部ソースから結果が表示されます</item>
+      <item>🗨トークに他のプラットフォームへのブリッジングが導入されました</item>
+    </regular>
+    <admin>
+      <item>統合アプリにより、ユーザーはNextcloudからTwitterやJiraなどにアクセスできるようになります</item>
+      <item>Flowに自動化を促進するための通知とWebフックが追加されました</item>
+      <item>いつものセキュリティ、アクセシビリティ、パフォーマンスの向上</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="nl">
     <regular>
       <item>🏁 Dashboard geeft een mooi startpunt voor je dag</item>
@@ -203,6 +215,18 @@
       <item>Is aplicatziones de integratzione permitet a is utentes de atzèdere a Twitter, Jira e àteras dae Nextcloud</item>
       <item>Flow agiunghe notìficas e gantzos de rete pro ddu rèndere prus automàticu</item>
       <item>A su sòlitu, megioramentos in sa seguridade, atzessibilidade e esecutzione</item>
+    </admin>
+  </whatsNew>
+  <whatsNew lang="sk">
+    <regular>
+      <item>🏁 Dashboard poskytuje úžasný zdroj pre začatie nového dňa.</item>
+      <item>🔍 Centralizované vyhľadávanie poskytuje výsledky z aplikácii a externých zdrojov</item>
+      <item>🗨 Talk predstavuje konektory k iným platformám</item>
+    </regular>
+    <admin>
+      <item>Integračné aplikácie poskytujú užívateľom prístup k twitteru, Jira a iných z Nextcloudu</item>
+      <item>Flow pridáva oznámenia a web hooky pre väčšiu automatizáciu</item>
+      <item>Bežné vylepšenia bezpečnosti, sprístupnenia a výkonu</item>
     </admin>
   </whatsNew>
   <whatsNew lang="sl">
