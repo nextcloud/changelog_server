@@ -136,7 +136,7 @@
   <whatsNew lang="hu">
     <regular>
       <item>A Beszélgetés 9 integrálja a dokumentumok megtekintését/szerkesztését és a rács nézetet</item>
-      <item>Előnézet a krita / dokumentumfájlok számára alapértalmazésként</item>
+      <item>Előnézet a krita / dokumentumfájlok számára alapértelmezetten</item>
       <item>Számos teljesítményjavulás a Beszélgetés és a fájlkezelés terén</item>
     </regular>
     <admin>

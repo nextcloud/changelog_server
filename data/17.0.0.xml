@@ -159,13 +159,13 @@
   </whatsNew>
   <whatsNew lang="hu">
     <regular>
-      <item>A távoli törlés</item>
-      <item>Új, figyelemelterelés nélküli, szövegszerkesztőnk együttműködéshez</item>
-      <item>a biztonságos nézet lehetővé teszi a dokumentumokba vízjel beágyazását</item>
+      <item>Távoli törlés</item>
+      <item>Új, figyelemelterelés nélküli, közösen használható szövegszerkesztő</item>
+      <item>a biztonságos nézet lehetővé teszi a vízjel ágyazását a dokumentumokba</item>
     </regular>
     <admin>
       <item>Kétfaktoros hitelesítés beállítása az első belépés után</item>
-      <item>LDAP írás támogatás</item>
+      <item>LDAP írás támogatása</item>
       <item>S3 verzió, IBM Spectrum Scale és egyebek</item>
     </admin>
   </whatsNew>

@@ -161,10 +161,10 @@
     <regular>
       <item>Fájlfeltöltés kezelésének átdolgozása</item>
       <item>A névjegy menük újra működnek az említéseknél</item>
-      <item>Részletek fejlesztései (például mobilos fájlnézet)</item>
+      <item>Részletek fejlesztései (például a mobilos fájlnézetnél)</item>
     </regular>
     <admin>
-      <item>Visszakerült a „Csoport hozzáadása” gomb a felhasználók oldalán</item>
+      <item>Visszakerült a „Csoport hozzáadása” gomb a felhasználók oldalára</item>
       <item>Újra elérhető a „Nincs” hitelesítési típus a levelezési beállításokban</item>
       <item>Az egyes feltételek esetén nem elérhető fájlok javítása</item>
     </admin>
