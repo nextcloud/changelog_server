@@ -13,6 +13,18 @@
       <item>Updated Dashboard, Full Text Search &amp; Group folders</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="bg">
+    <regular>
+      <item>Nextcloud Социални и споделяния на множество връзки</item>
+      <item>Нов дизайн, мрежов изглед и 2 пъти по-бързо зареждане на файлове</item>
+      <item>странична лента с Collabora Online и Talk в страничната лента</item>
+    </regular>
+    <admin>
+      <item>прилагане на 2FA и подсилване на сигурността</item>
+      <item>автоматично PDF конвертиране и изпълнение на скрипт</item>
+      <item>Актуализирано табло за управление, Пълно текстово търсене и Групови папки</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="ca">
     <regular>
       <item>15.0.0-regular1-4298c406</item>

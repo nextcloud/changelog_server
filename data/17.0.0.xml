@@ -13,6 +13,18 @@
       <item>S3 versioning, IBM Spectrum Scale &amp; more</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="bg">
+    <regular>
+      <item>Дистанционно изтриване</item>
+      <item>Нашият нов съвместен редактор на текст в RTF формат, без разсейване</item>
+      <item>secure view подобрява приложимите водни знаци на документи</item>
+    </regular>
+    <admin>
+      <item>Настройка за двустепенно удостоверяване след първо влизане</item>
+      <item>Поддръжка за запис на LDAP</item>
+      <item>S3 версии, IBM Spectrum Scale и други</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="ca">
     <regular>
       <item>17.0.0-regular1-3cc72639</item>

@@ -13,6 +13,18 @@
       <item>Flow lets you easily automate tasks, protect files and process documents</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="bg">
+    <regular>
+      <item>Workspaces ви позволява да добавите описание над вашите папки</item>
+      <item>Заключването на файлове предотвратява конфликти при редактиране на споделени файлове с други</item>
+      <item>Flow ви позволява да автоматизирате повтарящи се, скучни задачи</item>
+    </regular>
+    <admin>
+      <item>ONLYOFFICE може да се инсталира без докер или обратен прокси</item>
+      <item>Пренаписването на приложенията Calendar/календар/, Mail/имейл/ и Talk/разговор/, носи много нови подобрения</item>
+      <item>Flow ви позволява лесно да автоматизирате задачи, да защитавате файлове и да обработвате документи</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="ca">
     <regular>
       <item>18.0.0-regular1-fa4691df</item>

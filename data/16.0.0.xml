@@ -13,6 +13,18 @@
       <item>Variables for external storage (LDAP provides '$home')</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="bg">
+    <regular>
+      <item>Интелигентни препоръки за файлове, получатели на споделяне</item>
+      <item>Проекти: групови файлове, чатове, задачи за лесно намиране</item>
+      <item>щракване с десен бутон върху Файлове, за нов преглед на документи и други</item>
+    </regular>
+    <admin>
+      <item>Откриване на подозрително влизане, поддържано от машинно обучение</item>
+      <item>Списъци за контрол на достъпа в Групови папки</item>
+      <item>Променливи за външно хранилище (LDAP предоставя „$home“)</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="ca">
     <regular>
       <item>16.0.0-regular1-add70d18</item>

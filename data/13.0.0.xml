@@ -12,6 +12,17 @@
       <item>Theming: CSS files were consolidated</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="bg">
+    <regular>
+      <item>Усъвършенстван потребителски интерфейс</item>
+      <item>Цялостно Криптиране</item>
+      <item>Видео и текстов чат</item>
+    </regular>
+    <admin>
+      <item>Промени в конфигурацията на Nginx</item>
+      <item>Theming/приложение/: CSS файловете бяха консолидирани</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="ca">
     <regular>
       <item>13.0.0-regular1-0b97ed05</item>

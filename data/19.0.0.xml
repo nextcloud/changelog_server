@@ -13,6 +13,18 @@
       <item>Assign groups to guest accounts you create (can be delegated to group admins)</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="bg">
+    <regular>
+      <item>Talk 9 интегрира преглед/редактиране на документи и мрежов изглед</item>
+      <item>Визуализация за krita / отворени файлове на документи по подразбиране</item>
+      <item>Много подобрения в производителността при Talk и обработка на файлове</item>
+    </regular>
+    <admin>
+      <item>Collabora Online може да се инсталира без докер или обратен прокси</item>
+      <item>Въведени са,  удостоверяване без парола и допълнителни настройки за парола</item>
+      <item>Зачисляване на групи към профили за гости, които създавате (могат да бъдат делегирани на администратори на групата)</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="ca">
     <regular>
       <item>19.0.0-regular1-1cbd7afb</item>

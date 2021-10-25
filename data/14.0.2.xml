@@ -13,6 +13,18 @@
       <item>Fixed unavailable files under some conditions</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="bg">
+    <regular>
+      <item>Ревизирана обработка на качване на файлове</item>
+      <item>Отново работят контактните менюта при споменавания</item>
+      <item>Подобрения в детайлите (напр. изглед на мобилен файл)</item>
+    </regular>
+    <admin>
+      <item>Бутон „Добавяне на група“ на страницата на потребителите е върнат</item>
+      <item>Типът удостоверяване „Няма“ е наличен отново в настройките на пощата</item>
+      <item>Коригирани са недостъпни при някои условия файлове</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="ca">
     <regular>
       <item>14.0.2-regular1-377b16cc</item>

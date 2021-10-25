@@ -13,6 +13,18 @@
       <item>Kerberos auth to Samba; multi-IdP SAML</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="bg">
+    <regular>
+      <item>Проверете получателя на споделяне във видеообаждане; 2FA със Сигнал и Телеграма</item>
+      <item>Добавяне на бележка към споделянията; разширено споделяне на изгледи; търсене по коментари</item>
+      <item>Подобрения в достъпността, включително тема с висок контраст</item>
+    </regular>
+    <admin>
+      <item>Изисква се PHP&gt; = 7.0, промяна на формат на журнал, етикет на syslog и конфигурация на nginx</item>
+      <item>Подобрено съответствие с GDPR чрез приложения; отделен журнал за одит</item>
+      <item>Kerberos удостоверяване  към Samba; с няколко - IdP SAML</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="ca">
     <regular>
       <item>14.0.0-regular1-e06eab9a</item>

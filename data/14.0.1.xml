@@ -13,6 +13,18 @@
       <item>Resolved false positive in server setup check</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="bg">
+    <regular>
+      <item>Няколко детайлни подобрения в потребителския интерфейс</item>
+      <item>напр. светли икони с тъмна тема</item>
+      <item>или избягване на припокриване на бутон за изпращане в коментарите</item>
+    </regular>
+    <admin>
+      <item>Третирани проблеми с необичайни потребителски идентификатори</item>
+      <item>Поправено излизане от мрежата при използване на OAuth</item>
+      <item>Отстранен фалшив положителен резултат при проверка на настройката на сървъра</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="ca">
     <regular>
       <item>14.0.1-regular1-512f1850</item>
