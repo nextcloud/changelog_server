@@ -214,7 +214,7 @@
     <admin>
       <item>Behandelde problemen met ongewone gebruikers ID's</item>
       <item>Vaste web uitloggen bij OAuth gebruik</item>
-      <item>Een false positive in de controle van de serverconfiguratie opgelost </item>
+      <item>Een vals positieve in de controle van de serverconfiguratie opgelost </item>
     </admin>
   </whatsNew>
   <whatsNew lang="pl">
