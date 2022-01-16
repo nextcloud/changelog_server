@@ -25,6 +25,18 @@
       <item>Обичайни подобрения в сигурността, достъпността и производителността</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="ca">
+    <regular>
+      <item>🏁 El tauler proporciona un gran punt de partida diari</item>
+      <item>🔍 La cerca unificada proporciona resultats des de les aplicacions i fonts externes</item>
+      <item>🗨 Talk introdueix un pont amb altres plataformes</item>
+    </regular>
+    <admin>
+      <item>Les apps d'integració permeten als usuaris accedir a twitter, Jira i altres des de Nextcloud</item>
+      <item>Flow afegeix notificacions i enllaços per augmentar automatismes</item>
+      <item>Seguretat, accessibilitat i millores de rendiment</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="cs">
     <regular>
       <item>🏁 Přehled poskytuje skvělý startovní bod pro den</item>
