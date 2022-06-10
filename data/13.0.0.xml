@@ -188,6 +188,17 @@
       <item>Theming：CSSファイルが統合されました</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="nb">
+    <regular>
+      <item>Refinert brukergrensesnitt</item>
+      <item>Ende-til-ende kryptering</item>
+      <item>Video og tekst chatting</item>
+    </regular>
+    <admin>
+      <item>Endringer på Nginx konfigurasjonen</item>
+      <item>Temavalg: CSS-filer ble konsolidert</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="nl">
     <regular>
       <item>Verfijnde gebruikersinterface</item>

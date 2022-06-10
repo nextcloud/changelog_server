@@ -193,6 +193,18 @@
       <item>Flowを使えばタスクを簡単に自動化し、ファイルを保護し、ドキュメントを処理できるようになります</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="nb">
+    <regular>
+      <item>Arbeidsflater lar deg legge til en beskrivelser over dine mapper</item>
+      <item>Låsing av filer som er delt med andre forhindrer konflikter når de redigeres</item>
+      <item>Flyt lar det automatisere repetetive og kjedelige oppgaver</item>
+    </regular>
+    <admin>
+      <item>ONLYOFFIce kan installeres uten docker eller reversert proxy</item>
+      <item>omskriving av Kalender, Mail og Snakk fører med seg mange nye forbedringer</item>
+      <item>Flyt lar deg enkelt automatisere oppgaver, beskytte filer og behandle dokumenter</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="nl">
     <regular>
       <item>Met Workspaces kunt u een beschrijving boven je mappen toevoegen</item>

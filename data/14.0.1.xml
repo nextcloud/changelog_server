@@ -205,6 +205,18 @@
       <item>サーバー設定チェックで誤検出を解決しました。</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="nb">
+    <regular>
+      <item>Flere forbedringer i detaljer i brukergrensesnitt</item>
+      <item>f.eks. lyse ikoner med det mørke temaet</item>
+      <item>eller unngå at send-knappen overlapper i kommentarer</item>
+    </regular>
+    <admin>
+      <item>Rettet problemer med uvanlige bruker IDer</item>
+      <item>Fikset utlogging av web ved bruk av OAuth</item>
+      <item>Løste falske positiver i serverens sjekk av oppsett</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="nl">
     <regular>
       <item>Diverse detailverbeteringen in de gebruikersinterface</item>

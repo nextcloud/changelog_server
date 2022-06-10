@@ -205,6 +205,18 @@
       <item>S3バージョニング、IBM Spectrum Scale他</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="nb">
+    <regular>
+      <item>Fjernsletting</item>
+      <item>Vår nye distraksjonsfrie rik tekst-skriveprogram med samarbeidsfunksjon</item>
+      <item>sikker visning med håndhevelse av vannmerking av dokumenter</item>
+    </regular>
+    <admin>
+      <item>Oppsett, tofaktor-autentisering etter første pålogging</item>
+      <item>LDAP skrive-støtte</item>
+      <item>S3 versjonering, IBM Spectrum Scale og mer</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="nl">
     <regular>
       <item>Op afstand wissen</item>

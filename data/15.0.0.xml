@@ -205,6 +205,18 @@
       <item>ダッシュボード、フルテキスト検索、グループフォルダーを更新</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="nb">
+    <regular>
+      <item>Nextcloud Social og flere lenkedelinger</item>
+      <item>Ny design, rutenettvisning og to ganger raskere lasting av Filer</item>
+      <item>sidestolpe med Collabora Online og Talk i sidestolpe</item>
+    </regular>
+    <admin>
+      <item>håndheving av tofaktor-autentisering og sikkerhetsherding</item>
+      <item>automatisk PDF-konvertering og kodekjøring</item>
+      <item>Oppdaterte Dashbord, Fulltekstsøk og Gruppemapper</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="nl">
     <regular>
       <item>Nextcloud Social &amp; meervoudige deellinks</item>

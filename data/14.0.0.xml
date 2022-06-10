@@ -205,6 +205,18 @@
       <item>SambaへのKerberos認証。 マルチIdP SAML</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="nb">
+    <regular>
+      <item>Verifiser en delings-mottaker i en video-samtale; To-faktor autentisering ved hjelp av Signal og Telegram</item>
+      <item>Legg en merknad på delinger; utvidet delings-visning; søk på kommentarer</item>
+      <item>Økt tilgjengelighet inkludert høykontrast-tema</item>
+    </regular>
+    <admin>
+      <item>Krever PHP &gt;= 7.0, log format, syslog merking og endring i nginx-innstillingene.</item>
+      <item>Forbedret samsvar med GDPR gjennom applikasjoner; separat revideringslogg</item>
+      <item>Kerberos autentisering mot Samba; multi IdP SAML</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="nl">
     <regular>
       <item>Verifier een share ontvanger in een videogesprek; 2FA met Signal &amp; Telegram</item>

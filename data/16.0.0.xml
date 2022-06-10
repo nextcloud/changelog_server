@@ -205,6 +205,18 @@
       <item>外部ストレージ用の変数(LDAPからの'$home'が利用されます)</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="nb">
+    <regular>
+      <item>Smarte anbefalinger for filer og delingsmottakere</item>
+      <item>Prosjekter: letter å finne gruppefiler, chatter og oppgaver</item>
+      <item>høyreklikk i Filer, ny dokumentvisning og mer</item>
+    </regular>
+    <admin>
+      <item>Oppdagelse av mistenkelig pålogging ved hjelp av maskinlæring</item>
+      <item>Tilgang til Kontrollister i Gruppemapper</item>
+      <item>Variabler for ekstern lagring (LDAP gir '$home')</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="nl">
     <regular>
       <item>Slimme aanbevelingen voor bestanden, shares, ontvangers</item>

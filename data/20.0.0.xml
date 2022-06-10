@@ -181,6 +181,18 @@
       <item>いつものセキュリティ、アクセシビリティ、パフォーマンスの向上</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="nb">
+    <regular>
+      <item>🏁 Dashbord tilbyr et bra startpunkt</item>
+      <item>🔍 Forent søk gir resultater fra apper og eksterne kilder</item>
+      <item>🗨 Samtale introduserte overganger til andre plattformer</item>
+    </regular>
+    <admin>
+      <item>Integrasjonsapper gir brukere tilgang til twitter, Jira og andre fra Nextcloud</item>
+      <item>Flyt legger til varsler og webhooker for mer automatisering</item>
+      <item>Vanlige forbedringer i sikkerhet, tilgjengelighet og ytelse</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="nl">
     <regular>
       <item>🏁 Dashboard geeft een mooi startpunt voor je dag</item>

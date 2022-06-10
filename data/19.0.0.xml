@@ -181,6 +181,18 @@
       <item>作成したゲストアカウントにグループを割り当てます（グループ管理者に委任できます）</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="nb">
+    <regular>
+      <item>Samtale 9 integrerer visning/redigering av dokumenter og rutenettvisning</item>
+      <item>Forhåndsvisning for krita / åpne dokumentfiler som standard</item>
+      <item>Mange forbedringer på ytelse i Samtale og filhåndtering</item>
+    </regular>
+    <admin>
+      <item>Collabora Online kan installeres uten docker eller reversert proxy</item>
+      <item>Autentisering uten passord og ytterligere innstillinger for passord har blitt introdusert</item>
+      <item>Tildel grupper ti lgjestekontoer som du oppretter (kan delegeres til gruppeadministratorer)</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="nl">
     <regular>
       <item>Talk 9 integreert document bekijken/bewerken en een roosteroverzicht</item>

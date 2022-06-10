@@ -205,6 +205,18 @@
       <item>一部の条件下で使用できないファイルが修正されました</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="nb">
+    <regular>
+      <item>Revidert håndtering av opplasting av filer</item>
+      <item>Kontakt-menyer på benevnelser fungerer igjen</item>
+      <item>Forbedringer på detaljer (f.eks. filvisning på mobil)</item>
+    </regular>
+    <admin>
+      <item>"Legg til gruppe"-knappen på brukere-siden er tilbake</item>
+      <item>Auth type "Ingen" er tilgjengelig igjen i epost-innstillinger</item>
+      <item>Løste filer som ble utilgjengelig under visse vilkår</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="nl">
     <regular>
       <item>Herziene afhandeling van bestandsupload</item>
