@@ -28,7 +28,7 @@ Feature: testing the response of the Changelog Server
       <whatsNew lang="en">
         <regular>
           <item>Refined user interface</item>
-          <item>End-to-end Encryption</item>
+          <item>End-to-End Encryption</item>
           <item>Video and Text Chat</item>
         </regular>
         <admin>
@@ -92,7 +92,7 @@ Feature: testing the response of the Changelog Server
       <whatsNew lang="en">
         <regular>
           <item>Refined user interface</item>
-          <item>End-to-end Encryption</item>
+          <item>End-to-End Encryption</item>
           <item>Video and Text Chat</item>
         </regular>
         <admin>
