@@ -26,7 +26,7 @@
   <whatsNew lang="ca">
     <regular>
       <item>13.0.0-regular1-0b97ed05</item>
-      <item>13.0.0-regular2-605deaca</item>
+      <item>Xifratge d'extrem a extrem</item>
       <item>13.0.0-regular3-01dc5160</item>
     </regular>
     <admin>
@@ -70,7 +70,7 @@
   <whatsNew lang="el">
     <regular>
       <item>Εξατομικευμένη διεπαφή χρήστη</item>
-      <item>Κρυπτογράφηση από άκρο σε άκρο</item>
+      <item>Κρυπτογράφηση από Άκρο σε Άκρο</item>
       <item>Βίντεο και Γραπτά μηνύματα</item>
     </regular>
     <admin>
@@ -92,7 +92,7 @@
   <whatsNew lang="es">
     <regular>
       <item>Interfaz de usuario refinada</item>
-      <item>Cifrado de extremo a extremo</item>
+      <item>Cifrado Punto a Punto</item>
       <item>Chat de texto y vídeo</item>
     </regular>
     <admin>
@@ -114,7 +114,7 @@
   <whatsNew lang="fa">
     <regular>
       <item>رابط کاربری تصفیه شده</item>
-      <item>رمز نگاری انتها به انتها</item>
+      <item>End-to-End Encryption</item>
       <item>چت تصویری و متنی</item>
     </regular>
     <admin>
@@ -158,7 +158,7 @@
   <whatsNew lang="hu">
     <regular>
       <item>Finomított felhasználói felület</item>
-      <item>Végpontok közötti titkosítás</item>
+      <item>End-to-End Encryption</item>
       <item>Video- és szöveges csevegés</item>
     </regular>
     <admin>
@@ -169,7 +169,7 @@
   <whatsNew lang="it">
     <regular>
       <item>Interfaccia utente rifinita</item>
-      <item>Cifratura end-to-end</item>
+      <item>Cifratura End-To-End</item>
       <item>Chat video e testuale</item>
     </regular>
     <admin>
@@ -191,7 +191,7 @@
   <whatsNew lang="nb">
     <regular>
       <item>Refinert brukergrensesnitt</item>
-      <item>Ende-til-ende kryptering</item>
+      <item>Ende-til-ende -kryptering</item>
       <item>Video og tekst chatting</item>
     </regular>
     <admin>
@@ -235,7 +235,7 @@
   <whatsNew lang="ru">
     <regular>
       <item>Улучшенный пользовательский интерфейс;</item>
-      <item>Оконечное шифрование;</item>
+      <item>Сквозное шифрование</item>
       <item>Чат и видеовызовы;</item>
     </regular>
     <admin>
@@ -246,7 +246,7 @@
   <whatsNew lang="sc">
     <regular>
       <item>Interfache utente afinada</item>
-      <item>Tzifradura end-to-end</item>
+      <item>Critografia a nodu terminale</item>
       <item>Tzarrada vìdeu e testuale</item>
     </regular>
     <admin>
@@ -290,7 +290,7 @@
   <whatsNew lang="tr">
     <regular>
       <item>Kullanıcı ara yüzü düzenlendi</item>
-      <item>Uçtan uca şifreleme eklendi</item>
+      <item>End-to-End Encryption</item>
       <item>Görüntülü ve yazılı görüşme</item>
     </regular>
     <admin>
@@ -301,7 +301,7 @@
   <whatsNew lang="zh_CN">
     <regular>
       <item>改进用户界面</item>
-      <item>端到端加密</item>
+      <item>点对点加密</item>
       <item>视频和文本聊天</item>
     </regular>
     <admin>
@@ -312,7 +312,7 @@
   <whatsNew lang="zh_HK">
     <regular>
       <item>重新定義用戶界面 </item>
-      <item>端對端加密</item>
+      <item>端到端加密</item>
       <item>視像及文字聊天</item>
     </regular>
     <admin>
@@ -323,7 +323,7 @@
   <whatsNew lang="zh_TW">
     <regular>
       <item>重新定義使用者介面</item>
-      <item>端點對端點加密</item>
+      <item>終端對終端的加密</item>
       <item>影音及文字聊天</item>
     </regular>
     <admin>
