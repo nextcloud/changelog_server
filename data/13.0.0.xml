@@ -158,7 +158,7 @@
   <whatsNew lang="hu">
     <regular>
       <item>Finomított felhasználói felület</item>
-      <item>End-to-End Encryption</item>
+      <item>Végpontok közötti titkosítás</item>
       <item>Video- és szöveges csevegés</item>
     </regular>
     <admin>
@@ -290,7 +290,7 @@
   <whatsNew lang="tr">
     <regular>
       <item>Kullanıcı ara yüzü düzenlendi</item>
-      <item>End-to-End Encryption</item>
+      <item>Uçtan uca şifreleme</item>
       <item>Görüntülü ve yazılı görüşme</item>
     </regular>
     <admin>
