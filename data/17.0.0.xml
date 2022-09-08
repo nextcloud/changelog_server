@@ -325,6 +325,18 @@
       <item>S3 sürümlendirme, IBM Spectrum Scale ve diğerleri</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="uk">
+    <regular>
+      <item>Дистанційне стирання</item>
+      <item>Наш новий текстовий редактор для спільної роботи, який не відволікається</item>
+      <item>захищений перегляд отримує чинні водяні знаки документів</item>
+    </regular>
+    <admin>
+      <item>Налаштуйте двофакторну автентифікацію після першого входу</item>
+      <item>Підтримка запису LDAP</item>
+      <item>Версії S3, IBM Spectrum Scale тощо</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="zh_CN">
     <regular>
       <item>远程擦除</item>

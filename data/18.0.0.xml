@@ -313,6 +313,18 @@
       <item>Akış, görevleri otomatikleştirmeyi, dosyaları korumayı ve belgeleri işlemeyi kolaylaştırır</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="uk">
+    <regular>
+      <item>Workspaces дозволяє додавати опис над папками</item>
+      <item>Блокування файлів запобігає конфліктам редагування спільних файлів з іншими</item>
+      <item>Flow дозволяє автоматизувати повторювані, нудні завдання</item>
+    </regular>
+    <admin>
+      <item>ONLYOFFICE можна встановити без докера або зворотного проксі</item>
+      <item>Календар, Mail і Talk перезаписують багато нових покращень</item>
+      <item>Flow дозволяє легко автоматизувати завдання, захищати файли та обробляти документи</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="zh_CN">
     <regular>
       <item>工作区可让您在文件夹上方添加描述</item>

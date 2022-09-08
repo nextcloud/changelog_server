@@ -289,6 +289,18 @@
       <item>Oluşturduğunuz konuk hesaplarına grup atama (grup yöneticileri tarafından yapılabilir)</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="uk">
+    <regular>
+      <item>Talk 9 об’єднує перегляд/редагування документів і таблицю</item>
+      <item>Попередній перегляд файлів krita/відкритих документів за замовчуванням</item>
+      <item>Багато покращень продуктивності в Talk і обробки файлів</item>
+    </regular>
+    <admin>
+      <item>Collabora Online можна встановити без докера чи зворотного проксі</item>
+      <item>Введено автентифікацію без пароля та додаткові налаштування пароля</item>
+      <item>Призначайте групи гостьовим обліковим записам, які ви створюєте (це можна делегувати адміністраторам груп)</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="zh_CN">
     <regular>
       <item>Talk 9 集成了文档查看/编辑和网格视图</item>

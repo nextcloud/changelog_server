@@ -325,6 +325,18 @@
       <item>Bazı koşullarda dosyalara erişilememesi sorunu çözüldü</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="uk">
+    <regular>
+      <item>Переглянуте керування завантаженням файлів</item>
+      <item>Контактні меню на згадках знову працюють</item>
+      <item>Покращення деталей (наприклад, перегляд мобільних файлів)</item>
+    </regular>
+    <admin>
+      <item>Кнопка «Додати групу» на сторінці користувачів повернулася</item>
+      <item>Тип авторизації "Немає" знову доступний у налаштуваннях пошти</item>
+      <item>Виправлено недоступні файли за деяких умов</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="zh_CN">
     <regular>
       <item>修正过的文件上传处理</item>

@@ -325,6 +325,18 @@
       <item>Sunucu kurulumu denetimleri sırasında yanlış bulunan hata çözümlendi</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="uk">
+    <regular>
+      <item>Декілька детальних покращень в інтерфейсі користувача</item>
+      <item>напр. світлі значки з темною темою</item>
+      <item>або уникайте перекриття кнопки надсилання в коментарях</item>
+    </regular>
+    <admin>
+      <item>Вирішено проблеми з незвичайними ідентифікаторами користувачів</item>
+      <item>Виправлено веб-вихід із використання OAuth</item>
+      <item>Вирішено помилковий результат під час перевірки налаштувань сервера</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="zh_CN">
     <regular>
       <item>用户界面的数个细节改进</item>

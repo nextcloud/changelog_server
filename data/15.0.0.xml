@@ -325,6 +325,18 @@
       <item>Güncellenmiş Pano, Tam Metin Araması ve Grup Klasörleri</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="uk">
+    <regular>
+      <item>Соціальна мережа Nextcloud і кілька посилань</item>
+      <item>Новий дизайн, сітка та вдвічі швидше завантаження файлів</item>
+      <item>бічній панелі з Collabora Online &amp; Talk на бічній панелі</item>
+    </regular>
+    <admin>
+      <item>дотримання 2FA та посилення безпеки</item>
+      <item>автоматичне перетворення PDF і виконання сценарію</item>
+      <item>Оновлена ​​інформаційна панель, повнотекстовий пошук і групові папки</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="zh_CN">
     <regular>
       <item>Nextcloud 社交及多链接共享</item>
