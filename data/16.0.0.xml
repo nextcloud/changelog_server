@@ -39,13 +39,13 @@
   </whatsNew>
   <whatsNew lang="cs">
     <regular>
-      <item>Chytré doporučování souborů a příjemců sdílení</item>
+      <item>Inteligentní doporučování souborů a příjemců sdílení</item>
       <item>Projekty: skupinové soubory, chaty, úkoly pro snazší nalezení</item>
       <item>klikání pravým tlačítkem v Souborech, nový prohlížeč dokumentů a další</item>
     </regular>
     <admin>
       <item>Na strojovém učení založené zjišťování podezřelých přihlášení</item>
-      <item>Seznamy řízení přístupu ve skupinových složkách</item>
+      <item>Seznamy řízení přístupu (acl) ve skupinových složkách</item>
       <item>Proměnné pro externí úložiště (LDAP poskytuje „$home“)</item>
     </admin>
   </whatsNew>

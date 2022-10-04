@@ -41,7 +41,7 @@
     <regular>
       <item>Několik drobných vylepšení v uživatelském rozhraní</item>
       <item>např. světlé ikony v tmavém motivu vzhledu</item>
-      <item>nebo vyhnout se překrývání tlačítka odeslat v komentářích</item>
+      <item>nebo zabráněno překrývání se tlačítka odeslat v komentářích</item>
     </regular>
     <admin>
       <item>Ošetřeny problémy s neobvyklými identifikátory uživatelů</item>

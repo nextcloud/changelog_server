@@ -39,14 +39,14 @@
   </whatsNew>
   <whatsNew lang="cs">
     <regular>
-      <item>Ověřit příjemce sdílení ve videohovoru; 2FA pomocí Signal &amp; Telegram</item>
-      <item>Přidat ke sdílením poznámku; rozšiřuje zobrazení sdílení; hledání podle komentářů</item>
+      <item>Ověřování příjemce sdílení pomocí videohovoru; 2FA prostřednictvím služeb Signal a Telegram</item>
+      <item>Ke sdílením je možné přidávat poznámku; rozšířená zobrazení sdílení; hledání podle komentářů</item>
       <item>Zlepšení přístupnosti pro hendikepované, včetně vzhledu s vysokým kontrastem</item>
     </regular>
     <admin>
       <item>Vyžaduje PHP verze 7.0 a novější – formát záznamu událostí, štítek v syslog a nastavení pro nginx se změnila</item>
       <item>Zlepšený soulad s nařízením GDPR prostřednictvím aplikací; oddělený auditní záznam</item>
-      <item>Kerberos ověřování k Samba; multi-IdP SAML</item>
+      <item>Kerberos ověřování do Samba; multi-IdP SAML</item>
     </admin>
   </whatsNew>
   <whatsNew lang="de">

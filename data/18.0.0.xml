@@ -39,14 +39,14 @@
   </whatsNew>
   <whatsNew lang="cs">
     <regular>
-      <item>Pracovní plochy vám umožňují přidávat popis nad vašimi složkami</item>
+      <item>Pracovní prostory vám umožňují přidávat popis nad vašimi složkami</item>
       <item>Zamykání souborů brání konfliktům při úpravách souborů, sdílených s ostatními uživateli</item>
       <item>Flow umožňuje automatizovat opakující se, nudné úkoly</item>
     </regular>
     <admin>
       <item>ONLYOFFICE je možné nainstalovat bez použití docker kontejneru či reverzní proxy</item>
       <item>Předělání aplikací Kalendář, E-mail a Talk přináší mnoho nových vylepšení</item>
-      <item>Flow vám umožňuje jednoduše automatizovat úkoly, chránit soubor a zpracovávat dokumenty</item>
+      <item>Flow vám umožňuje jednoduše automatizovat úkoly, chránit soubory a zpracovávat dokumenty</item>
     </admin>
   </whatsNew>
   <whatsNew lang="de">

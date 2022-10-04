@@ -41,12 +41,12 @@
     <regular>
       <item>Vymazání na dálku</item>
       <item>Náš nový, soustředění nerozptylující editor formátovaného textu, umožňující souběžné úpravy vícero uživateli naráz</item>
-      <item>zabezpečené zobrazení získá vynutitelné vodoznaky dokumentů</item>
+      <item>zabezpečené zobrazení získává vynutitelné vodoznaky dokumentů</item>
     </regular>
     <admin>
-      <item>Po prvním přihlášení nastavit dvoufázové ověřování se</item>
+      <item>Nastavení dvoufázové ověřování se po prvním přihlášení</item>
       <item>Podpora pro zápis do LDAP</item>
-      <item>S3 správa verzí, IBM Spectrum Scale a další</item>
+      <item>Správa verzí v rámci S3 úložišť, podpora pro IBM Spectrum Scale a další</item>
     </admin>
   </whatsNew>
   <whatsNew lang="de">
