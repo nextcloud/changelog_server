@@ -333,7 +333,7 @@
     </regular>
     <admin>
       <item>Вимагається PHP &gt;= 7.0, формат журналу, мітку syslog і конфігурація nginx змінено.</item>
-      <item>Покращена сумісність GDPR через додатки; окремий журнал аудиту</item>
+      <item>Покращена підтримка GDPR через застосунки; окремий журнал аудиту</item>
       <item>Авторизація Kerberos у Samba; multi-IdP SAML</item>
     </admin>
   </whatsNew>
