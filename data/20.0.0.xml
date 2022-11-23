@@ -85,6 +85,18 @@
       <item>Συνήθης βελτίωση ασφάλειας, προσβασιμότητας και απόδοσης</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="en_GB">
+    <regular>
+      <item>🏁 Dashboard provides a great starting point for the day</item>
+      <item>🔍 Unified search brings results from apps and external sources</item>
+      <item>🗨 Talk introduced bridging to other platforms</item>
+    </regular>
+    <admin>
+      <item>Integration apps allow users to access twitter, Jira and others from Nextcloud</item>
+      <item>Flow adds notifications and web hooks for more automation</item>
+      <item>Usual security, accessibility and performance improvements</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="es">
     <regular>
       <item>🏁 Dashboard proporciona una excelente punto de partida para el día</item>

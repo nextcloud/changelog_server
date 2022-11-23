@@ -85,6 +85,18 @@
       <item>16.0.0-admin3-71fec2f7</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="en_GB">
+    <regular>
+      <item>Smart recommendations for files, share recipients</item>
+      <item>Projects: group files, chats, tasks for easy finding</item>
+      <item>right-click in Files, new document viewer &amp; more</item>
+    </regular>
+    <admin>
+      <item>Machine-learning powered suspicious login detection</item>
+      <item>Access Control Lists in Groupfolders</item>
+      <item>Variables for external storage (LDAP provides '$home')</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="eo">
     <regular>
       <item>Smart recommendations for files, share recipients</item>
