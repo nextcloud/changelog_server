@@ -25,13 +25,13 @@
   </whatsNew>
   <whatsNew lang="ca">
     <regular>
-      <item>13.0.0-regular1-0b97ed05</item>
-      <item>Xifratge d'extrem a extrem</item>
-      <item>13.0.0-regular3-01dc5160</item>
+      <item>Refined user interface</item>
+      <item>End-to-End Encryption</item>
+      <item>Video and Text Chat</item>
     </regular>
     <admin>
-      <item>13.0.0-admin1-3b592a47</item>
-      <item>13.0.0-admin2-ed8aa6a3</item>
+      <item>Changes to the Nginx configuration</item>
+      <item>Theming: CSS files were consolidated</item>
     </admin>
   </whatsNew>
   <whatsNew lang="cs">

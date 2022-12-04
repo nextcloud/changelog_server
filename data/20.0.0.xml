@@ -27,14 +27,14 @@
   </whatsNew>
   <whatsNew lang="ca">
     <regular>
-      <item>🏁 El tauler proporciona un gran punt de partida diari</item>
-      <item>🔍 La cerca unificada proporciona resultats des de les aplicacions i fonts externes</item>
-      <item>🗨 Talk introdueix un pont amb altres plataformes</item>
+      <item>🏁 Dashboard provides a great starting point for the day</item>
+      <item>🔍 Unified search brings results from apps and external sources</item>
+      <item>🗨 Talk introduced bridging to other platforms</item>
     </regular>
     <admin>
-      <item>Les apps d'integració permeten als usuaris accedir a twitter, Jira i altres des de Nextcloud</item>
-      <item>Flow afegeix notificacions i enllaços per augmentar automatismes</item>
-      <item>Seguretat, accessibilitat i millores de rendiment</item>
+      <item>Integration apps allow users to access twitter, Jira and others from Nextcloud</item>
+      <item>Flow adds notifications and web hooks for more automation</item>
+      <item>Usual security, accessibility and performance improvements</item>
     </admin>
   </whatsNew>
   <whatsNew lang="cs">

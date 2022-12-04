@@ -27,14 +27,14 @@
   </whatsNew>
   <whatsNew lang="ca">
     <regular>
-      <item>16.0.0-regular1-add70d18</item>
-      <item>16.0.0-regular2-2161378c</item>
-      <item>16.0.0-regular3-646fa355</item>
+      <item>Smart recommendations for files, share recipients</item>
+      <item>Projects: group files, chats, tasks for easy finding</item>
+      <item>right-click in Files, new document viewer &amp; more</item>
     </regular>
     <admin>
-      <item>16.0.0-admin1-694e294c</item>
-      <item>16.0.0-admin2-978954da</item>
-      <item>16.0.0-admin3-71fec2f7</item>
+      <item>Machine-learning powered suspicious login detection</item>
+      <item>Access Control Lists in Groupfolders</item>
+      <item>Variables for external storage (LDAP provides '$home')</item>
     </admin>
   </whatsNew>
   <whatsNew lang="cs">

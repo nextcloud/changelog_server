@@ -27,14 +27,14 @@
   </whatsNew>
   <whatsNew lang="ca">
     <regular>
-      <item>15.0.0-regular1-4298c406</item>
-      <item>15.0.0-regular2-f5b6406a</item>
-      <item>15.0.0-regular3-c0bce1aa</item>
+      <item>Nextcloud Social &amp; multiple link shares</item>
+      <item>New design, grid view &amp; 2x faster loading of Files</item>
+      <item>sidebar with Collabora Online &amp; Talk in sidebar</item>
     </regular>
     <admin>
-      <item>15.0.0-admin1-95e4d92c</item>
-      <item>15.0.0-admin2-ceff66bd</item>
-      <item>15.0.0-admin3-46d294d0</item>
+      <item>enforcement of 2FA &amp; security hardenings</item>
+      <item>automatic PDF conversion &amp; script execution</item>
+      <item>Updated Dashboard, Full Text Search &amp; Group folders</item>
     </admin>
   </whatsNew>
   <whatsNew lang="cs">
