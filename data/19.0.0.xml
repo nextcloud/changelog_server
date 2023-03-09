@@ -289,6 +289,18 @@
       <item>Dodeljevanje skupin za račune gostov (lahko je dodeljeno k skupini skrbnikov)</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="sr">
+    <regular>
+      <item>Talk 9 интегрише прегледање/уређивање документа и поглед мреже</item>
+      <item>Подразумевани прегледи иза krita / отворене фајлове докумената</item>
+      <item>Многа побољшања обради Talk и обради фајлова</item>
+    </regular>
+    <admin>
+      <item>Collabora Online може да се инсталира без докера или обрнутог проксија</item>
+      <item>Уведена је аутентификација без лозинке и додатна подешавања лозинке</item>
+      <item>Доделите групе гост налозима које креирате (може да се делегира групи админа)</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="tr">
     <regular>
       <item>Talk 9 için belge görüntüleme ve düzenleme ile tablo görünümü özellikleri eklendi</item>
