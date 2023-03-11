@@ -147,7 +147,7 @@
   </whatsNew>
   <whatsNew lang="fr">
     <regular>
-      <item>Vérification du destinataire dans un appel vidéo ; Authentification à double facteur (2FA) pour Signal &amp; Telegram</item>
+      <item>Vérification du destinataire d'un partage dans un appel vidéo ; A2F avec Signal &amp; Telegram</item>
       <item>Ajouter une note aux partages ; vues étendues des partages ; recherche par commentaires</item>
       <item>Amélioration de l'accessibilité en incluant un thème très contrasté</item>
     </regular>
