@@ -325,6 +325,18 @@
       <item>Ажуриран Dashboard, претрага целог текста и групне фасцикле</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="sv">
+    <regular>
+      <item>Nextcloud Social &amp; flera länkdelningar</item>
+      <item>New design, grid view &amp; 2x faster loading of Files</item>
+      <item>sidebar with Collabora Online &amp; Talk in sidebar</item>
+    </regular>
+    <admin>
+      <item>framtvingande av 2FA &amp; säkerhetshöjningar</item>
+      <item>automatisk PDF konvertering &amp; skript körning</item>
+      <item>Uppdaterad Dashboard, fulltextsökning och gruppmappar</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="tr">
     <regular>
       <item>Nextcloud Sosyal ağ ve birden ok bağlantı paylaşımı</item>

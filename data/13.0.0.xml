@@ -298,6 +298,17 @@
       <item>Теме: CSS фајлови су се спојили</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="sv">
+    <regular>
+      <item>Raffinerat användargränssnitt</item>
+      <item>Ändpunkt-till-ändpunkt-kryptering</item>
+      <item>Video- och textchatt</item>
+    </regular>
+    <admin>
+      <item>Ändringar i Nginx-konfigurationen</item>
+      <item>Tema: CSS-filer konsoliderades</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="tr">
     <regular>
       <item>Kullanıcı ara yüzü düzenlendi</item>

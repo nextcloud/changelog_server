@@ -325,6 +325,18 @@
       <item>Исправљена лажна грешка приликом провере поставке сервера</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="sv">
+    <regular>
+      <item>Flera detaljförbättringar i användargränssnittet</item>
+      <item>t.ex. ljusikoner med det mörka temat</item>
+      <item>eller undvik att överlappa knappen skicka i kommentarer</item>
+    </regular>
+    <admin>
+      <item>Behandlade problem med ovanliga användar-ID</item>
+      <item>Rättad webbutloggning vid OAuth användning</item>
+      <item>Löst falskt positiv i serverinställningskontrollen</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="tr">
     <regular>
       <item>Kullanıcı arayüzünde bazı ayrıntılar iyileştirildi</item>

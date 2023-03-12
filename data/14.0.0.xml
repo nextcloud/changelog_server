@@ -325,6 +325,18 @@
       <item>Керберос провера идентитета на Самбу; multi-IdP SAML</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="sv">
+    <regular>
+      <item>Verifiera en delmottagare i ett videosamtal; 2FA med Signal &amp; Telegram</item>
+      <item>Lägg till en anteckning i delningar; utökade delningsvisningar; sök efter kommentarer</item>
+      <item>Förbättringar tillgänglighet inklusive tema med hög kontrast</item>
+    </regular>
+    <admin>
+      <item>Kräver PHP &gt;= 7.0, loggformat, syslog-tagg &amp; nginx-konfiguration förändrades</item>
+      <item>Förbättrad GDPR-överensstämmelse via appar; separat granskningslogg</item>
+      <item>Kerberos-auth till Samba, multi-IdP SAML</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="tr">
     <regular>
       <item>Görüntülü çağrı sırasında bir paylaşım alıcısının kimliğini doğrulama; Signal ve Telegram için iki aşamalı kimlik doğrulaması</item>
