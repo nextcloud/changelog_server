@@ -309,7 +309,7 @@
     </regular>
     <admin>
       <item>Bütünleştirme uygulamaları kullanıcıların Nextcloud üzerinden twitter ve Jira gibi hizmetlere erişebilmesini sağlar</item>
-      <item>Flow, daha fazla otomasyon sağlamak için bildirimler ve web bağlantıları ekler</item>
+      <item>Flow, daha fazla otomasyon sağlamak için bildirimler ve site bağlantıları ekler</item>
       <item>Genel güvenlik, erişilebilirlik ve başarım iyileştirmeleri</item>
     </admin>
   </whatsNew>

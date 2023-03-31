@@ -345,7 +345,7 @@
     </regular>
     <admin>
       <item>Kullanıcı kodları ile ilgili rastlanan sorunlar çözüldü</item>
-      <item>OAuth kullanılırken web oturumu kapatma sorunu çözüldü</item>
+      <item>OAuth kullanılırken site oturumu kapatma sorunu çözüldü</item>
       <item>Sunucu kurulumu denetimleri sırasında yanlış bulunan hata çözümlendi</item>
     </admin>
   </whatsNew>
