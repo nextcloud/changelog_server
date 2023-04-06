@@ -332,7 +332,7 @@
       <item>güvenli görünüme dayatılabilir belge filigranları eklendi</item>
     </regular>
     <admin>
-      <item>Oturum ilk kez açıldığında iki aşamalı kimlik doğrulaması kurulsun</item>
+      <item>Oturum ilk kez açıldığında iki adımlı doğrulama kurulsun</item>
       <item>LDAP yazma desteği</item>
       <item>S3 sürümlendirme, IBM Spectrum Scale ve diğerleri</item>
     </admin>
