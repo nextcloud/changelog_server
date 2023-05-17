@@ -116,7 +116,7 @@
       <item>La vista segura añade marcas de agua impuestas, en la vista de documentos</item>
     </regular>
     <admin>
-      <item>Configurar autenticación de dos factores tras el primer login</item>
+      <item>Configurar autenticación de dos factores tras el primer inicio de sesión</item>
       <item>Soporte escritura LDAP</item>
       <item>Veriones de S3, IBM Spectrum y otros</item>
     </admin>
