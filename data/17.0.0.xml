@@ -13,6 +13,18 @@
       <item>S3 versioning, IBM Spectrum Scale &amp; more</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="ar">
+    <regular>
+      <item>محو عن بُعدٍ</item>
+      <item>مُحرّرنا الجديد للنصوص التعاوني المُعين على التركيز</item>
+      <item>العرض المؤمّن يتعزز بإضافة العلامات المائية للمستندات</item>
+    </regular>
+    <admin>
+      <item>إعداد التوكيد المُثنّى 2FA بعد الدخول الأول</item>
+      <item>دعم الكتابة في LDAP</item>
+      <item>إدارة النسخ في S3، و في IBM Spectrum Scale، و أخرى</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="bg">
     <regular>
       <item>Дистанционно изтриване</item>

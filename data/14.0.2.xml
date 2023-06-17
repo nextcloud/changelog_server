@@ -13,6 +13,18 @@
       <item>Fixed unavailable files under some conditions</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="ar">
+    <regular>
+      <item>مناولة تحميل الملفات تمّت مراجعتها</item>
+      <item>قوائم جهات الاتصال عند الإشارة لشخص أو مجموعة تعمل مُجدّداّ</item>
+      <item>تفصيل التحسينات ( مثال: عرض ملف على الموبايل)</item>
+    </regular>
+    <admin>
+      <item>عودة زر "إضافة مجموعة" في صفحة المستخدمين</item>
+      <item>نوع التحقّق من الهوية "لا يوجد" تكرر في خيارات البريد الالكتروني  </item>
+      <item>ملفات ثابتة غير مٌتاحة في حالاتٍ معيّنةٍ</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="bg">
     <regular>
       <item>Ревизирана обработка на качване на файлове</item>

@@ -13,6 +13,18 @@
       <item>Variables for external storage (LDAP provides '$home')</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="ar">
+    <regular>
+      <item>التوصيات الذكية للملفات، و مُتلقّي المشاركات</item>
+      <item>المشاريع: ملفات المجموعة، و المحادثة، و المهام لسهولة البحث</item>
+      <item>الزر الأيمن في الملفّات، و عارض المستندات الجديد، و أخرى</item>
+    </regular>
+    <admin>
+      <item>كشف مُحاولات الدخول المشبوهة باستخدام تقنيات تعلّم الآلة</item>
+      <item>قوائم التحكم بالوصول في المُجلّدات الجماعية</item>
+      <item>متغيرات التخزين الخارجي ( LDAP يُعطي '$home')</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="bg">
     <regular>
       <item>Интелигентни препоръки за файлове, получатели на споделяне</item>

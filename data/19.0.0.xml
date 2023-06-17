@@ -13,6 +13,18 @@
       <item>Assign groups to guest accounts you create (can be delegated to group admins)</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="ar">
+    <regular>
+      <item>تطبيق المحادثة Talk في الإصدار رقم 9 يتضمن عرض و تحرير المستندات، و المنظور الشبكي</item>
+      <item>مُعاينات تطبيق الأعمال الفنية "كريتا" krita / فتح ملفات المستندات تلقائيّاً</item>
+      <item>تحسينات عديدة في الأداء في تطبيق Talk و مناولة الملفات</item>
+    </regular>
+    <admin>
+      <item>يمكن تنصيب Collabora Online بدون docker أو reverse proxy</item>
+      <item>تحقّق من الهويّة بدون كلمة سر، و إعدادات إضافية لكلمة السر تمّت إضافتها</item>
+      <item>إضافة حسابات الضيوف إلى مجموعاتٍ أنت تٌنشؤها (و يمكن تفويض إدارتها إلى مشرفي مجموعات)</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="bg">
     <regular>
       <item>Talk 9 интегрира преглед/редактиране на документи и мрежов изглед</item>

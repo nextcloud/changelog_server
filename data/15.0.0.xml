@@ -13,6 +13,18 @@
       <item>Updated Dashboard, Full Text Search &amp; Group folders</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="ar">
+    <regular>
+      <item>نكست كلاود للتواصل الاجتماعي، و مشاركات متعددة الروابط</item>
+      <item>تصميم جديد، و منظور شبكي، و تحميل ملفات أسرع بمرتين </item>
+      <item>القائمة الجانبية مع المشاركين المتصلين &amp; التحدث في القائمة الجانبية</item>
+    </regular>
+    <admin>
+      <item>الإلزام باستخدام التوكيد المُثنّى 2FA، و التحصينات الأمنية</item>
+      <item>تحويل تلقائي إلى PDF، و تنفيذ السكربت</item>
+      <item>لوحة القياسات المُحدّثة، و البحث النصي الشامل و الملفات الجماعية</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="bg">
     <regular>
       <item>Nextcloud Социални &amp; споделяния на множество връзки</item>

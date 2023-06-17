@@ -13,6 +13,18 @@
       <item>Resolved false positive in server setup check</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="ar">
+    <regular>
+      <item>تطويرات متعددة في تفاصيل واجهة المستخدم</item>
+      <item>مثال: أيقونات فاتحة مع ثيم مُظلم</item>
+      <item>لتفادي تداخل زر الإرسال مع الملاحظات</item>
+    </regular>
+    <admin>
+      <item>إشكاليّات مُعالجة برموز مستخدم استثنائية</item>
+      <item>خروج وب ثابت عند استخدام OAuth </item>
+      <item>حلّ مشكلة التعرّف بالخطأ في اختبار تجهيز الخادوم</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="bg">
     <regular>
       <item>Няколко детайлни подобрения в потребителския интерфейс</item>

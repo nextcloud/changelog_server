@@ -12,6 +12,17 @@
       <item>Theming: CSS files were consolidated</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="ar">
+    <regular>
+      <item>واجهة مستخدم مُنقّاة</item>
+      <item>تشفير من الحد إلى الحد</item>
+      <item>محادثة بالكتابة و الفيديو</item>
+    </regular>
+    <admin>
+      <item>تغييرات في تهيئة خادوم الوب Nginx</item>
+      <item>الثيمات: ملفات CSS تمّ تجميعها</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="bg">
     <regular>
       <item>Усъвършенстван потребителски интерфейс</item>

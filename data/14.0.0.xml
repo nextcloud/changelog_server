@@ -13,6 +13,18 @@
       <item>Kerberos auth to Samba; multi-IdP SAML</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="ar">
+    <regular>
+      <item>التحقّق من هويّة طرف مشترك في مكالمة فيديو؛ إستخدام التأكيد المُثنّى 2FA مع تطبيقات Signal و Telegram</item>
+      <item>أضف ملحوظة إلى مشاركات؛ منظور مشاركة موسّع؛ البحث في الملاحظات</item>
+      <item>تطويرات في سلاسة الوصول بما في ذلك الثيمة عالية التباين </item>
+    </regular>
+    <admin>
+      <item>المطلوب إصدار PHP أكبر من أو يُساوي 7.0؛ صيغة تسجيل الحركات log، و لاصقات syslog، و تهيئة nginx تمّ تغييرها.</item>
+      <item>تطوير الامثتال لمعيار الخصوصية GDPR من خلال التطبيقات؛ مع سجل حركات log منفصل.</item>
+      <item>الدخول بآلية Kerberos إلى Samba؛ معيار النفاذ المُوحّد SAML من عدة موفرين هوية multi-IdP</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="bg">
     <regular>
       <item>Проверете получателя на споделяне във видеообаждане; 2FA със Сигнал и Телеграма</item>
