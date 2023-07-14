@@ -171,8 +171,8 @@
   </whatsNew>
   <whatsNew lang="gl">
     <regular>
-      <item>Verificar o receptor dun recurso compartido nunha chamada de vídeo; 2FA con Signal e Telegram</item>
-      <item>Engadir unha nota aos recursos compartidos; vistas estendidas do compartido; busca por comentarios</item>
+      <item>Verificar o receptor dunha compartición nunha chamada de vídeo; 2FA con Signal e Telegram</item>
+      <item>Engadir unha nota ás  comparticións; vistas estendidas do compartido; busca por comentarios</item>
       <item>Melloras da accesibilidade que inclúen un tema de alto contraste</item>
     </regular>
     <admin>
