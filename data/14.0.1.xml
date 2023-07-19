@@ -133,6 +133,18 @@
       <item>Resuelto un falso positivo en la comprobación de configuración del servidor</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="es_EC">
+    <regular>
+      <item>Mejoras detalladas en la interfaz de usuario</item>
+      <item>por ejemplo, iconos claros con el tema oscuro</item>
+      <item>o evitar que el botón de envío se superponga en los comentarios</item>
+    </regular>
+    <admin>
+      <item>Se solucionaron problemas con IDs de usuario poco comunes</item>
+      <item>Se corrigió el cierre de sesión web en el uso de OAuth</item>
+      <item>Se resolvió un falso positivo en la comprobación de configuración del servidor</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="eu">
     <regular>
       <item>Erabiltzaile interfazean detaile ugariren hobekuntza</item>

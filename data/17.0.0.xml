@@ -133,6 +133,18 @@
       <item>Veriones de S3, IBM Spectrum y otros</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="es_EC">
+    <regular>
+      <item>Borrado remoto</item>
+      <item>Nuestro nuevo editor de texto enriquecido colaborativo sin distracciones</item>
+      <item>la vista segura permite aplicar marcas de agua en documentos de forma exigible</item>
+    </regular>
+    <admin>
+      <item>Configuración de la autenticación de dos factores después del primer inicio de sesión</item>
+      <item>Soporte de escritura LDAP</item>
+      <item>Versionado de S3, IBM Spectrum Scale y más</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="eu">
     <regular>
       <item>Urruneko garbiketa</item>

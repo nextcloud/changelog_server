@@ -133,6 +133,18 @@
       <item>Arreglados los archivos no disponibles bajo ciertas condiciones</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="es_EC">
+    <regular>
+      <item>Revisión del manejo de carga de archivos</item>
+      <item>Los menús de contacto en las menciones vuelven a funcionar</item>
+      <item>Mejoras detalladas (por ejemplo, vista de archivos en dispositivos móviles)</item>
+    </regular>
+    <admin>
+      <item>El botón "Agregar grupo" en la página de usuarios está de vuelta</item>
+      <item>El tipo de autenticación "Ninguno" está disponible nuevamente en la configuración de correo</item>
+      <item>Se solucionó la no disponibilidad de archivos en algunas condiciones</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="eu">
     <regular>
       <item>Fitxategiak igotzeko maneiua berrikusita</item>

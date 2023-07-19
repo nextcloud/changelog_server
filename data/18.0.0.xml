@@ -121,6 +121,18 @@
       <item>"Flow" te permite automatizar tareas fácilmente, proteger archivos y procesar documentos</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="es_EC">
+    <regular>
+      <item>Workspaces te permite agregar una descripción encima de tus carpetas</item>
+      <item>Bloqueo de archivos evita conflictos al editar archivos compartidos con otros</item>
+      <item>Flow te permite automatizar tareas aburridas y repetitivas</item>
+    </regular>
+    <admin>
+      <item>ONLYOFFICE se puede instalar sin docker o proxy inverso</item>
+      <item>Calendario, Correo y Talk con reescritura traen muchas mejoras nuevas</item>
+      <item>Flow te permite automatizar tareas, proteger archivos y procesar documentos fácilmente</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="eu">
     <regular>
       <item>Lan eremuek aukera ematen dizute karpeten gainean deskribapenak gehitzeko</item>
