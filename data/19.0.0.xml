@@ -145,6 +145,18 @@
       <item>Esleitu taldeak zuk sorturiko gonbidatu-kontuei (delegatu ahal zaie talde administratzaileei)</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="fa">
+    <regular>
+      <item>Talk 9 integrates document viewing/editing and a grid view</item>
+      <item>Previews for krita / open document files by default</item>
+      <item>Many performance improvements in Talk and file handling</item>
+    </regular>
+    <admin>
+      <item>Collabora Online can be installed without docker or reverse proxy</item>
+      <item>Password-less authentication and additional password settings introduced</item>
+      <item>Assign groups to guest accounts you create (can be delegated to group admins)</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="fr">
     <regular>
       <item>Talk 9 intègre la visualisation et l'édition de documents ainsi qu'une vue grille</item>

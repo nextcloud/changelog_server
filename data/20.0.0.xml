@@ -145,6 +145,18 @@
       <item>Ohiko segurtasun, irisgarritasun eta errendimendu hobekuntzak</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="fa">
+    <regular>
+      <item>🏁 Dashboard provides a great starting point for the day</item>
+      <item>🔍 Unified search brings results from apps and external sources</item>
+      <item>🗨 Talk introduced bridging to other platforms</item>
+    </regular>
+    <admin>
+      <item>Integration apps allow users to access twitter, Jira and others from Nextcloud</item>
+      <item>Flow adds notifications and web hooks for more automation</item>
+      <item>Usual security, accessibility and performance improvements</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="fr">
     <regular>
       <item>🏁 Le tableau de bord constitue un excellent point de départ pour la journée</item>
