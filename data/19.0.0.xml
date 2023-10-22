@@ -303,9 +303,9 @@
   </whatsNew>
   <whatsNew lang="sk">
     <regular>
-      <item>Talk 9 integruje prehliadanie/úpravu dokumentov a zobrazenie v mriežke</item>
+      <item>Rozhovor 9 integruje prehliadanie/úpravu dokumentov a zobrazenie v mriežke</item>
       <item>Náhľady pre Kritu / otváranie dokumentov ako predvolené</item>
-      <item>Množstvo vylepšení výkonu v Talku a v spracovaní súborov</item>
+      <item>Množstvo vylepšení výkonu v Rozhovore a v spracovaní súborov</item>
     </regular>
     <admin>
       <item>Collabora Online sa dá nainštalovať bez docker kontajneru alebo reverzného proxy</item>
