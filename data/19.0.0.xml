@@ -166,7 +166,7 @@
     <admin>
       <item>Collabora Online peut être installé sans docker ou reverse-proxy</item>
       <item>Ajout de l'authentification sans mot de passe et de paramètres de mot de passe additionnels</item>
-      <item>Assignez des groupes aux comptes invité que vous créez (délégation possible aux administrateurs de groupe)</item>
+      <item>Attribuez des groupes aux comptes invité que vous créez (délégation possible aux administrateurs de groupe)</item>
     </admin>
   </whatsNew>
   <whatsNew lang="gl">
