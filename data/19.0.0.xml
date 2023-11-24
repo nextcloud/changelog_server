@@ -260,7 +260,7 @@
       <item>Wiele ulepszeń dla wydajności w Talku i obsłudze plików</item>
     </regular>
     <admin>
-      <item>Collabora Online można zainstalować bez dockera lub reverse proxy</item>
+      <item>Collabora Online można zainstalować bez dockera lub zwrotnego proxy</item>
       <item>Wprowadzono uwierzytelnianie bez hasła i dodatkowe ustawienia haseł</item>
       <item>Przydzielanie grup do tworzonych kont gości (można je delegować do administratorów grup)</item>
     </admin>

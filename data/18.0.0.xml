@@ -260,7 +260,7 @@
       <item>Flow pozwala zautomatyzować powtarzalne, nudne zadania</item>
     </regular>
     <admin>
-      <item>ONLYOFFICE można zainstalować bez dockera lub zwrotnego serwera proxy</item>
+      <item>ONLYOFFICE można zainstalować bez dockera lub zwrotnego proxy</item>
       <item>Udoskonalenie Kalendarza, Maila i Talka przynosi wiele nowych ulepszeń</item>
       <item>Flow umożliwia łatwą automatyzację zadań, ochronę plików i przetwarzanie dokumentów</item>
     </admin>
