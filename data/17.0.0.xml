@@ -181,6 +181,18 @@
       <item>Versionnement S3 et IBM Spectrum Sale entre autres</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="ga">
+    <regular>
+      <item>Cianda wipe</item>
+      <item>Ár n-eagarthóir téacs saibhir comhoibritheach nua gan aon seachrán</item>
+      <item>gnóthachain radharc slán comharthaí uisce doiciméad infheidhmithe</item>
+    </regular>
+    <admin>
+      <item>Socraigh fíordheimhniú dhá-fhachtóir tar éis an chéad logáil isteach</item>
+      <item>Tacaíocht scríobh LDAP</item>
+      <item>Leagan S3, Scála Speictrim IBM &amp; níos mó</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="gl">
     <regular>
       <item>Limpeza remota</item>

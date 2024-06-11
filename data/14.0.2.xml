@@ -181,6 +181,18 @@
       <item>Correction à propos de fichier non disponible dans certaines conditions</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="ga">
+    <regular>
+      <item>Láimhseáil uaslódála athbhreithnithe</item>
+      <item>Oibríonn biachláir teagmhála ar lua arís</item>
+      <item>Feabhsuithe sonraí (m.sh. amharc ar chomhaid mhóibíleacha)</item>
+    </regular>
+    <admin>
+      <item>Tá an cnaipe "Cuir grúpa" ar leathanach na n-úsáideoirí ar ais</item>
+      <item>Tá cineál údaraithe "Níl" ar fáil arís i socruithe ríomhphoist</item>
+      <item>Comhaid seasta nach bhfuil ar fáil faoi roinnt coinníollacha</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="gl">
     <regular>
       <item>Revisado o manexo do envío de ficheiros</item>

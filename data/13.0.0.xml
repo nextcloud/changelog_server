@@ -166,6 +166,17 @@
       <item>Thème : Les fichiers CSS ont été améliorés</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="ga">
+    <regular>
+      <item>Comhéadan úsáideora scagtha</item>
+      <item>Criptiú deireadh-go-deireadh</item>
+      <item>Comhrá Físeáin agus Téacs</item>
+    </regular>
+    <admin>
+      <item>Athruithe ar chumraíocht Nginx</item>
+      <item>Téama: Comhdhlúthaíodh comhaid CSS</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="gl">
     <regular>
       <item>Interface de usuario refinada</item>

@@ -169,6 +169,18 @@
       <item>Améliorations habituelles de la sécurité, de l'accessibilité et des performances</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="ga">
+    <regular>
+      <item>🏁 Soláthraíonn an painéal pointe tosaigh iontach don lá</item>
+      <item>🔍 Tugann cuardach aontaithe torthaí ó aipeanna agus foinsí seachtracha</item>
+      <item>🗨 Thug Talk tús le nascadh le hardáin eile</item>
+    </regular>
+    <admin>
+      <item>Ligeann aipeanna comhtháthaithe d'úsáideoirí rochtain a fháil ar twitter, Jira agus daoine eile ó Nextcloud</item>
+      <item>Cuireann Sreabhadh fógraí agus crúcaí gréasáin leis le haghaidh tuilleadh uathoibrithe</item>
+      <item>Feabhsuithe gnáthaimh slándála, inrochtaineachta agus feidhmíochta</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="gl">
     <regular>
       <item>🏁 O taboleiro fornece un excelente punto de partida para o día</item>

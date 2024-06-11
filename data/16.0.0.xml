@@ -181,6 +181,18 @@
       <item>Variables pour le stockage externe (LDAP fournit '$home')</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="ga">
+    <regular>
+      <item>Moltaí cliste do chomhaid, faighteoirí a roinnt</item>
+      <item>Tionscadail: comhaid ghrúpa, comhráite, tascanna ar féidir iad a aimsiú go héasca</item>
+      <item>deaschliceáil i Comhaid, breathnóir doiciméad nua &amp; tuilleadh</item>
+    </regular>
+    <admin>
+      <item>Brath logáil isteach amhrasach faoi thiomáint meaisín</item>
+      <item>Liostaí Rialaithe Rochtana i nGrúpafhillteáin</item>
+      <item>Athróga le haghaidh stórála seachtrach (Soláthraíonn LDAP '$home')</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="gl">
     <regular>
       <item>Recomendacións intelixentes para ficheiros, compartir destinatarios</item>

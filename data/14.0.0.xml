@@ -181,6 +181,18 @@
       <item>Authentification Kerberos pour Samba ; multi-IdP SAML</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="ga">
+    <regular>
+      <item>Fíoraigh faighteoir scaireanna le linn físghlao; 2FA le Comhartha &amp; Teileagram</item>
+      <item>Cuir nóta le scaireanna; tuairimí scaireanna leathnaithe; cuardaigh de réir tuairimí</item>
+      <item>Feabhsuithe inrochtaineachta lena n-áirítear téama ardchodarsnachta</item>
+    </regular>
+    <admin>
+      <item>Teastaíonn PHP &gt;= 7.0, formáid logála, tag syslog &amp; config nginx</item>
+      <item>Comhlíonadh GDPR feabhsaithe trí aipeanna; loga iniúchta ar leithligh</item>
+      <item>Kerberos údarás go Samba; il-IDP SAML</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="gl">
     <regular>
       <item>Verificar o receptor dunha compartición nunha chamada de vídeo; A2F con Signal e Telegram</item>

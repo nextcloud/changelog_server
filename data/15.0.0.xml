@@ -181,6 +181,18 @@
       <item>tableau de bord amélioré, recherche en texte intégral &amp; dossiers de groupes</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="ga">
+    <regular>
+      <item>Scaireanna naisc Nextcloud Sóisialta &amp; iolracha</item>
+      <item>Dearadh nua, radharc greille &amp; 2x luchtú Comhaid níos tapúla</item>
+      <item>barra taoibh le Collabora Online &amp; Talk sa bharra taoibh</item>
+    </regular>
+    <admin>
+      <item>forfheidhmiú 2FA &amp; hardenings slándála</item>
+      <item>comhshó PDF uathoibríoch &amp; forghníomhú script</item>
+      <item>Painéal nuashonraithe, Cuardach Téacs Iomlán &amp; fillteáin Ghrúpa</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="gl">
     <regular>
       <item>Nexcloud Social e múltiples ligazóns para compartir</item>

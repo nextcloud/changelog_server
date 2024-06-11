@@ -169,6 +169,18 @@
       <item>Flow vous permet d'automatiser certaines tâches, de protéger des fichiers et de traiter des documents</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="ga">
+    <regular>
+      <item>Ligeann spásanna oibre duit cur síos a chur os cionn d'fhillteáin</item>
+      <item>Cuireann glasáil comhad cosc ​​ar choinbhleachtaí ó thaobh eagarthóireacht a dhéanamh ar chomhaid roinnte le daoine eile</item>
+      <item>Ligeann sreabhadh duit tascanna athchleachtach, leadránach a uathoibriú</item>
+    </regular>
+    <admin>
+      <item>Is féidir ONLYOFFICE a shuiteáil gan docker nó seachfhreastalaí droim ar ais</item>
+      <item>Tagann go leor feabhsuithe nua le hathscríobh Calendar, Mail and Talk</item>
+      <item>Ligeann sreabhadh duit tascanna a uathoibriú go héasca, comhaid a chosaint agus doiciméid a phróiseáil</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="gl">
     <regular>
       <item>Espazos de traballo permítelle engadir unha descrición por riba dos seus cartafoles</item>
