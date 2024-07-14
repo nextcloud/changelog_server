@@ -200,7 +200,7 @@
       <item>a vista segura obtén marcas de auga de documentos executivos</item>
     </regular>
     <admin>
-      <item>Estabelecer a autenticación de dous factores após o primeiro acceso</item>
+      <item>Definir a autenticación de dous factores após o primeiro acceso</item>
       <item>Compatibilidade de escritura LDAP</item>
       <item>Versión de S3, IBM Spectrum Scale e máis</item>
     </admin>
