@@ -133,6 +133,18 @@
       <item>Mejoras habituales en seguridad, accesibilidad y rendimiento</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="es_MX">
+    <regular>
+      <item>🏁 El tablero ofrece un excelente punto de partida para el día</item>
+      <item>🔍 La búsqueda unificada muestra resultados de aplicaciones y fuentes externas</item>
+      <item>🗨 Talk permite la conexión con otras plataformas</item>
+    </regular>
+    <admin>
+      <item>Aplicaciones de integración que permiten a los usuarios acceder a Twitter, Jira y otros desde Nextcloud</item>
+      <item>Flujos agrega notificaciones y ganchos web para más automatización</item>
+      <item>Mejoras habituales en seguridad, accesibilidad y rendimiento</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="eu">
     <regular>
       <item>🏁 Panelak eguneko abiapuntu bikaina eskaintzen du</item>

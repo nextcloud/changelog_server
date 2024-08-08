@@ -145,6 +145,18 @@
       <item>Autenticación Kerberos para Samba; SAML con múltiples IdP</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="es_MX">
+    <regular>
+      <item>Verificar a un destinatario de compartición en una video-llamada; autenticación de 2FA con Signal y Telegram</item>
+      <item>Agregar una nota a las comparticiones; vistas extendidas de comparticiones; búsqueda por comentarios</item>
+      <item>Mejoras de accesibilidad, incluido un tema de alto contraste</item>
+    </regular>
+    <admin>
+      <item>Requiere PHP &gt;= 7.0, ha cambiado el formato de registro, la etiqueta de syslog y la configuración de nginx</item>
+      <item>Mejora en el cumplimiento del RGPD a través de aplicaciones; registro de auditoría separado</item>
+      <item>Autenticación Kerberos para Samba; SAML con múltiples IdP</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="eu">
     <regular>
       <item>Partekatze edukiak egiaztatzea bideo deian; Signal eta Telegramekin 2FA</item>

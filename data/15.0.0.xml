@@ -145,6 +145,18 @@
       <item>Actualización del Panel de control, Búsqueda de texto completo y Carpetas de grupo</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="es_MX">
+    <regular>
+      <item>Nextcloud Social y múltiples enlaces para compartir</item>
+      <item>Nuevo diseño, vista en cuadrícula y carga 2 veces más rápida de los archivos</item>
+      <item>Barra lateral para Collabora Online y Talk</item>
+    </regular>
+    <admin>
+      <item>Reforzamiento de 2FA y mejoras en la seguridad.</item>
+      <item>Conversión automática de PDF y ejecución de scripts</item>
+      <item>Actualización del tablero, búsqueda de texto completo y carpetas de grupo</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="eu">
     <regular>
       <item>Nextcloud sare soziala eta partekatze esteka ugari</item>
