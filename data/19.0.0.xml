@@ -363,9 +363,9 @@
   </whatsNew>
   <whatsNew lang="tr">
     <regular>
-      <item>Talk 9 için belge görüntüleme ve düzenleme ile tablo görünümü özellikleri eklendi</item>
+      <item>Konuş 9 için belge görüntüleme ve düzenleme ile tablo görünümü özellikleri eklendi</item>
       <item>Krita ve open document dosyaları için varsayılan olarak ön izleme eklendi</item>
-      <item>Talk ve dosya işlemede pek çok iyileştirme yapıldı</item>
+      <item>Konuş ve dosya işlemede pek çok iyileştirme yapıldı</item>
     </regular>
     <admin>
       <item>Collabora Online docker ya da ters vekil sunucu olmadan kurulabilir</item>
