@@ -413,7 +413,7 @@
     <regular>
       <item>在视频通话中验证共享接收者；Signal和Telegram的两步验证</item>
       <item>为共享添加注释；扩展共享视图；按注释内容搜索</item>
-      <item>包含高对比度主题的易用性改进</item>
+      <item>可访问性改进，包括高对比度主题</item>
     </regular>
     <admin>
       <item>要求 PHP &gt;= 7.0，日志格式、系统日志标签和 nginx 配置变更</item>
