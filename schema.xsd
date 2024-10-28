@@ -1,8 +1,4 @@
 <?xml version="1.0"?>
-<!--
-  - SPDX-FileCopyrightText: 2018 Nextcloud GmbH and Nextcloud contributors
-  - SPDX-License-Identifier: MIT
--->
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
            elementFormDefault="qualified" attributeFormDefault="unqualified">
     <xs:element name="release">

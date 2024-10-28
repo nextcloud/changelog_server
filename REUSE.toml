@@ -6,7 +6,7 @@ SPDX-PackageSupplier = "Nextcloud <info@nextcloud.com>"
 SPDX-PackageDownloadLocation = "https://github.com/nextcloud/changelog_server"
 
 [[annotations]]
-path = [".tx/config", "composer.json", "vendor/autoload.php"]
+path = [".tx/config", "composer.json", "schema.xsd", "vendor/autoload.php"]
 precedence = "aggregate"
 SPDX-FileCopyrightText = "2018 Nextcloud GmbH and Nextcloud contributors"
 SPDX-License-Identifier = "MIT"
