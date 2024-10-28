@@ -1,3 +1,5 @@
+# SPDX-FileCopyrightText: 2018 Nextcloud GmbH and Nextcloud contributors
+# SPDX-License-Identifier: MIT
 Feature: testing the response of the Changelog Server
   Scenario: Request against a version which does not have any info available
     Given the version of interest is "11.0.0"

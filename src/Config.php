@@ -1,6 +1,8 @@
 <?php
+
 /**
- * @license MIT <http://opensource.org/licenses/MIT>
+ * SPDX-FileCopyrightText: 2018 Nextcloud GmbH and Nextcloud contributors
+ * SPDX-License-Identifier: MIT
  */
 
 namespace ChangelogServer;

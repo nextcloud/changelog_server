@@ -1,6 +1,7 @@
 <?php
 /**
- * @license MIT <http://opensource.org/licenses/MIT>
+ * SPDX-FileCopyrightText: 2019 Nextcloud GmbH and Nextcloud contributors
+ * SPDX-License-Identifier: MIT
  */
 
 return [
