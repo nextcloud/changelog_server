@@ -397,6 +397,18 @@
       <item>Bazı koşullarda dosyalara erişilememesi sorunu çözüldü</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="ug">
+    <regular>
+      <item>14.0.2-regular1-377b16cc</item>
+      <item>14.0.2-regular2-0665e128</item>
+      <item>14.0.2-regular3-1d4fd152</item>
+    </regular>
+    <admin>
+      <item>14.0.2-admin1-6154ec8f</item>
+      <item>14.0.2-admin2-1555a3f7</item>
+      <item>14.0.2-admin3-6f9243f3</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="uk">
     <regular>
       <item>Переглянуте керування завантаженням файлів</item>

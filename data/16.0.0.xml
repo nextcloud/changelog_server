@@ -385,6 +385,18 @@
       <item>Dış depolama değişkenleri (LDAP tarafından sağlanan '$home')</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="ug">
+    <regular>
+      <item>16.0.0-regular1-add70d18</item>
+      <item>16.0.0-regular2-2161378c</item>
+      <item>16.0.0-regular3-646fa355</item>
+    </regular>
+    <admin>
+      <item>16.0.0-admin1-694e294c</item>
+      <item>16.0.0-admin2-978954da</item>
+      <item>16.0.0-admin3-71fec2f7</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="uk">
     <regular>
       <item>Інтелектуальні рекомендації для файлів, обмін одержувачами</item>

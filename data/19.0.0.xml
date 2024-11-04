@@ -373,6 +373,18 @@
       <item>Oluşturduğunuz konuk hesaplarına grup atama (grup yöneticileri tarafından yapılabilir)</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="ug">
+    <regular>
+      <item>19.0.0-regular1-1cbd7afb</item>
+      <item>19.0.0-regular2-5314a395</item>
+      <item>19.0.0-regular3-72e34474</item>
+    </regular>
+    <admin>
+      <item>19.0.0-admin1-5b8b1abc</item>
+      <item>19.0.0-admin2-e2829f49</item>
+      <item>19.0.0-admin3-c7db4528</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="uk">
     <regular>
       <item>Talk 9 об’єднує перегляд/редагування документів і таблицю</item>

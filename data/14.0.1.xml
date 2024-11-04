@@ -397,6 +397,18 @@
       <item>Sunucu kurulumu denetimleri sırasında yanlış bulunan hata çözümlendi</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="ug">
+    <regular>
+      <item>14.0.1-regular1-512f1850</item>
+      <item>14.0.1-regular2-2e4ca722</item>
+      <item>14.0.1-regular3-8f166639</item>
+    </regular>
+    <admin>
+      <item>14.0.1-admin1-8a3b41e7</item>
+      <item>14.0.1-admin2-cc1a899e</item>
+      <item>14.0.1-admin3-b3805169</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="uk">
     <regular>
       <item>Декілька детальних покращень в інтерфейсі користувача</item>

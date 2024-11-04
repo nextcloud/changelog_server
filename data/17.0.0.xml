@@ -385,6 +385,18 @@
       <item>S3 sürümlendirme, IBM Spectrum Scale ve diğerleri</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="ug">
+    <regular>
+      <item>17.0.0-regular1-3cc72639</item>
+      <item>17.0.0-regular2-582ed3b7</item>
+      <item>17.0.0-regular3-498431c9</item>
+    </regular>
+    <admin>
+      <item>17.0.0-admin1-484a69c9</item>
+      <item>17.0.0-admin2-fa448241</item>
+      <item>17.0.0-admin3-874535a8</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="uk">
     <regular>
       <item>Дистанційне стирання</item>

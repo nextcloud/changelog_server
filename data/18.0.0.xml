@@ -373,6 +373,18 @@
       <item>Akış, görevleri otomatikleştirmeyi, dosyaları korumayı ve belgeleri işlemeyi kolaylaştırır</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="ug">
+    <regular>
+      <item>18.0.0-regular1-fa4691df</item>
+      <item>18.0.0-regular2-4a3bc6c2</item>
+      <item>18.0.0-regular3-d0a07b44</item>
+    </regular>
+    <admin>
+      <item>18.0.0-admin1-4185657b</item>
+      <item>18.0.0-admin2-0532381a</item>
+      <item>18.0.0-admin3-f4e94ac3</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="uk">
     <regular>
       <item>Робочі простори дозволяють додавати опис над каталогами</item>
