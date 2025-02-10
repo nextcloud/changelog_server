@@ -195,9 +195,9 @@
   </whatsNew>
   <whatsNew lang="gl">
     <regular>
-      <item>Parlar 9 integra a vista/edición de documentos e unha vista de grade</item>
+      <item>Parladoiro 9 integra a vista/edición de documentos e unha vista de grade</item>
       <item>Vista previa de ficheiros de krita / open document como predeterminado</item>
-      <item>Moitas melloras de rendemento en Parlar e no manexo de ficheiros</item>
+      <item>Moitas melloras de rendemento en Parladoiro e no manexo de ficheiros</item>
     </regular>
     <admin>
       <item>Collabora Online pódese instalar sen docker ou proxy inverso</item>
