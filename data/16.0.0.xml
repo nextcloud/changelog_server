@@ -213,7 +213,7 @@
     </regular>
     <admin>
       <item>Detección de accesos sospeitosos accionada por «aprendizaxe da máquina»</item>
-      <item>Listas de control de acceso en grupos de cartafoles</item>
+      <item>Listas de control de acceso en cartafoles de grupo</item>
       <item>Variábeis para almacenamento externo (LDAP fornece «$home»)</item>
     </admin>
   </whatsNew>
