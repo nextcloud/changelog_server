@@ -291,14 +291,14 @@
   </whatsNew>
   <whatsNew lang="pt_BR">
     <regular>
-      <item>🏁 Painel proporciona um ótimo local para iniciar o dia</item>
-      <item>🔍 Busca Unificada traz resultados de diversos aplicativos e também de fontes externas</item>
-      <item>🗨 Talk permite comunicação com outras plataformas</item>
+      <item>🏁 O Painel oferece um excelente ponto de partida para o dia</item>
+      <item>🔍 A pesquisa unificada traz resultados de aplicativos e fontes externas</item>
+      <item>🗨 Talk introduziu comunicação com outras plataformas</item>
     </regular>
     <admin>
-      <item>Aplicativos de Integração permitem que os usuários acessem twitter, Jira e outros serviços a partir no Nextcloud</item>
-      <item>Flow adiciona notificações e web hooks para mais automação</item>
-      <item>Melhorias de segurança, acessibilidade e performance como de costume </item>
+      <item>Os aplicativos de integração permitem que os usuários acessem o Twitter, o Jira e outros serviços a partir do Nextcloud</item>
+      <item>O Fluxo adiciona notificações e web hooks para maior automação</item>
+      <item>Melhorias usuais de segurança, acessibilidade e desempenho</item>
     </admin>
   </whatsNew>
   <whatsNew lang="ru">
