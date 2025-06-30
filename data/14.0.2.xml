@@ -388,7 +388,7 @@
   <whatsNew lang="tr">
     <regular>
       <item>Dosya yükleme işlemi düzenlendi</item>
-      <item>Bahsetmelerde kişi menüleri yeniden çalışıyor</item>
+      <item>Anmalardaki kişi menülerinin yeniden çalışması sağlandı</item>
       <item>Ayrıntılar iyileştirildi (örnek: mobil dosya görünümü)</item>
     </regular>
     <admin>

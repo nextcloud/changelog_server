@@ -389,7 +389,7 @@
     <regular>
       <item>Görüntülü çağrı sırasında bir paylaşım alıcısının kimliğini doğrulama; Signal ve Telegram için iki adımlı doğrulama</item>
       <item>Paylaşımlara not ekleme; gelişmiş paylaşım görünümleri; yorum içeriklerine göre dosya arama</item>
-      <item>Yüksek karşıtlık teması da dahil erişebilirlik iyileştirmeleri</item>
+      <item>Yüksek karşıtlık teması ile birlikte erişebilirlik iyileştirmeleri</item>
     </regular>
     <admin>
       <item>PHP ve üzeri gerekli, günlük biçimi, syslog kod imi ve nginx yapılandırması değiştirildi</item>
