@@ -385,6 +385,18 @@
       <item>Kerberos-auth till Samba, multi-IdP SAML</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="sw">
+    <regular>
+      <item>Thibitisha mpokeaji mshiriki katika Hangout ya Video; 2FA yenye Mawimbi na Telegramu</item>
+      <item>Ongeza dokezo kwa hisa; maoni yaliyopanuliwa ya kushiriki; tafuta kwa maoni</item>
+      <item>Maboresho ya ufikivu yakiwemo mandhari ya utofautishaji wa juu</item>
+    </regular>
+    <admin>
+      <item>Inahitaji PHP &gt;= 7.0, umbizo la kumbukumbu, lebo ya syslog &amp; usanidi wa nginx kubadilishwa</item>
+      <item>Utiifu ulioboreshwa wa GDPR kupitia programu; logi tofauti ya ukaguzi</item>
+      <item>Kerberos auth kwa Samba; SAML nyingi za IdP</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="tr">
     <regular>
       <item>Görüntülü çağrı sırasında bir paylaşım alıcısının kimliğini doğrulama; Signal ve Telegram için iki adımlı doğrulama</item>

@@ -361,6 +361,18 @@
       <item>Уобичајена побољшања безбедности, приступачности и перформанси</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="sw">
+    <regular>
+      <item>🏁 Dashibodi hutoa mahali pazuri pa kuanzia kwa siku</item>
+      <item>🔍 Utafutaji uliounganishwa huleta matokeo kutoka kwa programu na vyanzo vya nje</item>
+      <item>🗨 Talk ilitambulisha uunganishaji kwa mifumo mingine</item>
+    </regular>
+    <admin>
+      <item>Programu za ujumuishaji huruhusu watumiaji kufikia twitter, Jira na zingine kutoka Nextcloud</item>
+      <item>Mtiririko huongeza arifa na mikoba ya wavuti kwa uwekaji kiotomatiki zaidi</item>
+      <item>Usalama wa kawaida, ufikivu na maboresho ya utendaji</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="tr">
     <regular>
       <item>🏁 Pano güne başlamak için iyi bir başlangıç noktası sağlar</item>

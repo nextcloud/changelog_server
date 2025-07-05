@@ -361,6 +361,18 @@
       <item>Доделите групе гост налозима које креирате (може да се делегира групи админа)</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="sw">
+    <regular>
+      <item>Talk 9 huunganisha utazamaji/uhariri wa hati na mwonekano wa gridi</item>
+      <item>Hakiki za krita/fungua faili za hati kwa chaguomsingi</item>
+      <item>Maboresho mengi ya utendaji katika Talk na utunzaji wa faili</item>
+    </regular>
+    <admin>
+      <item>Collabora mtandaoni inaweza kusakinishwa bila docker au proksi ya kubadili nyuma</item>
+      <item>Uthibitishaji usio na nenosiri na mipangilio ya ziada ya nenosiri imeanzishwa</item>
+      <item>Panga vikundi kwa akaunti za wageni unazofungua (zinaweza kukabidhiwa kwa wasimamizi wa kikundi)</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="tr">
     <regular>
       <item>Konuş 9 için belge görüntüleme ve düzenleme ile tablo görünümü özellikleri eklendi</item>

@@ -385,6 +385,18 @@
       <item>Rättade otillgängliga filer under vissa förhållanden</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="sw">
+    <regular>
+      <item>Ushughulikiaji wa upakiaji wa faili uliorekebishwa</item>
+      <item>Menyu za anwani kwenye marejeleo hufanya kazi tena</item>
+      <item>Maboresho ya kina (k.m. mwonekano wa faili ya rununu)</item>
+    </regular>
+    <admin>
+      <item>Kitufe cha "Ongeza kikundi" kwenye ukurasa wa watumiaji kimerudishwa</item>
+      <item>Aina ya uthibitishaji ya "Hakuna" inapatikana tena katika mipangilio ya barua</item>
+      <item>Imerekebisha faili ambazo hazipatikani chini ya hali fulani</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="tr">
     <regular>
       <item>Dosya yükleme işlemi düzenlendi</item>

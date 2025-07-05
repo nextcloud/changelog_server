@@ -385,6 +385,18 @@
       <item>Uppdaterad Dashboard, fulltextsökning och gruppmappar</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="sw">
+    <regular>
+      <item>Jamii ya Nextcloud &amp; ushirikishaji mwingi wa viungo</item>
+      <item>Muundo mpya, mwonekano wa gridi na upakiaji wa Faili mara 2 kwa haraka zaidi</item>
+      <item>upau wa kando na Shirikiana Mtandaoni &amp; Ongea kwenye upau wa kando</item>
+    </regular>
+    <admin>
+      <item>utekelezaji wa 2FA na ugumu wa usalama</item>
+      <item>ubadilishaji otomatiki wa PDF &amp; utekelezaji wa hati</item>
+      <item>Dashibodi Iliyosasishwa, Utafutaji Kamili wa Maandishi na folda za Kikundi</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="tr">
     <regular>
       <item>Nextcloud Sosyal ağ ve birden ok bağlantı paylaşımı</item>

@@ -385,6 +385,18 @@
       <item>Löst falskt positiv i serverinställningskontrollen</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="sw">
+    <regular>
+      <item>Maboresho kadhaa ya maelezo katika kiolesura cha mtumiaji</item>
+      <item>mfano. aikoni nyepesi zenye mandhari meusi</item>
+      <item>au epuka kuingiliana na kitufe cha kuwasilisha kwenye maoni</item>
+    </regular>
+    <admin>
+      <item>Ilishughulikia matatizo kwa kutumia vitambulisho vya kawaida vya mtumiaji</item>
+      <item>Kuondoka kwa wavuti kwa kudumu kwenye matumizi ya OAuth</item>
+      <item>Imetatuliwa chanya ya uwongo katika ukaguzi wa usanidi wa seva</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="tr">
     <regular>
       <item>Kullanıcı arayüzünde bazı ayrıntılar iyileştirildi</item>

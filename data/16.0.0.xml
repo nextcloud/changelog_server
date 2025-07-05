@@ -373,6 +373,18 @@
       <item>Променљиве за спољашње складиште (LDAP  обезбеђује '$home')</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="sw">
+    <regular>
+      <item>Mapendekezo mahiri kwa faili, shiriki wapokeaji</item>
+      <item>Miradi: faili za kikundi, gumzo, kazi za kupata rahisi</item>
+      <item>bofya kulia kwenye Faili, utazamaji hati mpya na zaidi</item>
+    </regular>
+    <admin>
+      <item>Ugunduzi unaotiliwa shaka wa kuingia katika ujifunzaji wa mashine</item>
+      <item>Orodha za Udhibiti wa Ufikiaji katika Folda za Vikundi</item>
+      <item> Vigezo vya hifadhi ya nje (LDAP hutoa '$home')</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="tr">
     <regular>
       <item>Dosyalar, paylaşımlar ve alıcılar için akıllı öneriler</item>

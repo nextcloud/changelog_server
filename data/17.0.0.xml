@@ -373,6 +373,18 @@
       <item>S3 верзионисање, IBM Spectrum Scale &amp; јш</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="sw">
+    <regular>
+      <item>Kufuta kwa mbali</item>
+      <item>Kihariri chetu kipya cha maandishi kisicho na usumbufu, na shirikishi</item>
+      <item>mwonekano salama hupata alama za hati zinazotekelezeka</item>
+    </regular>
+    <admin>
+      <item>Sanidi uthibitishaji wa sababu mbili baada ya kuingia mara ya kwanza</item>
+      <item>Usaidizi wa uandishi wa LDAP</item>
+      <item>Utoaji wa S3, Kiwango cha Spectrum cha IBM &amp; zaidi</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="tr">
     <regular>
       <item>Uzaktan sil</item>

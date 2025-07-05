@@ -361,6 +361,18 @@
       <item>Flow Вам дозвољава да лако аутоматизујете задатке, заштитие фајлове и обрађујете документа</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="sw">
+    <regular>
+      <item>Nafasi za kazi hukuwezesha kuongeza maelezo juu ya folda zako</item>
+      <item>Kufunga faili huzuia migongano wakati wa kubadilisha faili zilizoshirikiwa na wengine</item>
+      <item>Mtiririko hukuruhusu kubinafsisha kazi zinazorudiwa, zenye kuchosha</item>
+    </regular>
+    <admin>
+      <item>ONLYOFFICE inaweza kusakinishwa bila docker au wakala wa nyuma</item>
+      <item>Maandishi ya Kalenda, Barua na Majadiliano huleta maboresho mengi mapya</item>
+      <item>Mtiririko hukuwezesha kufanya kazi kiotomatiki kwa urahisi, kulinda faili na kuchakata hati</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="tr">
     <regular>
       <item>Çalışma alanları, klasörlerinizin üzerine bir açıklama eklemenizi sağlar</item>

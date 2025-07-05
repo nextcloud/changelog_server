@@ -353,6 +353,17 @@
       <item>Tema: CSS-filer konsoliderades</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="sw">
+    <regular>
+      <item>Kiolesura kilichoboreshwa</item>
+      <item>Usimbaji wa Mwisho-hadi-Mwisho</item>
+      <item>Gumzo la Video na Maandishi</item>
+    </regular>
+    <admin>
+      <item>Mabadiliko ya usanidi wa Nginx</item>
+      <item>Mandhari: Faili za CSS ziliunganishwa</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="tr">
     <regular>
       <item>Kullanıcı ara yüzü düzenlendi</item>
