@@ -409,6 +409,18 @@
       <item>Звичайні покращення безпеки, доступності та продуктивності</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="uz">
+    <regular>
+      <item>🏁 Boshqaruv paneli kun uchun ajoyib boshlanish nuqtasini taqdim etadi</item>
+      <item>🔍 Yagona qidiruv natijalari ilovalar va tashqi manbalardan olib keladi</item>
+      <item>🗨 Talk boshqa platformalar uchun ko'prikni joriy qildi</item>
+    </regular>
+    <admin>
+      <item>Integratsiya ilovalari foydalanuvchilarga Nextcloud’dan twitter, Jira va boshqalarga kirish imkonini beradi</item>
+      <item>Flow ko'proq avtomatlashtirish uchun bildirishnomalar va veb-kancalarni qo'shadi</item>
+      <item>Odatiy xavfsizlik, foydalanish imkoniyati va ish faoliyatini yaxshilash</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="zh_CN">
     <regular>
       <item>🏁 仪表盘为一天提供了一个很好的起点</item>

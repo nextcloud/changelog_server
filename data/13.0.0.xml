@@ -397,6 +397,17 @@
       <item>Теми: файли CSS були об'єднані</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="uz">
+    <regular>
+      <item>Yaxshilangan foydalanuvchi interfeysi</item>
+      <item>End-to-end shifrlash</item>
+      <item>Video va matnli suhbat</item>
+    </regular>
+    <admin>
+      <item>Nginx konfiguratsiyasidagi o'zgarishlar</item>
+      <item>Mavzu: CSS fayllari birlashtirildi</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="zh_CN">
     <regular>
       <item>改进用户界面</item>

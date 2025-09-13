@@ -409,6 +409,18 @@
       <item>Flow дозволяє легко автоматизувати завдання, захищати файли та обробляти документи</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="uz">
+    <regular>
+      <item>Workspaces sizga papkalar ustiga tavsif qo'shish imkonini beradi</item>
+      <item>Faylni blokirovka qilish umumiy fayllarni boshqalar bilan tahrirlashda ziddiyatlarni oldini oladi</item>
+      <item>Flow sizga takrorlanadigan, zerikarli vazifalarni avtomatlashtirish imkonini beradi</item>
+    </regular>
+    <admin>
+      <item>ONLYOFFICE docker yoki teskari proksisiz o'rnatilishi mumkin</item>
+      <item>Taqvim, pochta va suhbatni qayta yozish ko'plab yangi yaxshilanishlarni olib keladi</item>
+      <item>Flow vazifalarni osongina avtomatlashtirish, fayllarni himoya qilish va hujjatlarni qayta ishlash imkonini beradi</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="zh_CN">
     <regular>
       <item>工作区可让您在文件夹上方添加描述</item>

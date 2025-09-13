@@ -433,6 +433,18 @@
       <item>Авторизація Kerberos у Samba; multi-IdP SAML</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="uz">
+    <regular>
+      <item>Video qo'ng'iroqda qabul qiluvchini almashishni tasdiqlang; Signal va Telegram bilan 2FA</item>
+      <item>Aktsiyalarga eslatma qo'shing; kengaytirilgan fikr almashish; sharhlar bo'yicha qidirish</item>
+      <item>Maxsus imkoniyatlar yaxshilandi, shu jumladan yuqori kontrastli mavzu</item>
+    </regular>
+    <admin>
+      <item>PHP &gt;= 7.0, jurnal formati, syslog yorlig'i va nginx konfiguratsiyasi o'zgartirilishini talab qiladi</item>
+      <item>Ilovalar orqali GDPR muvofiqligi yaxshilandi; alohida audit jurnali</item>
+      <item>Samba uchun Kerberos avtorizatsiyasi; multi-IdP SAML</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="zh_CN">
     <regular>
       <item>在视频通话中验证共享接收者；Signal和Telegram的两步验证</item>

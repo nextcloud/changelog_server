@@ -433,6 +433,18 @@
       <item>Виправлено недоступні файли за деяких умов</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="uz">
+    <regular>
+      <item>Qayta ko'rib chiqilgan faylni yuklash</item>
+      <item>Eslatmalardagi kontakt menyulari yana ishlaydi</item>
+      <item>Tafsilotlarni yaxshilash (masalan, mobil fayllarni ko'rish)</item>
+    </regular>
+    <admin>
+      <item>Foydalanuvchilar sahifasidagi "Guruh qo'shish" tugmasi qaytdi</item>
+      <item>"Yo'q" autentifikatsiya turi yana pochta sozlamalarida mavjud</item>
+      <item>Ba'zi sharoitlarda mavjud bo'lmagan fayllar tuzatildi</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="zh_CN">
     <regular>
       <item>修正过的文件上传处理</item>

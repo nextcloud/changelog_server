@@ -409,6 +409,18 @@
       <item>Призначайте групи гостьовим обліковим записам, які ви створюєте (це можна делегувати адміністраторам груп)</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="uz">
+    <regular>
+      <item>Talk 9 hujjatni ko'rish/tahrirlash va panjara ko'rinishini birlashtiradi</item>
+      <item>Krita uchun oldindan ko'rish / sukut bo'yicha hujjat fayllarini ochish</item>
+      <item>Talk va fayllar bilan ishlashda ko'plab ish faoliyatini yaxshilash</item>
+    </regular>
+    <admin>
+      <item>Collabora Online docker yoki teskari proksisiz o'rnatilishi mumkin</item>
+      <item>Parolsiz autentifikatsiya va qo'shimcha parol sozlamalari joriy etildi</item>
+      <item>Guruhlarni siz yaratgan mehmonlar hisoblariga tayinlang (guruh administratorlariga topshirilishi mumkin)</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="zh_CN">
     <regular>
       <item>通话应用 版本9集成了文档查看/编辑和网格视图</item>

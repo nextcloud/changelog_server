@@ -421,6 +421,18 @@
       <item>Версії S3, IBM Spectrum Scale тощо</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="uz">
+    <regular>
+      <item>Masofadan tozalash</item>
+      <item>Bizning yangi, chalg'itmaydigan, hamkorlikdagi boy matn muharririmiz</item>
+      <item>xavfsiz ko'rinish majburiy hujjat moybo'yoqlarini oladi</item>
+    </regular>
+    <admin>
+      <item>Birinchi kirishdan keyin ikki faktorli autentifikatsiyani o'rnating</item>
+      <item>LDAP yozishni qo'llab-quvvatlash</item>
+      <item>S3 versiyasi, IBM Spectrum Scale va boshqalar</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="zh_CN">
     <regular>
       <item>远程擦除</item>

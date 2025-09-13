@@ -421,6 +421,18 @@
       <item>Змінні для зовнішньої пам’яті (LDAP надає «$home»)</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="uz">
+    <regular>
+      <item>Fayllar uchun aqlli tavsiyalar, oluvchilarni almashish</item>
+      <item>Loyihalar: guruh fayllari, chatlar, oson topish uchun vazifalar</item>
+      <item>Fayllar, yangi hujjat ko'rish dasturi va boshqalarni o'ng tugmasini bosing</item>
+    </regular>
+    <admin>
+      <item>Raqamlashtirilgan intellektual o'rganish yordamida shubhali kirishni aniqlash</item>
+      <item>Guruh papkalarida kirishni boshqarish ro'yxatlari</item>
+      <item>Tashqi xotira uchun o'zgaruvchilar (LDAP "$home" ni taqdim etadi)</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="zh_CN">
     <regular>
       <item>针对文件应用的智能建议，共享收件人</item>

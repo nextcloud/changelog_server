@@ -212,7 +212,7 @@
       <item>Barra lateral con Collabora Online e Parladoiro</item>
     </regular>
     <admin>
-      <item>imposición de 2FA e melloras na seguranza</item>
+      <item>facer obrigatoria a 2FA e melloras na seguranza</item>
       <item>conversión automática de PDF e execución de «scripts».</item>
       <item>Taboleiro actualizado, buscas de texto completo e cartafoles de grupo</item>
     </admin>
@@ -431,6 +431,18 @@
       <item>дотримання 2FA та посилення безпеки</item>
       <item>автоматичне перетворення PDF і виконання сценарію</item>
       <item>Оновлено ​​інформаційну панель, контекстний пошук та групові каталоги</item>
+    </admin>
+  </whatsNew>
+  <whatsNew lang="uz">
+    <regular>
+      <item>Nextcloud ijtimoiy va bir nechta havolalar</item>
+      <item>Yangi dizayn, tarmoq koʻrinishi va fayllarni 2 barobar tezroq yuklash</item>
+      <item>Collabora Online bilan yon panel va yon paneldagi suhbat</item>
+    </regular>
+    <admin>
+      <item>2FA va xavfsizlikni kuchaytirish</item>
+      <item>PDF-ni avtomatik o'zgartirish va skriptni bajarish</item>
+      <item>Yangilangan asboblar paneli, toʻliq matnli qidiruv va guruh papkalari</item>
     </admin>
   </whatsNew>
   <whatsNew lang="zh_CN">

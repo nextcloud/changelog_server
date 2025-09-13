@@ -433,6 +433,18 @@
       <item>Вирішено помилковий результат під час перевірки налаштувань сервера</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="uz">
+    <regular>
+      <item>Foydalanuvchi interfeysida bir nechta batafsil yaxshilanishlar</item>
+      <item>masalan. qorong'u mavzuli yorug'lik piktogramma</item>
+      <item>yoki sharhlardagi yuborish tugmachasini bir-biriga yopishtirmang</item>
+    </regular>
+    <admin>
+      <item>Noodatiy foydalanuvchi identifikatorlari bilan bog'liq muammolarni hal qildi</item>
+      <item>OAuth-dan foydalanishda internetdan chiqish aniqlandi</item>
+      <item>Server sozlamalarini tekshirishda noto'g'ri ijobiy hal qilindi</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="zh_CN">
     <regular>
       <item>用户界面的数个细节改进</item>
