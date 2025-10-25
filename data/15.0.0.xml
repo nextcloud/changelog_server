@@ -63,13 +63,13 @@
   </whatsNew>
   <whatsNew lang="de">
     <regular>
-      <item>Nextcloud Sozial und Mehrfach-Link-Teilen</item>
-      <item>Neues Design, Rasteransicht und 2x schnelleres Laden von Dateien</item>
+      <item>Nextcloud Sozial &amp; Mehrfach-Link-Freigaben</item>
+      <item>Neues Design, Kachelansicht &amp; 2x schnelleres Laden von Dateien</item>
       <item>Seitenleiste mit Collabora Online &amp; Talk in der Seitenleiste</item>
     </regular>
     <admin>
-      <item>erzwinge 2FA &amp; Sicherheits-Härtung</item>
-      <item>automatische PDF-Konvertierung und Skript-Ausführung</item>
+      <item>Erzwingung von 2FA- und Sicherheits-Härtung</item>
+      <item>Automatische PDF-Konvertierung und Skript-Ausführung</item>
       <item>Aktualisiertes Dashboard, Volltextsuche und Gruppenordner</item>
     </admin>
   </whatsNew>

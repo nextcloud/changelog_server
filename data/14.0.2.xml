@@ -63,14 +63,14 @@
   </whatsNew>
   <whatsNew lang="de">
     <regular>
-      <item>Überarbeitete Datei-Upload-Verarbeitung</item>
-      <item>Die Kontakt-Menüs funktionieren bezüglich der Erwähnungen wieder</item>
+      <item>Die Handhabung beim Hochladen von Dateien wurde überarbeitet</item>
+      <item>Die Kontakt-Menüs bei Erwähnungen funktionieren wieder</item>
       <item>Detailverbesseruneg (z. B. mobile Ansicht)</item>
     </regular>
     <admin>
       <item>Der "Gruppe hinzufügen" Button auf dern Benutzerseite ist wieder vorhanden</item>
-      <item>In den Mail-Einstellungen ist der "Keine" auth Typ wieder vorhanden</item>
-      <item>Das unter bestimmten Bedingungen Dateien nicht verfügbar werden, wurde behoben</item>
+      <item>Der Authentifizierungstyp "Keine" in den E-Mail-Einstellungen ist wieder vorhanden</item>
+      <item>Das unter bestimmten Bedingungen Dateien nicht verfügbar waren, wurde behoben</item>
     </admin>
   </whatsNew>
   <whatsNew lang="de_DE">
@@ -82,7 +82,7 @@
     <admin>
       <item>Die Schaltfläche "Gruppe hinzufügen" auf der Benutzerseite ist wieder vorhanden</item>
       <item>Der Authentifizierungstyp "Keine" in den E-Mail-Einstellungen ist wieder vorhanden</item>
-      <item>Die nicht gegebene Verfügbarkeit von Dateien unter bestimmten Umständen wurde behoben</item>
+      <item>Das unter bestimmten Bedingungen Dateien nicht verfügbar waren, wurde behoben</item>
     </admin>
   </whatsNew>
   <whatsNew lang="el">
