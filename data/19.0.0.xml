@@ -70,7 +70,7 @@
     <admin>
       <item>Collabora Online kann ohne Docker oder Reverse Proxy installiert werden</item>
       <item>Passwortlose Authentifizierung und zusätzliche Passworteinstellungen eingeführt</item>
-      <item>Weise den von dir erstellten Gastkonten Gruppen zu (können an Gruppenadministratoren delegiert werden).</item>
+      <item>Weise den von dir erstellten Gastkonten Gruppen zu (kann an die Gruppenadministration delegiert werden).</item>
     </admin>
   </whatsNew>
   <whatsNew lang="de_DE">
