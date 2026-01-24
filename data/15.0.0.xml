@@ -241,6 +241,18 @@
       <item>Frissített irányítópult, teljes szöveges keresés és csoportmappák</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="id">
+    <regular>
+      <item>15.0.0-regular1-4298c406</item>
+      <item>15.0.0-regular2-f5b6406a</item>
+      <item>15.0.0-regular3-c0bce1aa</item>
+    </regular>
+    <admin>
+      <item>15.0.0-admin1-95e4d92c</item>
+      <item>15.0.0-admin2-ceff66bd</item>
+      <item>15.0.0-admin3-46d294d0</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="it">
     <regular>
       <item>Nextcloud Sociale e condivisioni con più collegamenti</item>

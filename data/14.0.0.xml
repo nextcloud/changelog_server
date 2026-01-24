@@ -241,6 +241,18 @@
       <item>Kerberos hitelesítés Sambához, több személyazonosság-szolgáltatós SAML</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="id">
+    <regular>
+      <item>14.0.0-regular1-e06eab9a</item>
+      <item>14.0.0-regular2-ca43ab35</item>
+      <item>14.0.0-regular3-969b1bee</item>
+    </regular>
+    <admin>
+      <item>14.0.0-admin1-af6c1504</item>
+      <item>14.0.0-admin2-c36c9acb</item>
+      <item>14.0.0-admin3-28cd5194</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="it">
     <regular>
       <item>Verifica il destinatario di una condivisione in una chiamata video; 2FA con Signal e Telegram</item>

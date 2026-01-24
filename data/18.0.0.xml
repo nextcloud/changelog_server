@@ -229,6 +229,18 @@
       <item>A Folyamat segítségével könnyedén automatizálhatja a feladatokat, védheti a fájlokat és feldolgozhatja a dokumentumokat</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="id">
+    <regular>
+      <item>18.0.0-regular1-fa4691df</item>
+      <item>18.0.0-regular2-4a3bc6c2</item>
+      <item>18.0.0-regular3-d0a07b44</item>
+    </regular>
+    <admin>
+      <item>18.0.0-admin1-4185657b</item>
+      <item>18.0.0-admin2-0532381a</item>
+      <item>18.0.0-admin3-f4e94ac3</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="it">
     <regular>
       <item>Le aree di lavoro ti consentono di aggiungere una descrizione sopra le tue cartelle</item>

@@ -229,6 +229,18 @@
       <item>Szokásos biztonsági, akadálymentesítési és teljesítménybeli fejlesztések</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="id">
+    <regular>
+      <item>20.0.0-regular1-e2eb742e</item>
+      <item>20.0.0-regular2-b2554482</item>
+      <item>20.0.0-regular3-602a5108</item>
+    </regular>
+    <admin>
+      <item>20.0.0-admin1-c243b75a</item>
+      <item>20.0.0-admin2-38212b7a</item>
+      <item>20.0.0-admin3-d544952a</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="it">
     <regular>
       <item>🏁 Il cruscotto offre un ottimo punto di partenza per la giornata</item>
