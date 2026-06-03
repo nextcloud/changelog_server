@@ -277,6 +277,18 @@
       <item>外部ストレージ用の変数(LDAPからの'$home'が利用されます)</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="lt_LT">
+    <regular>
+      <item>Išmanios failų ir bendrinamų gavėjų rekomendacijos</item>
+      <item>Projektai: grupiniai failai, pokalbiai, užduotys, kad būtų lengva rasti</item>
+      <item>Dešiniuoju pelės mygtuku spustelėkite Failuose, naujų dokumentų peržiūros programą ir kt.</item>
+    </regular>
+    <admin>
+      <item>Įtartinų prisijungimų aptikimas, pagrįstas mašininio mokymosi technologijomis</item>
+      <item>Prieigos kontrolės sąrašai grupės aplankuose</item>
+      <item>Išorinės saugyklos kintamieji (LDAP teikia „$home“)</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="nb">
     <regular>
       <item>Smarte anbefalinger for filer og delingsmottakere</item>

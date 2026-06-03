@@ -277,6 +277,18 @@
       <item>ダッシュボード、フルテキスト検索、グループフォルダーを更新</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="lt_LT">
+    <regular>
+      <item>„Nextcloud“ socialiniai tinklai ir dalijimasis keliomis nuorodomis</item>
+      <item>Naujas dizainas, tinklelio rodinys ir 2 kartus greitesnis failų įkėlimas</item>
+      <item>šoninė juosta su „Collabora Online“ ir „Pokalbiai“ šoninėje juostoje</item>
+    </regular>
+    <admin>
+      <item>2FA ir saugumo griežtinimo vykdymas</item>
+      <item>automatinis PDF konvertavimas ir scenarijų vykdymas</item>
+      <item>Atnaujintas Skydelis, Viso Teksto Paieška ir Grupių aplankai</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="nb">
     <regular>
       <item>Nextcloud Social og flere lenkedelinger</item>

@@ -277,6 +277,18 @@
       <item>S3バージョニング、IBM Spectrum Scale他</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="lt_LT">
+    <regular>
+      <item>Nuotolinių duomenų ištrynimas</item>
+      <item>Mūsų naujasis neblaškantis, bendradarbiaujantis raiškiojo teksto redaktorius</item>
+      <item>saugusis rodinys gauna priverstinius dokumentų vandenženklius</item>
+    </regular>
+    <admin>
+      <item>Dviejų veiksnių autentifikavimo nustatymas po pirmojo prisijungimo</item>
+      <item>LDAP rašymo palaikymas</item>
+      <item>S3 versijų valdymas, „IBM Spectrum Scale“ ir dar daugiau</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="nb">
     <regular>
       <item>Fjernsletting</item>

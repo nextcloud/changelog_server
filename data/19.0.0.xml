@@ -265,6 +265,18 @@
       <item>作成したゲストアカウントにグループを割り当てます（グループ管理者に委任できます）</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="lt_LT">
+    <regular>
+      <item>„Pokalbių“ 9-oje versijoje integruota dokumentų peržiūros ir redagavimo funkcija bei tinklelio vaizdas</item>
+      <item>„Krita“ / atidarytų dokumentų failų peržiūros pagal numatytuosius nustatymus</item>
+      <item>Daug našumo patobulinimų „Pokalbiai“ ir failų tvarkyme</item>
+    </regular>
+    <admin>
+      <item>„Collabora Online“ galima įdiegti be „Docker“ ar atvirkštinio tarpinio serverio</item>
+      <item>Įdiegtas autentifikavimas be slaptažodžio ir papildomi slaptažodžio nustatymai</item>
+      <item>Priskirkite grupes savo sukurtoms svečių paskyroms (galima deleguoti grupių administratoriams)</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="nb">
     <regular>
       <item>Samtale 9 integrerer visning/redigering av dokumenter og rutenettvisning</item>

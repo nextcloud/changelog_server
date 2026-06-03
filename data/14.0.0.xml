@@ -277,6 +277,18 @@
       <item>SambaへのKerberos認証。 マルチIdP SAML</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="lt_LT">
+    <regular>
+      <item>Bendrinimo gavėjo patvirtinimas vaizdo skambutyje; 2FA su „Signal“ ir „Telegram“</item>
+      <item>Pridėti pastabą prie bendrinamų elementų; išplėstiniai bendrinimo rodiniai; paieška pagal komentarus</item>
+      <item>Pritaikymo neįgaliesiems patobulinimai, įskaitant didelio kontrasto temą</item>
+    </regular>
+    <admin>
+      <item>Reikalinga PHP &gt;= 7.0, pakeistas žurnalo formatas, syslog žymė ir nginx konfigūracija</item>
+      <item>Pagerintas BDAR atitikimas naudojant programas; atskiras audito žurnalas</item>
+      <item>„Kerberos“ autentifikavimas „Samba“ sistemoje; SAML su keliais tapatybės teikėjais</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="nb">
     <regular>
       <item>Verifiser en delings-mottaker i en video-samtale; To-faktor autentisering ved hjelp av Signal og Telegram</item>

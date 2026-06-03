@@ -265,6 +265,18 @@
       <item>いつものセキュリティ、アクセシビリティ、パフォーマンスの向上</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="lt_LT">
+    <regular>
+      <item>🏁 Skydelis suteikia puikų atspirties tašką dienai</item>
+      <item>🔍 Vieninga paieška pateikia rezultatus iš programėlių ir išorinių šaltinių</item>
+      <item>🗨 „Pokalbiai“ pristatė sąsają su kitomis platformomis</item>
+    </regular>
+    <admin>
+      <item>Integracijos programėlės leidžia vartotojams pasiekti „Twitter“, „Jira“ ir kitus iš „Nextcloud“</item>
+      <item>„Eigos“ prideda pranešimus ir žiniatinklio kabliukus, kad būtų galima automatizuoti daugiau</item>
+      <item>Įprasti saugumo, prieinamumo ir našumo patobulinimai</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="nb">
     <regular>
       <item>🏁 Dashbord tilbyr et bra startpunkt</item>

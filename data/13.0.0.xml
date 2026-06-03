@@ -254,6 +254,17 @@
       <item>Theming：CSSファイルが統合されました</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="lt_LT">
+    <regular>
+      <item>Atnaujinta naudotojo sąsaja</item>
+      <item>Ištisinis šifravimas</item>
+      <item>Vaizdo ir teksto pokalbiai</item>
+    </regular>
+    <admin>
+      <item>Nginx konfigūracijos pakeitimai</item>
+      <item>Tematika: CSS failai buvo sujungti</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="nb">
     <regular>
       <item>Refinert brukergrensesnitt</item>

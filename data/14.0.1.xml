@@ -277,6 +277,18 @@
       <item>サーバー設定チェックで誤検出を解決しました。</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="lt_LT">
+    <regular>
+      <item>Keletas detalių patobulinimų vartotojo sąsajoje</item>
+      <item>pvz., šviesios piktogramos su tamsia tema</item>
+      <item>arba venkite persidengti pateikimo mygtuko komentaruose</item>
+    </regular>
+    <admin>
+      <item>Ištaisytos problemos, susijusios su neįprastais vartotojų ID</item>
+      <item>Ištaisytas atsijungimas nuo žiniatinklio naudojant OAuth</item>
+      <item>Ištaisyta klaidingai teigiama serverio sąrankos patikros klaida</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="nb">
     <regular>
       <item>Flere forbedringer i detaljer i brukergrensesnitt</item>
