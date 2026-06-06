@@ -166,7 +166,7 @@
     <admin>
       <item>Collabora Online can be installed without docker or reverse proxy</item>
       <item>Password-less authentication and additional password settings introduced</item>
-      <item>Assign groups to guest accounts you create (can be delegated to group admins)</item>
+      <item>19.0.0-admin3-c7db4528</item>
     </admin>
   </whatsNew>
   <whatsNew lang="fr">
