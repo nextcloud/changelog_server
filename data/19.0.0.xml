@@ -159,13 +159,13 @@
   </whatsNew>
   <whatsNew lang="fa">
     <regular>
-      <item>Talk 9 integrates document viewing/editing and a grid view</item>
-      <item>Previews for krita / open document files by default</item>
-      <item>Many performance improvements in Talk and file handling</item>
+      <item>Talk 9 مشاهده و ویرایش اسناد و نمای شبکه‌ای را یکپارچه می‌کند</item>
+      <item>پیش‌نمایش پرونده‌های krita و open document به‌صورت پیش‌فرض</item>
+      <item>بهبودهای فراوان در کارایی Talk و مدیریت پرونده‌ها</item>
     </regular>
     <admin>
-      <item>Collabora Online can be installed without docker or reverse proxy</item>
-      <item>Password-less authentication and additional password settings introduced</item>
+      <item>اکنون می‌توان Collabora Online را بدون docker یا پروکسی معکوس نصب کرد</item>
+      <item>احراز هویت بدون گذرواژه و تنظیمات گذرواژه‌ی بیشتری معرفی شد</item>
       <item>19.0.0-admin3-c7db4528</item>
     </admin>
   </whatsNew>

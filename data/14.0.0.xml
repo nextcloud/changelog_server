@@ -178,7 +178,7 @@
     <admin>
       <item>نیازمند PHP &gt; = 7.0 ، قالب ورود، پیکربندی برچسب syslog و nginx تغییر کرد</item>
       <item>بهبود انطباق GDPR از طریق برنامه ها. گزارش حسابرسی جداگانه</item>
-      <item>Kerberos auth to Samba; multi-IdP SAML</item>
+      <item>احراز هویت Kerberos برای Samba؛ SAML با پشتیبانی از چند IdP</item>
     </admin>
   </whatsNew>
   <whatsNew lang="fr">

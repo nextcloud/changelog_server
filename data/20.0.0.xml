@@ -159,14 +159,14 @@
   </whatsNew>
   <whatsNew lang="fa">
     <regular>
-      <item>🏁 Dashboard provides a great starting point for the day</item>
-      <item>🔍 Unified search brings results from apps and external sources</item>
-      <item>🗨 Talk introduced bridging to other platforms</item>
+      <item>🏁 داشبورد نقطه‌ی شروع عالی برای روز فراهم می‌کند</item>
+      <item>🔍 جستجوی یکپارچه نتایج را از برنامه‌ها و منابع بیرونی گرد می‌آورد</item>
+      <item>🗨 Talk امکان پل زدن به سایر پلتفرم‌ها را معرفی کرد</item>
     </regular>
     <admin>
-      <item>Integration apps allow users to access twitter, Jira and others from Nextcloud</item>
-      <item>Flow adds notifications and web hooks for more automation</item>
-      <item>Usual security, accessibility and performance improvements</item>
+      <item>برنامه‌های یکپارچه‌سازی به کاربران امکان می‌دهند از داخل Nextcloud به Twitter، Jira و دیگر سرویس‌ها دسترسی داشته باشند</item>
+      <item>Flow با افزودن اعلان‌ها و وب‌هوک‌ها خودکارسازی بیشتری فراهم می‌کند</item>
+      <item>بهبودهای همیشگی در امنیت، دسترس‌پذیری و کارایی</item>
     </admin>
   </whatsNew>
   <whatsNew lang="fr">
