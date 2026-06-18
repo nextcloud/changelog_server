@@ -171,14 +171,14 @@
   </whatsNew>
   <whatsNew lang="fa">
     <regular>
-      <item>توصیه های هوشمند برای پرونده ها، گیرندگان را به اشتراک بگذارید</item>
-      <item>پروژه ها: پوشه های گروهی، گفتگوها، کارهایی برای یافتن آسان</item>
-      <item>کلیک راست بر روی فایل ها، نمایشگر اسناد جدید و موارد دیگر</item>
+      <item>16.0.0-regular1-add70d18</item>
+      <item>16.0.0-regular2-2161378c</item>
+      <item>16.0.0-regular3-646fa355</item>
     </regular>
     <admin>
-      <item>تشخیص ورود مشکوک توان ماشین یادگیری</item>
-      <item>کنترل لیست های دسترسی به مجموعه پوشه ها</item>
-      <item>متغیرهایی برای ذخیره سازی خارجی (LDAP "خانه $" را فراهم می کند)</item>
+      <item>16.0.0-admin1-694e294c</item>
+      <item>16.0.0-admin2-978954da</item>
+      <item>16.0.0-admin3-71fec2f7</item>
     </admin>
   </whatsNew>
   <whatsNew lang="fr">

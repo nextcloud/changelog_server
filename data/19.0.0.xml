@@ -159,13 +159,13 @@
   </whatsNew>
   <whatsNew lang="fa">
     <regular>
-      <item>Talk 9 مشاهده و ویرایش اسناد و نمای شبکه‌ای را یکپارچه می‌کند</item>
-      <item>پیش‌نمایش پرونده‌های krita و open document به‌صورت پیش‌فرض</item>
-      <item>بهبودهای فراوان در کارایی Talk و مدیریت پرونده‌ها</item>
+      <item>19.0.0-regular1-1cbd7afb</item>
+      <item>19.0.0-regular2-5314a395</item>
+      <item>19.0.0-regular3-72e34474</item>
     </regular>
     <admin>
-      <item>اکنون می‌توان Collabora Online را بدون docker یا پروکسی معکوس نصب کرد</item>
-      <item>احراز هویت بدون گذرواژه و تنظیمات گذرواژه‌ی بیشتری معرفی شد</item>
+      <item>19.0.0-admin1-5b8b1abc</item>
+      <item>19.0.0-admin2-e2829f49</item>
       <item>19.0.0-admin3-c7db4528</item>
     </admin>
   </whatsNew>

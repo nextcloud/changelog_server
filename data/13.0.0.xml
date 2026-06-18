@@ -157,13 +157,13 @@
   </whatsNew>
   <whatsNew lang="fa">
     <regular>
-      <item>رابط کاربری تصفیه شده</item>
-      <item>رمزگذاری سرتاسری</item>
-      <item>چت تصویری و متنی</item>
+      <item>13.0.0-regular1-0b97ed05</item>
+      <item>13.0.0-regular2-cbf33a3d</item>
+      <item>13.0.0-regular3-01dc5160</item>
     </regular>
     <admin>
-      <item>تغییر در پیکربندی Nginx</item>
-      <item>مضمون: پرونده های CSS تلفیق شدند</item>
+      <item>13.0.0-admin1-3b592a47</item>
+      <item>13.0.0-admin2-ed8aa6a3</item>
     </admin>
   </whatsNew>
   <whatsNew lang="fr">

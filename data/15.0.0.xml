@@ -171,14 +171,14 @@
   </whatsNew>
   <whatsNew lang="fa">
     <regular>
-      <item>شبکه اجتماعی و اشتراک لینک‌های چندگانه Nextcloud </item>
-      <item>طراحی جدید، نمای شبکه و بارگذاری فایل‌ها با سرعت 2 برابر</item>
-      <item>نوار کناری با مشارکت آنلاین و مبادله نوار کناری</item>
+      <item>15.0.0-regular1-4298c406</item>
+      <item>15.0.0-regular2-f5b6406a</item>
+      <item>15.0.0-regular3-c0bce1aa</item>
     </regular>
     <admin>
-      <item>اجرای 2FA و سختی های امنیتی</item>
-      <item>تبدیل خودکار PDF و اجرای اسکریپت</item>
-      <item>بروزرسانی داشبورد، جستجوی کامل متن و مجموعه پوشه‌ها</item>
+      <item>15.0.0-admin1-95e4d92c</item>
+      <item>15.0.0-admin2-ceff66bd</item>
+      <item>15.0.0-admin3-46d294d0</item>
     </admin>
   </whatsNew>
   <whatsNew lang="fr">

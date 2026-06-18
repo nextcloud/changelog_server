@@ -159,14 +159,14 @@
   </whatsNew>
   <whatsNew lang="fa">
     <regular>
-      <item>🏁 داشبورد نقطه‌ی شروع عالی برای روز فراهم می‌کند</item>
-      <item>🔍 جستجوی یکپارچه نتایج را از برنامه‌ها و منابع بیرونی گرد می‌آورد</item>
-      <item>🗨 Talk امکان پل زدن به سایر پلتفرم‌ها را معرفی کرد</item>
+      <item>20.0.0-regular1-e2eb742e</item>
+      <item>20.0.0-regular2-b2554482</item>
+      <item>20.0.0-regular3-602a5108</item>
     </regular>
     <admin>
-      <item>برنامه‌های یکپارچه‌سازی به کاربران امکان می‌دهند از داخل Nextcloud به Twitter، Jira و دیگر سرویس‌ها دسترسی داشته باشند</item>
-      <item>Flow با افزودن اعلان‌ها و وب‌هوک‌ها خودکارسازی بیشتری فراهم می‌کند</item>
-      <item>بهبودهای همیشگی در امنیت، دسترس‌پذیری و کارایی</item>
+      <item>20.0.0-admin1-c243b75a</item>
+      <item>20.0.0-admin2-38212b7a</item>
+      <item>20.0.0-admin3-d544952a</item>
     </admin>
   </whatsNew>
   <whatsNew lang="fr">

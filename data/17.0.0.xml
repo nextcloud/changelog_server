@@ -171,14 +171,14 @@
   </whatsNew>
   <whatsNew lang="fa">
     <regular>
-      <item>پاک کردن از راه دور</item>
-      <item>ویرایشگر بدون پریشانی جدید و مشترک متن غنی</item>
-      <item>در حالت «نمایش امن» فایل ها و سندها واترمارک اجباری دارند</item>
+      <item>17.0.0-regular1-3cc72639</item>
+      <item>17.0.0-regular2-582ed3b7</item>
+      <item>17.0.0-regular3-498431c9</item>
     </regular>
     <admin>
-      <item>در اولین ورود به سیستم، تأیید هویت دو عاملی را تنظیم کنید</item>
-      <item>پشتیبانی نوشته LDAP</item>
-      <item>نسخه S3 ، مقیاس طیف IBM و موارد دیگر</item>
+      <item>17.0.0-admin1-484a69c9</item>
+      <item>17.0.0-admin2-fa448241</item>
+      <item>17.0.0-admin3-874535a8</item>
     </admin>
   </whatsNew>
   <whatsNew lang="fr">
