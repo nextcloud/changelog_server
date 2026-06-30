@@ -61,6 +61,18 @@
       <item>Aktualizovány aplikace Nástěnka, Plnotextové vyhledávání a Skupinové složky</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="da">
+    <regular>
+      <item>Nextcloud Social &amp; flere link aktier</item>
+      <item>Nyt design, gitter visning &amp; 2x hurtigere indlæsning af filer</item>
+      <item>sidebar med Collabora Online &amp; Tal i sidebar</item>
+    </regular>
+    <admin>
+      <item>håndhævelse af 2FA &amp; sikkerhedsskader</item>
+      <item>automatisk PDF konvertering &amp; script udførelse</item>
+      <item>Opdateret Dashboard, fuld tekst søgning &amp; gruppe mapper</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="de">
     <regular>
       <item>Nextcloud Sozial &amp; Mehrfach-Linkfreigaben</item>

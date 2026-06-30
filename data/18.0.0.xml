@@ -61,6 +61,18 @@
       <item>Flow vám umožňuje jednoduše automatizovat úkoly, chránit soubory a zpracovávat dokumenty</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="da">
+    <regular>
+      <item>Arbejdsområder lader dig tilføje en beskrivelse over dine mapper</item>
+      <item>Fil låsning forhindrer konflikter redigering delte filer med andre</item>
+      <item>Flow lader dig automatisere gentagne, kedelige opgaver</item>
+    </regular>
+    <admin>
+      <item>ONLYOffice kan installeres uden docker eller omvendt proxy</item>
+      <item>Kalender, Mail og Talk omskriver bringe mange nye forbedringer</item>
+      <item>Flow lader dig nemt automatisere opgaver, beskytte filer og procesdokumenter</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="de">
     <regular>
       <item>In Arbeitsbereichen kann Ordnern eine Beschreibung hinzugefügt werden</item>

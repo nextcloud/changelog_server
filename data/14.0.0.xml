@@ -61,6 +61,18 @@
       <item>Kerberos ověřování do Samba; multi-IdP SAML</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="da">
+    <regular>
+      <item>Verificer modtager af en deling i et video opkald; 2FA med Signal &amp; Telegram</item>
+      <item>Tilføj note til delinger; udvidet delings visning; søg i kommentarer</item>
+      <item>Tilgængelighed forbedringer, herunder høj kontrast tema</item>
+    </regular>
+    <admin>
+      <item>Kræver PHP &gt;=7.0, log formate, syslog tag &amp; nginx konfiguration ændret</item>
+      <item>Forbedret GDPR efterlevelse med apps; særskilt audit log</item>
+      <item>Kerberos auth til Samba; multi-IDP SAML</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="de">
     <regular>
       <item>Überprüfung des Freigabe-Empfängers im Videochat; 2FA über Signal &amp; Telegram</item>

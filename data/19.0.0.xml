@@ -61,6 +61,18 @@
       <item>Účty hostů, které vytváříte, je možné přiřazovat do skupin (úlohu je možné delegovat na správce skupin)</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="da">
+    <regular>
+      <item>Tal 9 integrerer dokumentvisning / redigering og en gittervisning</item>
+      <item>Forhåndsvisninger for krita / åbne dokumentfiler som standard</item>
+      <item>Mange præstationsforbedringer i talk og filhåndtering</item>
+    </regular>
+    <admin>
+      <item>Samarbejde Online kan installeres uden docker eller omvendt proxy</item>
+      <item>Password- less autentification og yderligere kodeord indstillinger indført</item>
+      <item>Tildel grupper til gæstekonti, du opretter (kan uddelegeres til gruppsadministratorer)</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="de">
     <regular>
       <item>Talk 9 integriert die Anzeige/Bearbeitung von Dokumenten sowie eine Rasteransicht</item>

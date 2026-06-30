@@ -56,6 +56,17 @@
       <item>Opatřování vzhledem: CSS soubory byly konsolidovány</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="da">
+    <regular>
+      <item>Forbedret brugerflade</item>
+      <item>End-to-end kryptering</item>
+      <item>Video og tekst chat</item>
+    </regular>
+    <admin>
+      <item>Ændringer til Nginx opsætningen</item>
+      <item>Tema: CSS filer er blevet konsolideret</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="de">
     <regular>
       <item>Verfeinerte Benutzeroberfläche</item>

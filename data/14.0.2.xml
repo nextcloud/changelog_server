@@ -61,6 +61,18 @@
       <item>Opravena nedostupnost souborů, projevující se za některých okolností</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="da">
+    <regular>
+      <item>Revideret fil uploadhåndtering</item>
+      <item>Kontaktmenuer på omtaler virker igen</item>
+      <item>Detaljeforbedringer (f.eks. mobil filvisning)</item>
+    </regular>
+    <admin>
+      <item>"Tilføj gruppe" knappen på brugerens side er tilbage</item>
+      <item>"Ingen" auth type tilgængelig igen i mail indstillinger</item>
+      <item>Faste utilgængelige filer under visse betingelser</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="de">
     <regular>
       <item>Die Handhabung beim Hochladen von Dateien wurde überarbeitet</item>

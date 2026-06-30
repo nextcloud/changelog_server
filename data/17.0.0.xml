@@ -61,6 +61,18 @@
       <item>Správa verzí v rámci S3 úložišť, podpora pro IBM Spectrum Scale a další</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="da">
+    <regular>
+      <item>Fjernbetjening</item>
+      <item>Vores nye distraction- free, kollaborative rige tekst editor</item>
+      <item>sikker visning gevinster eksigible dokument vandmærker</item>
+    </regular>
+    <admin>
+      <item>Opsætning af tofaktorgodkendelse efter første login</item>
+      <item>LDAP- skriveunderstøttelse</item>
+      <item>S3 versioning, IBM Spectrum Scale &amp; mere</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="de">
     <regular>
       <item>Fernlöschung</item>

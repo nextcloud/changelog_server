@@ -61,6 +61,18 @@
       <item>Vyřešen falešný poplach při kontrole nastavení serveru</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="da">
+    <regular>
+      <item>Flere detaljer forbedringer i brugergrænsefladen</item>
+      <item>f.eks. lysikoner med det mørke tema</item>
+      <item>eller undgå at overlappe indsendelsesknappen i kommentarer</item>
+    </regular>
+    <admin>
+      <item>Behandlede problemer med ualmindelige bruger-id 'er</item>
+      <item>Fast weblogout ved brug af OAuth</item>
+      <item>Løs falsk positiv i serveropsætningscheck</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="de">
     <regular>
       <item>Diverse Detailverbesserungen in der Benutzeroberfläche</item>

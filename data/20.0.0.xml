@@ -61,6 +61,18 @@
       <item>Obvyklá vylepšení zabezpečení, přístupnosti a výkonnosti</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="da">
+    <regular>
+      <item>Dashboard giver et fantastisk udgangspunkt for dagen</item>
+      <item>Ensartet søgning bringer resultater fra apps og eksterne kilder</item>
+      <item>Talk indført bro til andre platforme</item>
+    </regular>
+    <admin>
+      <item>Integration apps giver brugerne mulighed for at få adgang twitter, Jira og andre fra Nextcloud</item>
+      <item>Flow tilføjer meddelelser og web kroge for mere automatisering</item>
+      <item>Sædvanlig sikkerhed, tilgængelighed og præstationsforbedringer</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="de">
     <regular>
       <item>🏁 Das Dashboard bietet einen hervorragenden Ausgangspunkt für den Tag</item>

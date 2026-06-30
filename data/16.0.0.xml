@@ -61,6 +61,18 @@
       <item>Proměnné pro externí úložiště (LDAP poskytuje „$home“)</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="da">
+    <regular>
+      <item>Smart anbefalinger til filer, del modtagere</item>
+      <item>Projekter: gruppefiler, chats, opgaver for nem at finde</item>
+      <item>højreklik i Filer, nyt dokument viser &amp; mere</item>
+    </regular>
+    <admin>
+      <item>Maskin- learning drevet mistænkelige login opdagelse</item>
+      <item>Adgangskontrollister i gruppemapper</item>
+      <item>Variabler til ekstern opbevaring (LDAP giver '$home')</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="de">
     <regular>
       <item>Intelligente Empfehlungen für Dateien und Empfänger von Freigaben</item>
