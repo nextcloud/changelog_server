@@ -349,6 +349,18 @@
       <item>Resolvido falso positivo na verificação de configuração do servidor</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="pt_PT">
+    <regular>
+      <item>Diversas melhorias em detalhes da interface do usuário</item>
+      <item>e.g. light icons with the dark theme</item>
+      <item>ou evitar a sobreposição do botão de envio nos comentários</item>
+    </regular>
+    <admin>
+      <item>Treated issues with uncommon user IDs</item>
+      <item>Resolvido o logout da Web por OAuth</item>
+      <item>Resolved false positive in server setup check</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="ru">
     <regular>
       <item>Некоторые улучшения в пользовательском интерфейсе:</item>

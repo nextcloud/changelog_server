@@ -320,6 +320,17 @@
       <item>Themas: arquivos CSS foram consolidados</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="pt_PT">
+    <regular>
+      <item>Interface do utilizador aperfeiçoada</item>
+      <item>Encriptação Ponto-a-Ponto</item>
+      <item>Bate-papo por vídeo e texto</item>
+    </regular>
+    <admin>
+      <item>Alterações na configuração do Nginx</item>
+      <item>Temas: os ficheiros CSS foram consolidados</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="ru">
     <regular>
       <item>Улучшенный пользовательский интерфейс;</item>

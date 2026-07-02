@@ -337,6 +337,18 @@
       <item>O Flow permite automatizar tarefas com facilidade, proteger arquivos e processar documentos</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="pt_PT">
+    <regular>
+      <item>Workspaces lets you add a description above your folders</item>
+      <item>O trancamento de arquivos evita conflitos ao editar arquivos compartilhados com outras pessoas</item>
+      <item>O Flow permite automatizar tarefas repetitivas e chatas</item>
+    </regular>
+    <admin>
+      <item>ONLYOFFICE pode ser instalado sem docker ou proxy reverso</item>
+      <item>A reescrita do Calendário, Correio e Conversa trazem muitas novas melhorias</item>
+      <item>O Flow permite automatizar tarefas com facilidade, proteger arquivos e processar documentos</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="ru">
     <regular>
       <item>Показ дополнительных сведений в приложении Файлы позволяет создавать дополнительные описания папок;</item>

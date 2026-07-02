@@ -349,6 +349,18 @@
       <item>Painel Atualizado, Pesquisa de Texto Completo e Pastas de Grupo</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="pt_PT">
+    <regular>
+      <item>Nextcloud Social &amp; multiple link shares</item>
+      <item>Novo design, visualização em grade e carregamento de arquivos 2x mais rápido</item>
+      <item>sidebar with Collabora Online &amp; Talk in sidebar</item>
+    </regular>
+    <admin>
+      <item>aplicação de hardies 2FA e de segurança</item>
+      <item>conversão automática de PDF e execução de scripts</item>
+      <item>Painel Atualizado, Pesquisa de Texto Completo e Pastas de Grupo</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="ru">
     <regular>
       <item>Публикация в социальных сетях и возможность создавать различные ссылки для публикации одного и того же ресурса;</item>

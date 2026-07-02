@@ -349,6 +349,18 @@
       <item>Autenticação Kerberos ao Samba; multi-IdP SAML</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="pt_PT">
+    <regular>
+      <item>Verify a share recipient in a video call; 2FA with Signal &amp; Telegram</item>
+      <item>Adicione uma nota aos compartilhamentos; tenha visualizações estendidas; pesquise por comentários</item>
+      <item>Melhorias de acessibilidade, incluindo tema de alto contraste</item>
+    </regular>
+    <admin>
+      <item>Requer PHP&gt; = 7.0, log, rótulo syslog &amp; config nginx alterado</item>
+      <item>Improved GDPR compliance through apps; separate audit log</item>
+      <item>Autenticação Kerberos ao Samba; multi-IdP SAML</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="ru">
     <regular>
       <item>Проверка подлинности получателя общего ресурса с помощью видеовызова; Использование мессенджеров Signal и Telegram для двухфакторной авторизации;</item>

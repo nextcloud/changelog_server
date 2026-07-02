@@ -337,6 +337,18 @@
       <item>Atribuir grupos a contas de convidados que você criar (pode ser delegado a administradores de grupo)</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="pt_PT">
+    <regular>
+      <item>Talk 9 integra visualização/edição de documentos e visualização em grade</item>
+      <item>Pre-visualizações para krita / arquivos de documentos abertos por padrão</item>
+      <item>Many performance improvements in Talk and file handling</item>
+    </regular>
+    <admin>
+      <item>Collabora Online can be installed without docker or reverse proxy</item>
+      <item>Autenticação sem senha e configurações de senha adicionais introduzidas</item>
+      <item>Atribuir grupos a contas de convidados que você criar (pode ser delegado a administradores de grupo)</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="ru">
     <regular>
       <item>В приложение Talk версии 9 встроена функция просмотра и редактирования документов и режим просмотра сеткой;</item>

@@ -349,6 +349,18 @@
       <item>Variáveis para armazenamento externo (o LDAP fornece '$home')</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="pt_PT">
+    <regular>
+      <item>Recomendações inteligentes para arquivos, compartilhe destinatários</item>
+      <item>Projetos: arquivos de grupo, bate-papos, tarefas para facilitar a busca</item>
+      <item>right-click in Files, new document viewer &amp; more</item>
+    </regular>
+    <admin>
+      <item>Detecção de login suspeito acionada pelo aprendizado automatizado</item>
+      <item>Listas de Controle de Acesso em Groupfolders</item>
+      <item>Variáveis para armazenamento externo (o LDAP fornece '$home')</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="ru">
     <regular>
       <item>Умные рекомендации для файлов и получателей общих ресурсов </item>

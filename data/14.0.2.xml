@@ -349,6 +349,18 @@
       <item>Corrigidos arquivos indisponíveis sob algumas condições</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="pt_PT">
+    <regular>
+      <item>Manipulação de upload de arquivo revisado</item>
+      <item>Menus de contato em menções funcionam novamente</item>
+      <item>Detail improvements (e.g. mobile file view)</item>
+    </regular>
+    <admin>
+      <item>O botão "Adicionar grupo" na página de usuários está de volta</item>
+      <item>"None" auth type available again in mail settings</item>
+      <item>Fixed unavailable files under some conditions</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="ru">
     <regular>
       <item>Перепроверены процедуры обработки загружаемых файлов;</item>

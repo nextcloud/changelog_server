@@ -349,6 +349,18 @@
       <item>Versão S3, IBM Spectrum Scale e mais</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="pt_PT">
+    <regular>
+      <item>Limpeza remota</item>
+      <item>Our new distraction-free, collaborative rich text editor</item>
+      <item>visualização segura obtém marcas d'água de documentos aplicáveis</item>
+    </regular>
+    <admin>
+      <item>Configurar autenticação de dois fatores após o primeiro login</item>
+      <item>Suporte à escrita LDAP</item>
+      <item>S3 versioning, IBM Spectrum Scale &amp; more</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="ru">
     <regular>
       <item>Поддержка принудительного стирания файлов с устройств;</item>

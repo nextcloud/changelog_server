@@ -337,6 +337,18 @@
       <item>Melhorias usuais de segurança, acessibilidade e desempenho</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="pt_PT">
+    <regular>
+      <item>🏁 O Painel oferece um excelente ponto de partida para o dia</item>
+      <item>🔍 A pesquisa unificada traz resultados de aplicativos e fontes externas</item>
+      <item>🗨 Talk introduziu comunicação com outras plataformas</item>
+    </regular>
+    <admin>
+      <item>Integration apps allow users to access twitter, Jira and others from Nextcloud</item>
+      <item>O Fluxo adiciona notificações e web hooks para maior automação</item>
+      <item>Melhorias usuais de segurança, acessibilidade e desempenho</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="ru">
     <regular>
       <item>Новая начальная страница 🏁 в панели управления;</item>
