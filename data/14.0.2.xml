@@ -353,11 +353,11 @@
     <regular>
       <item>Manipulação de upload de arquivo revisado</item>
       <item>Menus de contato em menções funcionam novamente</item>
-      <item>Detail improvements (e.g. mobile file view)</item>
+      <item>Melhorias nos detalhes (p. ex., visualização de arquivos móveis)</item>
     </regular>
     <admin>
       <item>O botão "Adicionar grupo" na página de usuários está de volta</item>
-      <item>"None" auth type available again in mail settings</item>
+      <item>Tipo de autenticação "Nenhum" disponível novamente nas configurações de e-mail</item>
       <item>Fixed unavailable files under some conditions</item>
     </admin>
   </whatsNew>

@@ -341,10 +341,10 @@
     <regular>
       <item>Talk 9 integra visualização/edição de documentos e visualização em grade</item>
       <item>Pre-visualizações para krita / arquivos de documentos abertos por padrão</item>
-      <item>Many performance improvements in Talk and file handling</item>
+      <item>Muitas melhorias de desempenho no Talk e tratamento de arquivos</item>
     </regular>
     <admin>
-      <item>Collabora Online can be installed without docker or reverse proxy</item>
+      <item>Collabora Online pode ser instalado sem docker ou proxy reverso</item>
       <item>Autenticação sem senha e configurações de senha adicionais introduzidas</item>
       <item>Atribuir grupos a contas de convidados que você criar (pode ser delegado a administradores de grupo)</item>
     </admin>
