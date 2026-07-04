@@ -356,7 +356,7 @@
       <item>ou evitar a sobreposição do botão de envio nos comentários</item>
     </regular>
     <admin>
-      <item>Treated issues with uncommon user IDs</item>
+      <item>Problemas tratados com IDs de usuário incomuns</item>
       <item>Resolvido o logout da Web por OAuth</item>
       <item>Resolved false positive in server setup check</item>
     </admin>

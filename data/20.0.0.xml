@@ -344,7 +344,7 @@
       <item>🗨 Talk introduziu comunicação com outras plataformas</item>
     </regular>
     <admin>
-      <item>Integration apps allow users to access twitter, Jira and others from Nextcloud</item>
+      <item>Os aplicativos de integração permitem que os usuários acessem o Twitter, o Jira e outros serviços a partir do Nextcloud</item>
       <item>O Fluxo adiciona notificações e web hooks para maior automação</item>
       <item>Melhorias usuais de segurança, acessibilidade e desempenho</item>
     </admin>

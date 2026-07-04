@@ -358,7 +358,7 @@
     <admin>
       <item>O botão "Adicionar grupo" na página de usuários está de volta</item>
       <item>Tipo de autenticação "Nenhum" disponível novamente nas configurações de e-mail</item>
-      <item>Fixed unavailable files under some conditions</item>
+      <item>Corrigidos arquivos indisponíveis sob algumas condições</item>
     </admin>
   </whatsNew>
   <whatsNew lang="ru">
