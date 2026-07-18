@@ -428,9 +428,9 @@
       <item>eller undvik att överlappa knappen skicka i kommentarer</item>
     </regular>
     <admin>
-      <item>Behandlade problem med ovanliga användar-ID</item>
-      <item>Rättad webbutloggning vid OAuth användning</item>
-      <item>Löst falskt positiv i serverinställningskontrollen</item>
+      <item>Åtgärdade problem med ovanliga användar-ID:n</item>
+      <item>Korrigerad webbutloggning vid OAuth-användning</item>
+      <item>Åtgärdade falskt positivt resultat i kontrollen av serverinställningar</item>
     </admin>
   </whatsNew>
   <whatsNew lang="sw">

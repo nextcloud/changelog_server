@@ -423,13 +423,13 @@
   </whatsNew>
   <whatsNew lang="sv">
     <regular>
-      <item>Nextcloud Social &amp; flera länkdelningar</item>
+      <item>Nextcloud Social och flera länkdelningar</item>
       <item>New design, grid view &amp; 2x faster loading of Files</item>
-      <item>sidofält med Collabora Online &amp; Talk i sidofältet</item>
+      <item>Sidofält med Collabora Online och Talk</item>
     </regular>
     <admin>
-      <item>framtvingande av 2FA &amp; säkerhetshöjningar</item>
-      <item>automatisk PDF konvertering &amp; skript körning</item>
+      <item>Framtvingande av tvåfaktorsautentisering och säkerhetsförbättringar</item>
+      <item>Automatisk PDF-konvertering och skriptkörning</item>
       <item>Uppdaterad Dashboard, fulltextsökning och gruppmappar</item>
     </admin>
   </whatsNew>

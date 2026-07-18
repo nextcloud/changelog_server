@@ -425,11 +425,11 @@
     <regular>
       <item>Reviderad hantering av filuppladdning</item>
       <item>Kontaktmenyer vid omnämnanden fungerar igen</item>
-      <item>Detaljförbättringar (t.ex. filvisning mobilt)</item>
+      <item>Detaljförbättringar, till exempel mobil filvisning</item>
     </regular>
     <admin>
       <item>Knappen "Lägg till grupp" på användarsidan är tillbaka</item>
-      <item>"Inga"-auth-typ tillgänglig igen i postinställningar</item>
+      <item>Autentiseringstypen ”Ingen” är åter tillgänglig i e-postinställningarna</item>
       <item>Rättade otillgängliga filer under vissa förhållanden</item>
     </admin>
   </whatsNew>

@@ -423,14 +423,14 @@
   </whatsNew>
   <whatsNew lang="sv">
     <regular>
-      <item>Verifiera en delmottagare i ett videosamtal; 2FA med Signal &amp; Telegram</item>
+      <item>Verifiera enskilda mottagare i ett videosamtal; tvåfaktorsautentisering med Signal och Telegram</item>
       <item>Lägg till en anteckning i delningar; utökade delningsvisningar; sök efter kommentarer</item>
       <item>Tillgänglighetsförbättringar inklusive temat med hög kontrast</item>
     </regular>
     <admin>
-      <item>Kräver PHP &gt;= 7.0, loggformat, syslog-tagg &amp; nginx-konfiguration förändrades</item>
-      <item>Förbättrad GDPR-överensstämmelse via appar; separat granskningslogg</item>
-      <item>Kerberos-auth till Samba, multi-IdP SAML</item>
+      <item>Kräver PHP ≥ 7.0; loggformat, sysloggtagg och Nginx-konfiguration har ändrats</item>
+      <item>Förbättrad GDPR-efterlevnad via appar; separat granskningslogg</item>
+      <item>Kerberos-autentisering mot Samba och SAML med flera identitetsleverantörer</item>
     </admin>
   </whatsNew>
   <whatsNew lang="sw">
