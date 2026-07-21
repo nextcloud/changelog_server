@@ -409,6 +409,18 @@
       <item>Flow Вам дозвољава да лако аутоматизујете задатке, заштитие фајлове и обрађујете документа</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="sv">
+    <regular>
+      <item>Nextcloud Hub samlar Filer, Talk, Grupprogram och Office</item>
+      <item>Ny Bilder-app och förbättrat samarbete i dokument</item>
+      <item>Förbättrade arbetsflöden, sökning och kommunikation</item>
+    </regular>
+    <admin>
+      <item>ONLYOFFICE kan installeras utan Docker eller omvänd proxy</item>
+      <item>Omskrivna versioner av Kalender, Mail och Talk ger många nya förbättringar</item>
+      <item>Enklare apphantering med uppdatering av alla appar samtidigt</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="sw">
     <regular>
       <item>Nafasi za kazi hukuwezesha kuongeza maelezo juu ya folda zako</item>

@@ -409,6 +409,18 @@
       <item>Уобичајена побољшања безбедности, приступачности и перформанси</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="sv">
+    <regular>
+      <item>🏁 Den nya instrumentpanelen samlar dagens viktigaste information</item>
+      <item>🔍 Enhetlig sökning ger resultat från appar och externa källor</item>
+      <item>🗨 Talk kopplar samman Nextcloud med Teams, Slack, Matrix och fler tjänster</item>
+    </regular>
+    <admin>
+      <item>Ny instrumentpanel med widgets från Nextcloud och externa tjänster</item>
+      <item>Enklare administration och bättre integrering med externa plattformar</item>
+      <item>Samordnade aviseringar och aktiviteter samt användarstatus</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="sw">
     <regular>
       <item>🏁 Dashibodi hutoa mahali pazuri pa kuanzia kwa siku</item>

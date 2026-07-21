@@ -409,6 +409,18 @@
       <item>Доделите групе гост налозима које креирате (може да се делегира групи админа)</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="sv">
+    <regular>
+      <item>Talk 9 med inbyggd dokumentredigering och rutnätsvy</item>
+      <item>Deck-integrering i Kalender och bättre distanssamarbete</item>
+      <item>Gästgrupper och förbättrad delning för team</item>
+    </regular>
+    <admin>
+      <item>Lösenordsfri inloggning och förstärkta säkerhetsfunktioner</item>
+      <item>Förbättrad prestanda och lägre belastning på servern</item>
+      <item>Automatisk utloggning, kontolåsning och bättre säkerhetskontroller</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="sw">
     <regular>
       <item>Talk 9 huunganisha utazamaji/uhariri wa hati na mwonekano wa gridi</item>

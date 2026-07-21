@@ -421,6 +421,18 @@
       <item>Променљиве за спољашње складиште (LDAP  обезбеђује '$home')</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="sv">
+    <regular>
+      <item>Projektvyer samlar filer, chattar och andra relaterade resurser</item>
+      <item>Talk 6 med kommandon och förbättrad användarupplevelse</item>
+      <item>Högerklick i Filer, ny dokumentvy med mera</item>
+    </regular>
+    <admin>
+      <item>Maskininlärningsbaserad säkerhet och smartare rekommendationer</item>
+      <item>Behörighetslista i Gruppmappar</item>
+      <item>Projekt kopplar samman relaterade resurser mellan appar</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="sw">
     <regular>
       <item>Mapendekezo mahiri kwa faili, shiriki wapokeaji</item>

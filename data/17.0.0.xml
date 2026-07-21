@@ -421,6 +421,18 @@
       <item>S3 верзионисање, IBM Spectrum Scale &amp; јш</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="sv">
+    <regular>
+      <item>Samarbetsredigering med den nya textredigeraren Nextcloud Text</item>
+      <item>Förbättrade Kalender-, Mail- och Talk-appar</item>
+      <item>Modernare gränssnitt och bättre delning och samarbete</item>
+    </regular>
+    <admin>
+      <item>Konfigurera tvåfaktorsautentisering efter den första inloggningen</item>
+      <item>Fjärradering av data på borttappade eller stulna enheter</item>
+      <item>Säkra visningar och vattenstämplar skyddar känsliga dokument</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="sw">
     <regular>
       <item>Kufuta kwa mbali</item>
