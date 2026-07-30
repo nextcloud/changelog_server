@@ -281,12 +281,12 @@
     <regular>
       <item>Darbo sričių funkcija leidžia pridėti aprašymą virš aplankų</item>
       <item>Failų užrakinimas apsaugo nuo konfliktų redaguojant bendrinamus failus su kitais</item>
-      <item>„Eigos“ leidžia automatizuoti pasikartojančias, nuobodžias užduotis</item>
+      <item>„Eiga“ leidžia automatizuoti pasikartojančias, nuobodžias užduotis</item>
     </regular>
     <admin>
       <item>ONLYOFFICE galima įdiegti be „Docker“ arba atvirkštinio tarpinio serverio</item>
-      <item>Kalendoriaus, pašto ir pokalbių perrašymai atneša daug naujų patobulinimų</item>
-      <item>„Eigos“ leidžia lengvai automatizuoti užduotis, apsaugoti failus ir apdoroti dokumentus</item>
+      <item>„Kalendorius“, „Paštas“ ir „Pokalbiai“ perrašymai atneša daug naujų patobulinimų</item>
+      <item>„Eiga“ leidžia lengvai automatizuoti užduotis, apsaugoti failus ir apdoroti dokumentus</item>
     </admin>
   </whatsNew>
   <whatsNew lang="nb">
