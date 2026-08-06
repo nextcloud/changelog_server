@@ -345,7 +345,7 @@
     </regular>
     <admin>
       <item>Requer PHP&gt; = 7.0, log, rótulo syslog &amp; config nginx alterado</item>
-      <item>Melhor conformidade com o GDPR por meio de aplicativos; log de auditoria separado</item>
+      <item>Melhor conformidade com o RGPD por meio de aplicativos; log de auditoria separado</item>
       <item>Autenticação Kerberos ao Samba; multi-IdP SAML</item>
     </admin>
   </whatsNew>
