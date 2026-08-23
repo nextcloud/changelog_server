@@ -334,7 +334,7 @@
     <admin>
       <item>Collabora Online pode ser instalado sem docker ou proxy reverso</item>
       <item>Autenticação sem senha e configurações de senha adicionais introduzidas</item>
-      <item>Atribuir grupos a contas de convidados que você criar (pode ser delegado a administradores de grupo)</item>
+      <item>Atribuir grupos a contas de visitantes que você criar (pode ser delegado a administradores de grupo)</item>
     </admin>
   </whatsNew>
   <whatsNew lang="pt_PT">
