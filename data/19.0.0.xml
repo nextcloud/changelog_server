@@ -63,9 +63,9 @@
   </whatsNew>
   <whatsNew lang="da">
     <regular>
-      <item>Tal 9 integrerer dokumentvisning / redigering og en gittervisning</item>
+      <item>Talk 9 integrerer dokumentvisning/redigering og en gittervisning</item>
       <item>Forhåndsvisninger for krita / åbne dokumentfiler som standard</item>
-      <item>Mange præstationsforbedringer i talk og filhåndtering</item>
+      <item>Mange præstationsforbedringer i Talk og filhåndtering</item>
     </regular>
     <admin>
       <item>Samarbejde Online kan installeres uden docker eller omvendt proxy</item>
