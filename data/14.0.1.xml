@@ -358,7 +358,7 @@
     <admin>
       <item>Problemas tratados com IDs de usuário incomuns</item>
       <item>Resolvido o logout da Web por OAuth</item>
-      <item>Resolved false positive in server setup check</item>
+      <item>Resolvido falso positivo na verificação de configuração do servidor</item>
     </admin>
   </whatsNew>
   <whatsNew lang="ru">
