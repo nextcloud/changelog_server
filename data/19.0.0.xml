@@ -381,7 +381,7 @@
     </regular>
     <admin>
       <item>Collabora Online sa dá nainštalovať bez docker kontajneru alebo reverzného proxy</item>
-      <item>Predstavili sme overenie bez hesla a rozšírené nastavenia hesla</item>
+      <item>Bolo predstavené overenie bez hesla a doplnkové nastavenia hesla</item>
       <item>Priradiť skupiny k návštevníckym účtom ktoré vytvárate (môže byť delegované na administrátorov)</item>
     </admin>
   </whatsNew>

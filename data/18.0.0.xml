@@ -376,7 +376,7 @@
   <whatsNew lang="sk">
     <regular>
       <item>Pracovné priestory vám umožňujú pridať popis nad vaše priečinky</item>
-      <item>Zamykanie súborov zabraňuje konfliktom pri úprave zdieľaných súborov</item>
+      <item>Zamykanie súborov zabraňuje konfliktom pri úprave zdieľaných súborov s ostatnými</item>
       <item>Flow (Tok) vám umožňuje automatizovať opakujúce sa a nudné úlohy</item>
     </regular>
     <admin>
