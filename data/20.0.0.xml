@@ -63,14 +63,14 @@
   </whatsNew>
   <whatsNew lang="da">
     <regular>
-      <item>Dashboard giver et fantastisk udgangspunkt for dagen</item>
-      <item>Ensartet søgning bringer resultater fra apps og eksterne kilder</item>
+      <item>🏁 Dashboard er et godt udgangspunkt for dagen</item>
+      <item>🔍 Samlet søgning henter resultater fra apps og eksterne kilder</item>
       <item>Talk indfører bro til andre platforme</item>
     </regular>
     <admin>
-      <item>Integration apps giver brugerne mulighed for at få adgang twitter, Jira og andre fra Nextcloud</item>
-      <item>Flow tilføjer meddelelser og web kroge for mere automatisering</item>
-      <item>Sædvanlig sikkerhed, tilgængelighed og præstationsforbedringer</item>
+      <item>Integrationsapps giver brugerne adgang til Twitter, Jira og andre fra Nextcloud</item>
+      <item>Flow tilføjer notifikationer og webhooks til mere automatisering</item>
+      <item>De sædvanlige forbedringer af sikkerhed, tilgængelighed og ydeevne</item>
     </admin>
   </whatsNew>
   <whatsNew lang="de">

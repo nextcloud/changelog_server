@@ -64,13 +64,13 @@
   <whatsNew lang="da">
     <regular>
       <item>Talk 9 integrerer dokumentvisning/redigering og en gittervisning</item>
-      <item>Forhåndsvisninger for krita / åbne dokumentfiler som standard</item>
+      <item>Forhåndsvisninger af Krita- og OpenDocument-filer som standard</item>
       <item>Mange præstationsforbedringer i Talk og filhåndtering</item>
     </regular>
     <admin>
-      <item>Samarbejde Online kan installeres uden docker eller omvendt proxy</item>
-      <item>Password- less autentification og yderligere kodeord indstillinger indført</item>
-      <item>Tildel grupper til gæstekonti, du opretter (kan uddelegeres til gruppsadministratorer)</item>
+      <item>Collabora Online kan installeres uden Docker eller omvendt proxy</item>
+      <item>Login uden adgangskode og flere indstillinger for adgangskoder er indført</item>
+      <item>Tildel grupper til de gæstekonti, du opretter (kan uddelegeres til gruppeadministratorer)</item>
     </admin>
   </whatsNew>
   <whatsNew lang="de">

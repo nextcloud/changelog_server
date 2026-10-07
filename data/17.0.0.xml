@@ -63,14 +63,14 @@
   </whatsNew>
   <whatsNew lang="da">
     <regular>
-      <item>Fjernbetjening</item>
-      <item>Vores nye distraction- free, kollaborative rige tekst editor</item>
-      <item>sikker visning gevinster eksigible dokument vandmærker</item>
+      <item>Fjernsletning</item>
+      <item>Vores nye teksteditor til samarbejde, med formatering og uden forstyrrelser</item>
+      <item>sikker visning får vandmærker i dokumenter, som kan gennemtvinges</item>
     </regular>
     <admin>
-      <item>Opsætning af tofaktorgodkendelse efter første login</item>
-      <item>LDAP- skriveunderstøttelse</item>
-      <item>S3 versioning, IBM Spectrum Scale &amp; mere</item>
+      <item>Opsætning af to-faktor-godkendelse efter første login</item>
+      <item>LDAP-skriveunderstøttelse</item>
+      <item>S3-versionering, IBM Spectrum Scale m.m.</item>
     </admin>
   </whatsNew>
   <whatsNew lang="de">

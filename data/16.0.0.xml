@@ -63,14 +63,14 @@
   </whatsNew>
   <whatsNew lang="da">
     <regular>
-      <item>Smart anbefalinger til filer, del modtagere</item>
-      <item>Projekter: gruppefiler, chats, opgaver for nem at finde</item>
+      <item>Smarte anbefalinger af filer og delingsmodtagere</item>
+      <item>Projekter: saml filer, chats og opgaver, så de er nemme at finde</item>
       <item>højreklik i Filer, nyt dokument viser &amp; mere</item>
     </regular>
     <admin>
-      <item>Maskin- learning drevet mistænkelige login opdagelse</item>
+      <item>Registrering af mistænkelige logins med maskinlæring</item>
       <item>Adgangskontrollister i gruppemapper</item>
-      <item>Variabler til ekstern opbevaring (LDAP giver '$home')</item>
+      <item>Variabler til eksternt lager (LDAP giver '$home')</item>
     </admin>
   </whatsNew>
   <whatsNew lang="de">

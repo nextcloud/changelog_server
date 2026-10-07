@@ -64,13 +64,13 @@
   <whatsNew lang="da">
     <regular>
       <item>Arbejdsområder lader dig tilføje en beskrivelse over dine mapper</item>
-      <item>Fil låsning forhindrer konflikter redigering delte filer med andre</item>
-      <item>Flow lader dig automatisere gentagne, kedelige opgaver</item>
+      <item>Fillåsning forhindrer konflikter, når du redigerer delte filer sammen med andre</item>
+      <item>Med Flow kan du automatisere gentagne, kedelige opgaver</item>
     </regular>
     <admin>
-      <item>ONLYOffice kan installeres uden docker eller omvendt proxy</item>
+      <item>ONLYOFFICE kan installeres uden Docker eller omvendt proxy</item>
       <item>Kalender, Mail og Talk omskriver bringe mange nye forbedringer</item>
-      <item>Flow lader dig nemt automatisere opgaver, beskytte filer og procesdokumenter</item>
+      <item>Med Flow kan du nemt automatisere opgaver, beskytte filer og behandle dokumenter</item>
     </admin>
   </whatsNew>
   <whatsNew lang="de">

@@ -65,7 +65,7 @@
     <regular>
       <item>Verificer modtager af en deling i et video opkald; 2FA med Signal &amp; Telegram</item>
       <item>Tilføj note til delinger; udvidet delings visning; søg i kommentarer</item>
-      <item>Tilgængelighed forbedringer, herunder høj kontrast tema</item>
+      <item>Forbedret tilgængelighed, bl.a. et tema med høj kontrast</item>
     </regular>
     <admin>
       <item>Kræver PHP &gt;=7.0, log formate, syslog tag &amp; nginx konfiguration ændret</item>

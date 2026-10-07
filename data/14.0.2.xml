@@ -63,14 +63,14 @@
   </whatsNew>
   <whatsNew lang="da">
     <regular>
-      <item>Revideret fil uploadhåndtering</item>
+      <item>Revideret håndtering af filoverførsler</item>
       <item>Kontaktmenuer på omtaler virker igen</item>
-      <item>Detaljeforbedringer (f.eks. mobil filvisning)</item>
+      <item>Detaljeforbedringer (f.eks. filvisningen på mobil)</item>
     </regular>
     <admin>
-      <item>"Tilføj gruppe" knappen på brugerens side er tilbage</item>
-      <item>"Ingen" auth type tilgængelig igen i mail indstillinger</item>
-      <item>Faste utilgængelige filer under visse betingelser</item>
+      <item>Knappen "Tilføj gruppe" på brugersiden er tilbage</item>
+      <item>Godkendelsestypen "Ingen" er tilgængelig igen i mailindstillingerne</item>
+      <item>Filer, der under visse betingelser ikke var tilgængelige, er rettet</item>
     </admin>
   </whatsNew>
   <whatsNew lang="de">

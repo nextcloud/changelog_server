@@ -63,14 +63,14 @@
   </whatsNew>
   <whatsNew lang="da">
     <regular>
-      <item>Nextcloud Social &amp; flere link aktier</item>
-      <item>Nyt design, gitter visning &amp; 2x hurtigere indlæsning af filer</item>
+      <item>Nextcloud Social og flere delingslinks pr. fil</item>
+      <item>Nyt design, gittervisning og dobbelt så hurtig indlæsning af Filer</item>
       <item>sidebar med Collabora Online &amp; Talk i sidebar</item>
     </regular>
     <admin>
-      <item>håndhævelse af 2FA &amp; sikkerhedsskader</item>
-      <item>automatisk PDF konvertering &amp; script udførelse</item>
-      <item>Opdateret Dashboard, fuld tekst søgning &amp; gruppe mapper</item>
+      <item>håndhævelse af 2FA og skærpet sikkerhed</item>
+      <item>automatisk PDF-konvertering og kørsel af scripts</item>
+      <item>Opdateret Dashboard, fuldtekstsøgning og gruppemapper</item>
     </admin>
   </whatsNew>
   <whatsNew lang="de">
@@ -389,7 +389,7 @@
     <regular>
       <item>Nextcloud sociálne a viac odkazové zdieľania</item>
       <item>Nový dizajn, zobrazenie v mriežke a 2x rýchlejšie načítanie aplikácie Súbory</item>
-      <item> bočný panel s Collabora Online a Rozhovorom</item>
+      <item>bočný panel s Collabora Online a Talk</item>
     </regular>
     <admin>
       <item>vynútenie dvojfázového overovania a posilnenie zabezpečenia</item>

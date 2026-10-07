@@ -63,14 +63,14 @@
   </whatsNew>
   <whatsNew lang="da">
     <regular>
-      <item>Flere detaljer forbedringer i brugergrænsefladen</item>
-      <item>f.eks. lysikoner med det mørke tema</item>
-      <item>eller undgå at overlappe indsendelsesknappen i kommentarer</item>
+      <item>Flere små forbedringer i brugergrænsefladen</item>
+      <item>f.eks. lyse ikoner med det mørke tema</item>
+      <item>eller at knappen til at sende ikke dækkes til i kommentarer</item>
     </regular>
     <admin>
-      <item>Behandlede problemer med ualmindelige bruger-id 'er</item>
-      <item>Fast weblogout ved brug af OAuth</item>
-      <item>Løs falsk positiv i serveropsætningscheck</item>
+      <item>Problemer med usædvanlige bruger-id'er er løst</item>
+      <item>Weblogout ved brug af OAuth er rettet</item>
+      <item>En falsk positiv i tjekket af serveropsætningen er løst</item>
     </admin>
   </whatsNew>
   <whatsNew lang="de">
