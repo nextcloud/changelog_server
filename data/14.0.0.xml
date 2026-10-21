@@ -447,7 +447,7 @@
   </whatsNew>
   <whatsNew lang="tr">
     <regular>
-      <item>Görüntülü çağrı sırasında bir paylaşım alıcısının kimliğini doğrulama; Signal ve Telegram için iki adımlı doğrulama</item>
+      <item>Görüntülü arama sırasında bir paylaşım alıcısının kimliğini doğrulama; Signal ve Telegram için iki adımlı doğrulama</item>
       <item>Paylaşımlara not ekleme; gelişmiş paylaşım görünümleri; yorum içeriklerine göre dosya arama</item>
       <item>Yüksek karşıtlık teması ile birlikte erişebilirlik iyileştirmeleri</item>
     </regular>
