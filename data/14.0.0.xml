@@ -68,7 +68,7 @@
       <item>Forbedret tilgængelighed, bl.a. et tema med høj kontrast</item>
     </regular>
     <admin>
-      <item>Kræver PHP &gt;=7.0, log formate, syslog tag &amp; nginx konfiguration ændret</item>
+      <item>Kræver PHP &gt;= 7.0; logformat, syslog-tag og nginx-konfiguration er ændret</item>
       <item>Forbedret GDPR efterlevelse med apps; særskilt audit log</item>
       <item>Kerberos auth til Samba; multi-IDP SAML</item>
     </admin>
