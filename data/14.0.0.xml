@@ -361,6 +361,18 @@
       <item>Autenticação Kerberos ao Samba; multi-IdP SAML</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="ro">
+    <regular>
+      <item>Verificarea destinatarului unei partajări printr-un apel video; autentificare în doi pași prin Signal și Telegram</item>
+      <item>Adaugă o notă la partajări; vizualizări extinse ale partajărilor; căutare după comentarii</item>
+      <item>Îmbunătățiri de accesibilitate, inclusiv o temă cu contrast ridicat</item>
+    </regular>
+    <admin>
+      <item>Necesită PHP &gt;= 7.0; s-au schimbat formatul jurnalului, eticheta syslog și configurația nginx</item>
+      <item>Conformitate GDPR îmbunătățită prin aplicații; jurnal de audit separat</item>
+      <item>Autentificare Kerberos în Samba; SAML cu mai mulți furnizori de identitate (IdP)</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="ru">
     <regular>
       <item>Проверка подлинности получателя общего ресурса с помощью видеовызова; Использование мессенджеров Signal и Telegram для двухфакторной авторизации;</item>

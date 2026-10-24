@@ -349,6 +349,18 @@
       <item>Melhorias usuais de segurança, acessibilidade e desempenho</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="ro">
+    <regular>
+      <item>🏁 Panoul de control este un punct de plecare excelent pentru ziua ta</item>
+      <item>🔍 Căutarea unificată aduce rezultate din aplicații și din surse externe</item>
+      <item>🗨 Talk a introdus conectarea cu alte platforme</item>
+    </regular>
+    <admin>
+      <item>Aplicațiile de integrare le permit utilizatorilor să acceseze Twitter, Jira și altele din Nextcloud</item>
+      <item>Flux adaugă notificări și webhookuri pentru mai multă automatizare</item>
+      <item>Obișnuitele îmbunătățiri de securitate, accesibilitate și performanță</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="ru">
     <regular>
       <item>Новая начальная страница 🏁 в панели управления;</item>

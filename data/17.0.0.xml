@@ -361,6 +361,18 @@
       <item>Versão S3, IBM Spectrum Scale e mais</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="ro">
+    <regular>
+      <item>Ștergere de la distanță</item>
+      <item>Noul nostru editor de text formatat, colaborativ și fără distrageri</item>
+      <item>vizualizarea securizată primește filigrane obligatorii pe documente</item>
+    </regular>
+    <admin>
+      <item>Configurarea autentificării în doi pași după prima autentificare</item>
+      <item>Suport pentru scriere în LDAP</item>
+      <item>Versionare S3, IBM Spectrum Scale și altele</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="ru">
     <regular>
       <item>Поддержка принудительного стирания файлов с устройств;</item>

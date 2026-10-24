@@ -331,6 +331,17 @@
       <item>Temas: os ficheiros CSS foram consolidados</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="ro">
+    <regular>
+      <item>Interfață de utilizator rafinată</item>
+      <item>Criptare end-to-end</item>
+      <item>Chat video și text</item>
+    </regular>
+    <admin>
+      <item>Modificări în configurația Nginx</item>
+      <item>Teme: fișierele CSS au fost unificate</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="ru">
     <regular>
       <item>Улучшенный пользовательский интерфейс;</item>

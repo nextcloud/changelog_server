@@ -361,6 +361,18 @@
       <item>Painel Atualizado, Pesquisa de Texto Completo e Pastas de Grupo</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="ro">
+    <regular>
+      <item>Nextcloud Social și mai multe linkuri de partajare</item>
+      <item>Design nou, vizualizare în grilă și încărcare de 2 ori mai rapidă în Fișiere</item>
+      <item>bară laterală cu Collabora Online și Talk în bara laterală</item>
+    </regular>
+    <admin>
+      <item>impunerea autentificării în doi pași și consolidări de securitate</item>
+      <item>conversie automată în PDF și execuție de scripturi</item>
+      <item>Panou de control, Căutare în tot textul și Dosare de grup actualizate</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="ru">
     <regular>
       <item>Публикация в социальных сетях и возможность создавать различные ссылки для публикации одного и того же ресурса;</item>

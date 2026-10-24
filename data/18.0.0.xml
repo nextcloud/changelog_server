@@ -349,6 +349,18 @@
       <item>O Flow permite automatizar tarefas com facilidade, proteger arquivos e processar documentos</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="ro">
+    <regular>
+      <item>Spațiile de lucru îți permit să adaugi o descriere deasupra dosarelor</item>
+      <item>Blocarea fișierelor previne conflictele la editarea fișierelor partajate cu alții</item>
+      <item>Flux îți permite să automatizezi sarcinile repetitive și plictisitoare</item>
+    </regular>
+    <admin>
+      <item>ONLYOFFICE poate fi instalat fără Docker sau proxy invers</item>
+      <item>Rescrierea aplicațiilor Calendar, Mail și Talk aduce multe îmbunătățiri</item>
+      <item>Flux îți permite să automatizezi ușor sarcini, să protejezi fișiere și să procesezi documente</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="ru">
     <regular>
       <item>Показ дополнительных сведений в приложении Файлы позволяет создавать дополнительные описания папок;</item>

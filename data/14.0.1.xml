@@ -361,6 +361,18 @@
       <item>Resolvido falso positivo na verificação de configuração do servidor</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="ro">
+    <regular>
+      <item>Mai multe îmbunătățiri de detaliu în interfață</item>
+      <item>de exemplu, pictograme deschise la culoare cu tema întunecată</item>
+      <item>sau evitarea suprapunerii butonului de trimitere în comentarii</item>
+    </regular>
+    <admin>
+      <item>Au fost rezolvate problemele cu ID-uri de utilizator neobișnuite</item>
+      <item>A fost reparată deconectarea din web la folosirea OAuth</item>
+      <item>A fost rezolvată o alertă falsă din verificarea configurării serverului</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="ru">
     <regular>
       <item>Некоторые улучшения в пользовательском интерфейсе:</item>

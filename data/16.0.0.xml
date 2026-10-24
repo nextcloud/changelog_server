@@ -361,6 +361,18 @@
       <item>Variáveis para armazenamento externo (o LDAP fornece '$home')</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="ro">
+    <regular>
+      <item>Recomandări inteligente pentru fișiere și destinatari ai partajărilor</item>
+      <item>Proiecte: grupează fișiere, chaturi și sarcini pentru a le găsi ușor</item>
+      <item>clic dreapta în Fișiere, vizualizator nou de documente și altele</item>
+    </regular>
+    <admin>
+      <item>Detectarea autentificărilor suspecte bazată pe învățare automată</item>
+      <item>Liste de control al accesului (ACL) în Dosare de grup</item>
+      <item>Variabile pentru stocarea externă (LDAP furnizează „$home”)</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="ru">
     <regular>
       <item>Умные рекомендации для файлов и получателей общих ресурсов </item>

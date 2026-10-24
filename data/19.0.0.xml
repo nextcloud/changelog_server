@@ -349,6 +349,18 @@
       <item>Atribuir grupos a contas de convidados que você criar (pode ser delegado a administradores de grupo)</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="ro">
+    <regular>
+      <item>Talk 9 integrează vizualizarea și editarea documentelor și o vizualizare în grilă</item>
+      <item>Previzualizări implicite pentru fișiere Krita și OpenDocument</item>
+      <item>Multe îmbunătățiri de performanță în Talk și în gestionarea fișierelor</item>
+    </regular>
+    <admin>
+      <item>Collabora Online poate fi instalat fără Docker sau proxy invers</item>
+      <item>Au fost introduse autentificarea fără parolă și setări suplimentare pentru parole</item>
+      <item>Atribuie grupuri conturilor de invitat pe care le creezi (poate fi delegat administratorilor de grup)</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="ru">
     <regular>
       <item>В приложение «Конференции» версии 9 встроены просмотр и редактирование документов и режим просмотра сеткой;</item>

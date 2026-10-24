@@ -361,6 +361,18 @@
       <item>Corrigidos arquivos indisponíveis sob algumas condições</item>
     </admin>
   </whatsNew>
+  <whatsNew lang="ro">
+    <regular>
+      <item>Gestionare revizuită a încărcării fișierelor</item>
+      <item>Meniurile de contact de la mențiuni funcționează din nou</item>
+      <item>Îmbunătățiri de detaliu (de exemplu, vizualizarea fișierelor pe mobil)</item>
+    </regular>
+    <admin>
+      <item>Butonul „Adaugă un grup” a revenit pe pagina utilizatorilor</item>
+      <item>Tipul de autentificare „Niciunul” este din nou disponibil în setările de e-mail</item>
+      <item>Au fost reparate fișierele indisponibile în anumite condiții</item>
+    </admin>
+  </whatsNew>
   <whatsNew lang="ru">
     <regular>
       <item>Перепроверены процедуры обработки загружаемых файлов;</item>
