@@ -351,7 +351,7 @@
   </whatsNew>
   <whatsNew lang="ro">
     <regular>
-      <item>🏁 Panoul de control este un punct de plecare excelent pentru ziua ta</item>
+      <item>🏁 Tabloul de bord este un punct de plecare excelent pentru ziua ta</item>
       <item>🔍 Căutarea unificată aduce rezultate din aplicații și din surse externe</item>
       <item>🗨 Talk a introdus conectarea cu alte platforme</item>
     </regular>
@@ -388,12 +388,12 @@
   <whatsNew lang="sk">
     <regular>
       <item>🏁 Dashboard poskytuje skvelý východiskový bod pre začatie dňa.</item>
-      <item>🔍 Centralizované vyhľadávanie poskytuje výsledky z aplikácii a externých zdrojov</item>
-      <item>🗨 Rozhovor predstavuje konektory k iným platformám</item>
+      <item>🔍 Jednotné vyhľadávanie prináša výsledky z aplikácií a externých zdrojov</item>
+      <item>🗨 Talk zaviedol premostenie s inými platformami</item>
     </regular>
     <admin>
-      <item>Integračné aplikácie poskytujú užívateľom prístup k twitteru, Jira a iných z Nextcloudu</item>
-      <item>Flow pridáva oznámenia a web hooky pre väčšiu automatizáciu</item>
+      <item>Integračné aplikácie umožňujú používateľom pristupovať z Nextcloudu k Twitteru, Jire a ďalším službám</item>
+      <item>Flow pridáva oznámenia a webhooky pre väčšiu automatizáciu</item>
       <item>Bežné vylepšenia bezpečnosti, sprístupnenia a výkonu</item>
     </admin>
   </whatsNew>

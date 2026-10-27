@@ -367,12 +367,12 @@
   <whatsNew lang="sk">
     <regular>
       <item>Vylepšené používateľské rozhranie</item>
-      <item>Šifrovanie po celej dĺžke spojenia</item>
+      <item>Šifrovanie medzi koncovými zariadeniami</item>
       <item>Video a textová konverzácia</item>
     </regular>
     <admin>
       <item>Zmeny v konfigurácii Nginx</item>
-      <item>Témy vzhľadu: súbory CSS boli konsolidované</item>
+      <item>Vzhľad: súbory CSS boli konsolidované</item>
     </admin>
   </whatsNew>
   <whatsNew lang="sl">

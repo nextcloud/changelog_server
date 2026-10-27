@@ -404,9 +404,9 @@
       <item>klikanie pravým tlačidlom v Súboroch, nový prehliadač dokumentov a ďalšie</item>
     </regular>
     <admin>
-      <item>Na strojovom učení založené zisťovanie podozrivých prihlásení</item>
+      <item>Detekcia podozrivých prihlásení založená na strojovom učení</item>
       <item>Zoznamy riadenia prístupu v priečinkoch skupín</item>
-      <item>Premenné pre externý ukladací priestor (LDAP poskytuje '$ home')</item>
+      <item>Premenné pre externé úložisko (LDAP poskytuje '$home')</item>
     </admin>
   </whatsNew>
   <whatsNew lang="sl">

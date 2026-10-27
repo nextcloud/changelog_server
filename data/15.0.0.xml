@@ -370,7 +370,7 @@
     <admin>
       <item>impunerea autentificării în doi pași și consolidări de securitate</item>
       <item>conversie automată în PDF și execuție de scripturi</item>
-      <item>Panou de control, Căutare în tot textul și Dosare de grup actualizate</item>
+      <item>Tablou de bord, Căutare în tot textul și Dosare de grup actualizate</item>
     </admin>
   </whatsNew>
   <whatsNew lang="ru">
@@ -399,12 +399,12 @@
   </whatsNew>
   <whatsNew lang="sk">
     <regular>
-      <item>Nextcloud sociálne a viac odkazové zdieľania</item>
+      <item>Nextcloud Social a viacnásobné zdieľanie odkazov</item>
       <item>Nový dizajn, zobrazenie v mriežke a 2x rýchlejšie načítanie aplikácie Súbory</item>
       <item>bočný panel s Collabora Online a Talk</item>
     </regular>
     <admin>
-      <item>vynútenie dvojfázového overovania a posilnenie zabezpečenia</item>
+      <item>Vynucovanie 2FA a zlepšenia zabezpečenia</item>
       <item>automatický prevod do PDF a vykonávanie skriptov</item>
       <item>Aktualizovaná nástenka, celotextové vyhľadávanie a skupinové priečinky</item>
     </admin>

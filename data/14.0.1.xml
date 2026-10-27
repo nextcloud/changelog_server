@@ -401,7 +401,7 @@
     <regular>
       <item>Niekoľko drobných vylepšení v používateľskom rozhraní</item>
       <item>napr. svetlé ikony v tmavej téme vzhľadu</item>
-      <item>alebo zabránenie prekrytia tlačidla odoslania v komentároch</item>
+      <item>alebo zabránenie prekrývaniu tlačidla odoslania v komentároch</item>
     </regular>
     <admin>
       <item>Opravené problémy s nezvyčajnými identifikátormi používateľov</item>

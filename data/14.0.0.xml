@@ -399,14 +399,14 @@
   </whatsNew>
   <whatsNew lang="sk">
     <regular>
-      <item>Overte príjemcu zdieľania pri video hovore; 2FA pomocou Signal &amp; Telegram</item>
+      <item>Overte príjemcu zdieľania počas videohovoru; 2FA cez Signal a Telegram</item>
       <item>Pridať poznámku k zdieľaniam; rozšírené zobrazenia zdieľaní; hľadať podľa komentárov</item>
-      <item>Zlepšenie použiteľnosti pre hendikepovaných, vrátane témy vzhľadu s vysokým kontrastom</item>
+      <item>Vylepšenia prístupnosti vrátane témy s vysokým kontrastom</item>
     </regular>
     <admin>
-      <item>Vyžaduje PHP 7.0 a novší – formát záznamu udalostí, štítok a nastavenie nginx bolo v syslog zmenené</item>
+      <item>Vyžaduje PHP &gt;= 7.0; formát záznamov, značka syslogu a konfigurácia Nginxu boli zmenené</item>
       <item>Zlepšený súlad s GDPR prostredníctvom aplikácií; samostatný protokol auditu</item>
-      <item>Kerberos overovanie k Samba; multi-IdP SAML</item>
+      <item>Overovanie Kerberos v Sambe; SAML s viacerými poskytovateľmi identity</item>
     </admin>
   </whatsNew>
   <whatsNew lang="sl">
