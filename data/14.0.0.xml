@@ -63,14 +63,14 @@
   </whatsNew>
   <whatsNew lang="da">
     <regular>
-      <item>Verificer modtager af en deling i et video opkald; 2FA med Signal &amp; Telegram</item>
-      <item>Tilføj note til delinger; udvidet delings visning; søg i kommentarer</item>
+      <item>Bekræft en delingsmodtager i et videoopkald; 2FA med Signal og Telegram</item>
+      <item>Tilføj en note til delinger; udvidede delingsvisninger; søg i kommentarer</item>
       <item>Forbedret tilgængelighed, bl.a. et tema med høj kontrast</item>
     </regular>
     <admin>
       <item>Kræver PHP &gt;= 7.0; logformat, syslog-tag og nginx-konfiguration er ændret</item>
-      <item>Forbedret GDPR efterlevelse med apps; særskilt audit log</item>
-      <item>Kerberos auth til Samba; multi-IDP SAML</item>
+      <item>Bedre GDPR-overholdelse via apps; separat revisionslog</item>
+      <item>Kerberos-godkendelse til Samba; SAML med flere IdP'er</item>
     </admin>
   </whatsNew>
   <whatsNew lang="de">
